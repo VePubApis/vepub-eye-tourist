@@ -1,26 +1,32 @@
 [
   {
-    "title": "Cox's Bazar",
-    "image": "assets/images/popular/coxs_bazar.jpg"
+    "title_en": "Cox's Bazar",
+    "title_bn": "কক্সবাজার",
+    "image": "https://drive.google.com/uc?export=view&id=18kbJXOyICWXZELBSwCq3c2e5KA3MmY__"
   },
   {
-    "title": "Bandarban",
-    "image": "assets/images/popular/bandarban.jpg"
+    "title_en": "Bandarban",
+    "title_bn": "বান্দরবন",
+    "image": "https://drive.google.com/uc?export=view&id=1F9uKbbQVzL0UwvV2jv2fQ55qzwW9UNZn"
   },
   {
-    "title": "Dhaka",
-    "image": "assets/images/popular/dhaka.jpg"
+    "title_en": "Dhaka",
+    "title_bn": "ঢাকা",
+    "image": "https://drive.google.com/uc?export=view&id=1xU8dqf8Bjnq9mhFM3JM2BS9Qn0-TEdXb"
   },
   {
-    "title": "Chattogram",
-    "image": "assets/images/popular/chattogram.jpg"
+    "title_en": "Chattogram",
+    "title_bn": "চট্টগ্রাম",
+    "image": "https://drive.google.com/uc?export=view&id=1sweLh8XVbPNmA1Oy0doRuVZoav21IyJt"
   },
   {
-    "title": "Khulna",
-    "image": "assets/images/popular/khulna.jpg"
+    "title_en": "Khulna",
+    "title_bn": "খুলনা",
+    "image": "https://drive.google.com/uc?export=view&id=1cF401Q0cEEOOvkbgkaX4D7NFd_2a3bj5"
   },
   {
-    "title": "Sylhet",
-    "image": "assets/images/popular/sylhet.jpg"
+    "title_en": "Sylhet",
+    "title_bn": "সিলেট",
+    "image": "https://drive.google.com/uc?export=view&id=1j4Bowumd5dCP8hF8FIca-APbyYSe0Fij"
   }
 ]
