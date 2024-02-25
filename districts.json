@@ -1,0 +1,386 @@
+[
+  {
+    "title_en": "Bagerhat",
+    "title_bn": "বাগেরহাট",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Barguna",
+    "title_bn": "বরগুনা",
+    "division_en": "Barishal",
+    "division_bn": "বরিশাল"
+  },
+  {
+    "title_en": "Barishal",
+    "title_bn": "বরিশাল",
+    "division_en": "Barishal",
+    "division_bn": "বরিশাল"
+  },
+  {
+    "title_en": "Bandarban",
+    "title_bn": "বান্দরবন",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Bhola",
+    "title_bn": "ভোলা",
+    "division_en": "Barishal",
+    "division_bn": "বরিশাল"
+  },
+  {
+    "title_en": "Bogura",
+    "title_bn": "বগুড়া",
+    "division_en": "Rajshahi",
+    "division_bn": "রাজশাহী"
+  },
+  {
+    "title_en": "Brahmanbaria",
+    "title_bn": "ব্রাহ্মণবাড়িয়া",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Chandpur",
+    "title_bn": "চাঁদপুর",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Chattogram",
+    "title_bn": "চট্টগ্রাম",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Chuadanga",
+    "title_bn": "চুয়াডাঙ্গা",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Comilla",
+    "title_bn": "কুমিল্লা",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Cox's Bazar",
+    "title_bn": "কক্সবাজার",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Dhaka",
+    "title_bn": "ঢাকা",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Dinajpur",
+    "title_bn": "দিনাজপুর",
+    "division_en": "Rangpur",
+    "division_bn": "রংপুর"
+  },
+  {
+    "title_en": "Faridpur",
+    "title_bn": "ফরিদপুর",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Feni",
+    "title_bn": "ফেনী",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Gaibandha",
+    "title_bn": "গাইবান্ধা",
+    "division_en": "Rangpur",
+    "division_bn": "রংপুর"
+  },
+  {
+    "title_en": "Gazipur",
+    "title_bn": "গাজীপুর",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Gopalganj",
+    "title_bn": "গোপালগঞ্জ",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Habiganj",
+    "title_bn": "হবিগঞ্জ",
+    "division_en": "Sylhet",
+    "division_bn": "সিলেট"
+  },
+  {
+    "title_en": "Jamalpur",
+    "title_bn": "জামালপুর",
+    "division_en": "Mymensingh",
+    "division_bn": "ময়মনসিংহ"
+  },
+  {
+    "title_en": "Jashore",
+    "title_bn": "যশোর",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Jhalokati",
+    "title_bn": "ঝালকাঠি",
+    "division_en": "Barishal",
+    "division_bn": "বরিশাল"
+  },
+  {
+    "title_en": "Jhenaidah",
+    "title_bn": "ঝিনাইদহ",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Joypurhat",
+    "title_bn": "জয়পুরহাট",
+    "division_en": "Rajshahi",
+    "division_bn": "রাজশাহী"
+  },
+  {
+    "title_en": "Khagrachari",
+    "title_bn": "খাগড়াছড়ি",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Khulna",
+    "title_bn": "খুলনা",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Kishoreganj",
+    "title_bn": "কিশোরগঞ্জ",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Kurigram",
+    "title_bn": "কুড়িগ্রাম",
+    "division_en": "Rangpur",
+    "division_bn": "রংপুর"
+  },
+  {
+    "title_en": "Kushtia",
+    "title_bn": "কুষ্টিয়া",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Lakshmipur",
+    "title_bn": "লক্ষ্মীপুর",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Lalmonirhat",
+    "title_bn": "লালমনিরহাট",
+    "division_en": "Rangpur",
+    "division_bn": "রংপুর"
+  },
+  {
+    "title_en": "Magura",
+    "title_bn": "মাগুরা",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Madaripur",
+    "title_bn": "মাদারীপুর",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Manikganj",
+    "title_bn": "মানিকগঞ্জ",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Maulvibazar",
+    "title_bn": "মৌলভীবাজার",
+    "division_en": "Sylhet",
+    "division_bn": "সিলেট"
+  },
+  {
+    "title_en": "Meherpur",
+    "title_bn": "মেহেরপুর",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Munshiganj",
+    "title_bn": "মুন্সিগঞ্জ",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Mymensingh",
+    "title_bn": "ময়মনসিংহ",
+    "division_en": "Mymensingh",
+    "division_bn": "ময়মনসিংহ"
+  },
+  {
+    "title_en": "Narail",
+    "title_bn": "নড়াইল",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Narayanganj",
+    "title_bn": "নারায়ণগঞ্জ",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Naogaon",
+    "title_bn": "নওগাঁ",
+    "division_en": "Rajshahi",
+    "division_bn": "রাজশাহী"
+  },
+  {
+    "title_en": "Natore",
+    "title_bn": "নাটোর",
+    "division_en": "Rajshahi",
+    "division_bn": "রাজশাহী"
+  },
+  {
+    "title_en": "Nawabganj",
+    "title_bn": "নবাবগঞ্জ",
+    "division_en": "Rajshahi",
+    "division_bn": "রাজশাহী"
+  },
+  {
+    "title_en": "Narsingdi",
+    "title_bn": "নরসিংদী",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Netrokona",
+    "title_bn": "নেত্রকোণা",
+    "division_en": "Mymensingh",
+    "division_bn": "ময়মনসিংহ"
+  },
+  {
+    "title_en": "Nilphamari",
+    "title_bn": "নীলফামারী",
+    "division_en": "Rangpur",
+    "division_bn": "রংপুর"
+  },
+  {
+    "title_en": "Noakhali",
+    "title_bn": "নোয়াখালী",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Pabna",
+    "title_bn": "পাবনা",
+    "division_en": "Rajshahi",
+    "division_bn": "রাজশাহী"
+  },
+  {
+    "title_en": "Panchagarh",
+    "title_bn": "পঞ্চগড়",
+    "division_en": "Rangpur",
+    "division_bn": "রংপুর"
+  },
+  {
+    "title_en": "Patuakhali",
+    "title_bn": "পটুয়াখালী",
+    "division_en": "Barishal",
+    "division_bn": "বরিশাল"
+  },
+  {
+    "title_en": "Pirojpur",
+    "title_bn": "পিরোজপুর",
+    "division_en": "Barishal",
+    "division_bn": "বরিশাল"
+  },
+  {
+    "title_en": "Rajbari",
+    "title_bn": "রাজবাড়ী",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Rajshahi",
+    "title_bn": "রাজশাহী",
+    "division_en": "Rajshahi",
+    "division_bn": "রাজশাহী"
+  },
+  {
+    "title_en": "Rangamati",
+    "title_bn": "রাঙ্গামাটি",
+    "division_en": "Chattogram",
+    "division_bn": "চট্টগ্রাম"
+  },
+  {
+    "title_en": "Rangpur",
+    "title_bn": "রংপুর",
+    "division_en": "Rangpur",
+    "division_bn": "রংপুর"
+  },
+  {
+    "title_en": "Sherpur",
+    "title_bn": "শেরপুর",
+    "division_en": "Mymensingh",
+    "division_bn": "ময়মনসিংহ"
+  },
+  {
+    "title_en": "Shariatpur",
+    "title_bn": "শরীয়তপুর",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Shatkhira",
+    "title_bn": "সাতক্ষীরা",
+    "division_en": "Khulna",
+    "division_bn": "খুলনা"
+  },
+  {
+    "title_en": "Sirajganj",
+    "title_bn": "সিরাজগঞ্জ",
+    "division_en": "Rajshahi",
+    "division_bn": "রাজশাহী"
+  },
+  {
+    "title_en": "Sunamganj",
+    "title_bn": "সুনামগঞ্জ",
+    "division_en": "Sylhet",
+    "division_bn": "সিলেট"
+  },
+  {
+    "title_en": "Sylhet",
+    "title_bn": "সিলেট",
+    "division_en": "Sylhet",
+    "division_bn": "সিলেট"
+  },
+  {
+    "title_en": "Tangail",
+    "title_bn": "টাঙ্গাইল",
+    "division_en": "Dhaka",
+    "division_bn": "ঢাকা"
+  },
+  {
+    "title_en": "Thakurgaon",
+    "title_bn": "ঠাকুরগাঁও",
+    "division_en": "Rangpur",
+    "division_bn": "রংপুর"
+  }
+]
