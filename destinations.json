@@ -1,0 +1,58 @@
+[
+    {
+      "id": "0001",
+      "title": "Inani Beach",
+      "district": "Cox's Bazar",
+      "division": "Chattogram",
+      "category": "Beaches",
+      "image": "https://drive.google.com/uc?export=view&id=16iPmgblbmdmGOQDSe4otuQC91zohZnHP"
+    },
+    {
+        "id": "0002",
+        "title": "Kaptai Lake",
+        "district": "Chattogram",
+        "division": "Chattogram",
+        "category": "Lakes",
+        "image": "https://drive.google.com/uc?export=view&id=12qCZkxtcoPGepU5SP7NWHfO80TCa1PFQ"
+      },
+      {
+        "id": "0003",
+        "title": "Nil Giri",
+        "district": "Bandarban",
+        "division": "Chattogram",
+        "category": "Mountains",
+        "image": "https://drive.google.com/uc?export=view&id=1R3O8d93MEqPSuKIhppxw2vWZ051eRiVQ"
+      },
+      {
+        "id": "0004",
+        "title": "Hiron Point",
+        "district": "Bagerhat",
+        "division": "Khulna",
+        "category": "Forests",
+        "image":  "https://drive.google.com/uc?export=view&id=1lYLM4_CNK6gtEnF7n-85DUlpIaT0t_W4"
+      },
+      {
+        "id": "0005",
+        "title": "Tanguar Haor",
+        "district": "Sunamganj",
+        "division": "Sylhet",
+        "category": "Lakes",
+        "image": "https://drive.google.com/uc?export=view&id=1UMHMlxMx8Yfd38fEjtedCSUIcJzZiDsj"
+      },
+      {
+        "id": "0006",
+        "title": "Jaflong",
+        "district": "Sylhet",
+        "division": "Sylhet",
+        "category": "Waterfalls",
+        "image": "https://drive.google.com/uc?export=view&id=178TVgwEj7GMRUR1pwapw-8raVojL1Aq7"
+      },
+      {
+        "id": "0007",
+        "title": "Sajek Valley",
+        "district": "Khagrachari",
+        "division": "Chattogram",
+        "category": "Mountains",
+        "image": "https://drive.google.com/uc?export=view&id=1gPmuTI4p5ERlXBxleq7wVMYNlkaC58bY"
+      }
+]
