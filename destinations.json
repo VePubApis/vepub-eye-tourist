@@ -49,10 +49,42 @@
       },
       {
         "id": "0007",
+        "title": "Sundarbans",
+        "district": "Bagerhat",
+        "division": "Khulna",
+        "category": "Forests",
+        "image": "https://drive.google.com/uc?export=view&id=1gPmuTI4p5ERlXBxleq7wVMYNlkaC58bY"
+      },
+      {
+        "id": "0008",
+        "title": "Cox's Bazar",
+        "district": "Cox's Bazar",
+        "division": "Chattogram",
+        "category": "Beaches",
+        "image": "https://drive.google.com/uc?export=view&id=1avzboa_w-KDU73YFmich2c7-AYmAFbRV"
+      },
+      {
+        "id": "0009",
+        "title": "Saint Martins",
+        "district": "Cox's Bazar",
+        "division": "Chattogram",
+        "category": "Beaches",
+        "image": "https://drive.google.com/uc?export=view&id=1nKYSsbmIsx4jYPwMJ2MdCWK4-rg9vAn4"
+      },
+      {
+        "id": "0010",
+        "title": "Nafakhum",
+        "district": "Bandarban",
+        "division": "Chattogram",
+        "category": "Waterfalls",
+        "image": "https://drive.google.com/uc?export=view&id=1LeJgt2_QgP4fU18txwVMtcBjp6jN4ddA"
+      },
+      {
+        "id": "0011",
         "title": "Sajek Valley",
-        "district": "Khagrachari",
+        "district": "Rangamati",
         "division": "Chattogram",
         "category": "Mountains",
-        "image": "https://drive.google.com/uc?export=view&id=1gPmuTI4p5ERlXBxleq7wVMYNlkaC58bY"
+        "image": "https://drive.google.com/uc?export=view&id=1bRL8EpjW5VOtysYbIl4snk-JFxNabdNK"
       }
 ]
