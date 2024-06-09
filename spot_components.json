@@ -1,32 +1,26 @@
 [
   {
-    "title_en": "Hotels",
-    "title_bn": "হোটেল",
-    "image": "https://drive.google.com/uc?export=view&id=1EaSpxnvrj3MFqhEpaC1Pv_KnZIuGIPkF"
-  },
-  {
-    "title_en": "Nearest",
-    "title_bn": "নিকটবর্তী",
-    "image": "https://drive.google.com/uc?export=view&id=1cs1WH8F9SfZ44fadMFxoeeQ7LS_dtM8t"
-  },
-  {
-    "title_en": "Plans",
-    "title_bn": "পরিকল্পনা",
+    "title": "Plans",
     "image": "https://drive.google.com/uc?export=view&id=1fSwrVt9EHCSXW7nK2GhyCzw_zrzUn8RV"
   },
   {
-    "title_en": "Seasons",
-    "title_bn": "মৌসুম",
+    "title": "Hotels",
+    "image": "https://drive.google.com/uc?export=view&id=1EaSpxnvrj3MFqhEpaC1Pv_KnZIuGIPkF"
+  },
+  {
+    "title": "Nearest",
+    "image": "https://drive.google.com/uc?export=view&id=1cs1WH8F9SfZ44fadMFxoeeQ7LS_dtM8t"
+  },
+  {
+    "title": "Seasons",
     "image": "https://drive.google.com/uc?export=view&id=1VgmDm_V2MQbLO0QH9WiiFhtMprrfOmVU"
   },
   {
-    "title_en": "Specials",
-    "title_bn": "বিশেষ",
+    "title": "Specials",
     "image": "https://drive.google.com/uc?export=view&id=1oWGN-dGkK3_c5rLE5sRlUybxweI8A3-B"
   },
   {
-    "title_en": "Cautions",
-    "title_bn": "সতর্কতা",
+    "title": "Cautions",
     "image": "https://drive.google.com/uc?export=view&id=1t9mE_Bb3ifaBjLDkawPvDebjhvSlWVQk"
   }
 ]
