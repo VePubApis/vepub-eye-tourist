@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0001",
+        "title": "Inani Beach",
+        "onImageTitle": "Inani Beach",
+        "district": "Cox's Bazar",
+        "division": "Chattogram",
+        "category": "Beaches",
+        "image": "https://drive.google.com/uc?export=view&id=16iPmgblbmdmGOQDSe4otuQC91zohZnHP"
+    },
+    {
+        "id": "0002",
+        "title": "Kaptai Lake",
+        "onImageTitle": "Kaptai Lake",
+        "district": "Chattogram",
+        "division": "Chattogram",
+        "category": "Lakes",
+        "image": "https://drive.google.com/uc?export=view&id=12qCZkxtcoPGepU5SP7NWHfO80TCa1PFQ"
+    },
+    {
+        "id": "0003",
+        "title": "Nil Giri",
+        "onImageTitle": "Nil Giri",
+        "district": "Bandarban",
+        "division": "Chattogram",
+        "category": "Mountains",
+        "image": "https://drive.google.com/uc?export=view&id=1R3O8d93MEqPSuKIhppxw2vWZ051eRiVQ"
+    },
+    {
+        "id": "0004",
+        "title": "Hiron Point",
+        "onImageTitle": "Hiron Point",
+        "district": "Bagerhat",
+        "division": "Khulna",
+        "category": "Forests",
+        "image": "https://drive.google.com/uc?export=view&id=1lYLM4_CNK6gtEnF7n-85DUlpIaT0t_W4"
+    }
+]
