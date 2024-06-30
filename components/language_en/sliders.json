@@ -5,7 +5,9 @@
     "onImageTitle": "Sundarbans",
     "district": "Bagerhat",
     "division": "Khulna",
-    "category": "Forests",
+    "category": [
+      "Forests"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1gPmuTI4p5ERlXBxleq7wVMYNlkaC58bY"
   },
   {
@@ -14,7 +16,9 @@
     "onImageTitle": "Cox's Bazar",
     "district": "Cox's Bazar",
     "division": "Chattogram",
-    "category": "Beaches",
+    "category": [
+      "Beaches"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1avzboa_w-KDU73YFmich2c7-AYmAFbRV"
   },
   {
@@ -23,7 +27,10 @@
     "onImageTitle": "Saint Martins",
     "district": "Cox's Bazar",
     "division": "Chattogram",
-    "category": "Beaches",
+    "category": [
+      "Beaches",
+      "Islands"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1nKYSsbmIsx4jYPwMJ2MdCWK4-rg9vAn4"
   },
   {
@@ -32,7 +39,9 @@
     "onImageTitle": "Nafakhum",
     "district": "Bandarban",
     "division": "Chattogram",
-    "category": "Waterfalls",
+    "category": [
+      "Waterfalls"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1LeJgt2_QgP4fU18txwVMtcBjp6jN4ddA"
   },
   {
@@ -41,7 +50,9 @@
     "onImageTitle": "Sajek Valley",
     "district": "Rangamati",
     "division": "Chattogram",
-    "category": "Mountains",
+    "category": [
+      "Mountains"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1bRL8EpjW5VOtysYbIl4snk-JFxNabdNK"
   }
 ]

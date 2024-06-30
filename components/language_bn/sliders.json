@@ -5,7 +5,9 @@
     "onImageTitle": "Sundarbans",
     "district": "বাগেরহাট",
     "division": "খুলনা",
-    "category": "বন-জঙ্গল",
+    "category": [
+      "বন-জঙ্গল"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1gPmuTI4p5ERlXBxleq7wVMYNlkaC58bY"
   },
   {
@@ -14,7 +16,9 @@
     "onImageTitle": "Cox's Bazar",
     "district": "কক্সবাজার",
     "division": "চট্টগ্রাম",
-    "category": "সী বীচ",
+    "category": [
+      "সী বীচ"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1avzboa_w-KDU73YFmich2c7-AYmAFbRV"
   },
   {
@@ -23,7 +27,10 @@
     "onImageTitle": "Saint Martins",
     "district": "কক্সবাজার",
     "division": "চট্টগ্রাম",
-    "category": "সী বীচ",
+    "category": [
+      "সী বীচ",
+      "দ্বীপ"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1nKYSsbmIsx4jYPwMJ2MdCWK4-rg9vAn4"
   },
   {
@@ -32,7 +39,9 @@
     "onImageTitle": "Nafakhum",
     "district": "বান্দরবন",
     "division": "চট্টগ্রাম",
-    "category": "ঝর্ণা",
+    "category": [
+      "ঝর্ণা"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1LeJgt2_QgP4fU18txwVMtcBjp6jN4ddA"
   },
   {
@@ -41,7 +50,9 @@
     "onImageTitle": "Sajek Valley",
     "district": "রাঙ্গামাটি",
     "division": "চট্টগ্রাম",
-    "category": "পাহাড়-পর্বত",
+    "category": [
+      "পাহাড়-পর্বত"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1bRL8EpjW5VOtysYbIl4snk-JFxNabdNK"
   }
 ]
