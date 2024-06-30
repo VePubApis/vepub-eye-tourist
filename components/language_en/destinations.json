@@ -5,7 +5,9 @@
     "onImageTitle": "Inani Beach",
     "district": "Cox's Bazar",
     "division": "Chattogram",
-    "category": "Beaches",
+    "category": [
+      "Beaches"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=16iPmgblbmdmGOQDSe4otuQC91zohZnHP"
   },
   {
@@ -14,7 +16,9 @@
     "onImageTitle": "Kaptai Lake",
     "district": "Chattogram",
     "division": "Chattogram",
-    "category": "Lakes",
+    "category": [
+      "Lakes"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=12qCZkxtcoPGepU5SP7NWHfO80TCa1PFQ"
   },
   {
@@ -23,7 +27,9 @@
     "onImageTitle": "Nil Giri",
     "district": "Bandarban",
     "division": "Chattogram",
-    "category": "Mountains",
+    "category": [
+      "Mountains"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1R3O8d93MEqPSuKIhppxw2vWZ051eRiVQ"
   },
   {
@@ -32,7 +38,9 @@
     "onImageTitle": "Hiron Point",
     "district": "Bagerhat",
     "division": "Khulna",
-    "category": "Forests",
+    "category": [
+      "Forests"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1lYLM4_CNK6gtEnF7n-85DUlpIaT0t_W4"
   },
   {
@@ -41,7 +49,9 @@
     "onImageTitle": "Tanguar Haor",
     "district": "Sunamganj",
     "division": "Sylhet",
-    "category": "Lakes",
+    "category": [
+      "Lakes"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1UMHMlxMx8Yfd38fEjtedCSUIcJzZiDsj"
   },
   {
@@ -50,7 +60,9 @@
     "onImageTitle": "Jaflong",
     "district": "Sylhet",
     "division": "Sylhet",
-    "category": "Waterfalls",
+    "category": [
+      "Waterfalls"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=178TVgwEj7GMRUR1pwapw-8raVojL1Aq7"
   },
   {
@@ -59,7 +71,9 @@
     "onImageTitle": "Sundarbans",
     "district": "Bagerhat",
     "division": "Khulna",
-    "category": "Forests",
+    "category": [
+      "Forests"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1gPmuTI4p5ERlXBxleq7wVMYNlkaC58bY"
   },
   {
@@ -68,7 +82,9 @@
     "onImageTitle": "Cox's Bazar",
     "district": "Cox's Bazar",
     "division": "Chattogram",
-    "category": "Beaches",
+    "category": [
+      "Beaches"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1avzboa_w-KDU73YFmich2c7-AYmAFbRV"
   },
   {
@@ -77,7 +93,10 @@
     "onImageTitle": "Saint Martins",
     "district": "Cox's Bazar",
     "division": "Chattogram",
-    "category": "Beaches",
+    "category": [
+      "Beaches",
+      "Islands"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1nKYSsbmIsx4jYPwMJ2MdCWK4-rg9vAn4"
   },
   {
@@ -86,7 +105,9 @@
     "onImageTitle": "Nafakhum",
     "district": "Bandarban",
     "division": "Chattogram",
-    "category": "Waterfalls",
+    "category": [
+      "Waterfalls"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1LeJgt2_QgP4fU18txwVMtcBjp6jN4ddA"
   },
   {
@@ -95,7 +116,9 @@
     "onImageTitle": "Sajek Valley",
     "district": "Rangamati",
     "division": "Chattogram",
-    "category": "Mountains",
+    "category": [
+      "Mountains"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1bRL8EpjW5VOtysYbIl4snk-JFxNabdNK"
   }
 ]
