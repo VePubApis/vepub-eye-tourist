@@ -5,7 +5,9 @@
     "onImageTitle": "Inani Beach",
     "district": "কক্সবাজার",
     "division": "চট্টগ্রাম",
-    "category": "সী বীচ",
+    "category": [
+      "সী বীচ"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=16iPmgblbmdmGOQDSe4otuQC91zohZnHP"
   },
   {
@@ -14,7 +16,9 @@
     "onImageTitle": "Kaptai Lake",
     "district": "চট্টগ্রাম",
     "division": "চট্টগ্রাম",
-    "category": "লেক",
+    "category": [
+      "লেক"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=12qCZkxtcoPGepU5SP7NWHfO80TCa1PFQ"
   },
   {
@@ -23,7 +27,9 @@
     "onImageTitle": "Nil Giri",
     "district": "বান্দরবন",
     "division": "চট্টগ্রাম",
-    "category": "পাহাড়-পর্বত",
+    "category": [
+      "পাহাড়-পর্বত"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1R3O8d93MEqPSuKIhppxw2vWZ051eRiVQ"
   },
   {
@@ -32,7 +38,9 @@
     "onImageTitle": "Hiron Point",
     "district": "বাগেরহাট",
     "division": "খুলনা",
-    "category": "বন-জঙ্গল",
+    "category": [
+      "বন-জঙ্গল"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1lYLM4_CNK6gtEnF7n-85DUlpIaT0t_W4"
   },
   {
@@ -41,7 +49,9 @@
     "onImageTitle": "Tanguar Haor",
     "district": "সুনামগঞ্জ",
     "division": "সিলেট",
-    "category": "লেক",
+    "category": [
+      "লেক"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=1UMHMlxMx8Yfd38fEjtedCSUIcJzZiDsj"
   },
   {
@@ -50,7 +60,9 @@
     "onImageTitle": "Jaflong",
     "district": "সিলেট",
     "division": "সিলেট",
-    "category": "ঝর্ণা",
+    "category": [
+      "ঝর্ণা"
+    ],
     "image": "https://drive.google.com/uc?export=view&id=178TVgwEj7GMRUR1pwapw-8raVojL1Aq7"
   }
 ]
