@@ -1,0 +1,67 @@
+{
+    "settings": {
+        "follow": {
+            "title": "Follow Us",
+            "description": "Stay connected with us through our social media channels.",
+            "social_accounts": {
+                "facebook": {
+                    "name": "Facebook",
+                    "url": "https://www.facebook.com/yourpage"
+                },
+                "instagram": {
+                    "name": "Instagram",
+                    "url": "https://www.instagram.com/yourpage"
+                }
+            }
+        },
+        "ratings_reviews": {
+            "title": "Ratings & Reviews",
+            "description": "Rate and review our app on the Play Store.",
+            "play_store_link": "https://play.google.com/store/apps/details?id=com.yourapp"
+        },
+        "share": {
+            "title": "Share",
+            "description": "Share the Dristi app with your friends and family.",
+            "share_link": "https://yourapp.com/share"
+        },
+        "contribution": {
+            "title": "Contribution",
+            "description": "We appreciate your contributions. Please contact us through the following details.",
+            "contact": {
+                "phone": "+880-123-456789",
+                "email": "contribute@yourapp.com",
+                "google_form": "https://forms.gle/yourformlink"
+            }
+        },
+        "support": {
+            "title": "Support",
+            "description": "Need help? Reach out to us through our social accounts.",
+            "social_accounts": {
+                "facebook": {
+                    "name": "Facebook",
+                    "url": "https://www.facebook.com/supportpage"
+                },
+                "instagram": {
+                    "name": "Instagram",
+                    "url": "https://www.instagram.com/supportpage"
+                },
+                "email": "support@yourapp.com",
+                "phone": "+880-987-654321"
+            }
+        },
+        "privacy_policy": {
+            "title": "Privacy Policy",
+            "description": "Read our privacy policy to learn more about how we handle your data.",
+            "policy_text": "Your privacy is important to us. We handle all data with care and never share it with third parties without your consent."
+        },
+        "terms_services": {
+            "title": "Terms & Services",
+            "description": "Read the terms and conditions for using our app.",
+            "terms_text": "By using the Dristi app, you agree to our terms and services. Please review them carefully."
+        },
+        "app_version": {
+            "title": "App Version",
+            "version": "1.0.0"
+        }
+    }
+}
