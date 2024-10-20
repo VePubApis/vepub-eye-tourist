@@ -1,25 +1,25 @@
 {
     "follow": {
         "description": "Stay connected with us through our social media channels.",
-        "facebook_url": "https://www.facebook.com",
-        "instagram_url": "https://www.instagram.com"
+        "facebook_url": "https://www.facebook.com/theove6",
+        "instagram_url": "https://www.instagram.com/theove46mania/"
     },
     "ratings_reviews": {
         "description": "Rate and review our app on the Play Store.",
-        "play_store_link": "https://play.google.com/store/apps/details?id=com.yourapp"
+        "play_store_link": "https://play.google.com/store/apps/details?id=jp.konami.pesam&pcampaignid=web_share"
     },
     "share": {
         "description": "Share the Dristi app with your friends and family.",
-        "share_link": "https://yourapp.com/share"
+        "share_link": "https://www.youtube.com/@TSportsbd"
     },
     "contribution": {
         "description": "We appreciate your contributions. Please contact us through the following details.",
-        "google_form": "https://forms.gle"
+        "google_form": "https://docs.google.com/forms/d/1QFO1GWiaYe9MGMkCK2IsKCfTKhJEjmskUtpjsnuCHzk/viewform?pli=1&edit_requested=true&edit_requested=true"
     },
     "support": {
         "description": "Need help? Reach out to us through our social accounts.",
-        "facebook": "https://www.facebook.com",
-        "instagram": "https://www.instagram.com"
+        "facebook": "https://www.facebook.com/theove6",
+        "instagram": "https://www.instagram.com/theove46mania/"
     },
     "contact": {
         "description": "Need contact? Reach out to us through our social accounts.",
