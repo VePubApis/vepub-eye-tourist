@@ -2,7 +2,8 @@
     "follow": {
         "description": "আমাদের সামাজিক মিডিয়া চ্যানেলের মাধ্যমে আমাদের সাথে সংযুক্ত থাকুন।",
         "facebook_url": "https://www.facebook.com/theove6",
-        "instagram_url": "https://www.instagram.com/theove46mania/"
+        "instagram_url": "https://www.instagram.com/theove46mania/",
+        "youtube_url": "https://www.youtube.com/@TSportsbd"
     },
     "ratings_reviews": {
         "description": "প্লে স্টোরে আমাদের অ্যাপ রেট এবং রিভিউ করুন।",
@@ -10,7 +11,7 @@
     },
     "share": {
         "description": "আপনার বন্ধু এবং পরিবারের সাথে Dristi অ্যাপ শেয়ার করুন।",
-        "share_link": "https://www.youtube.com/@TSportsbd"
+        "share_link": "https://play.google.com/store/apps/details?id=jp.konami.pesam&pcampaignid=web_share"
     },
     "contribution": {
         "description": "আপনার অবদান আমরা সম্মান করি। নিম্নলিখিত তথ্যের মাধ্যমে আমাদের সাথে যোগাযোগ করুন।",
@@ -19,7 +20,8 @@
     "support": {
         "description": "সহায়তার প্রয়োজন? আমাদের সামাজিক অ্যাকাউন্টের মাধ্যমে আমাদের সাথে যোগাযোগ করুন।",
         "facebook": "https://www.facebook.com/theove6",
-        "instagram": "https://www.instagram.com/theove46mania/"
+        "instagram": "https://www.instagram.com/theove46mania/",
+        "youtube": "https://www.youtube.com/@TSportsbd"
     },
     "contact": {
         "description": "সহায়তার প্রয়োজন? আমাদের সামাজিক অ্যাকাউন্টের মাধ্যমে আমাদের সাথে যোগাযোগ করুন।",
