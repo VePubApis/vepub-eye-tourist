@@ -1,32 +1,32 @@
 {
     "follow": {
         "description": "Stay connected with us through our social media channels.",
-        "facebook_url": "https://www.facebook.com/theove6",
-        "instagram_url": "https://www.instagram.com/theove46mania/",
-        "youtube_url": "https://www.youtube.com/@TSportsbd"
+        "facebook_url": "https://www.facebook.com/profile.php?id=61569934783979",
+        "instagram_url": "https://www.instagram.com/dristi_360/",
+        "youtube_url": "https://www.youtube.com/@Dristi360-info"
     },
     "ratings_reviews": {
         "description": "Rate and review our app on the Play Store.",
-        "play_store_link": "https://play.google.com/store/apps/details?id=jp.konami.pesam&pcampaignid=web_share"
+        "play_store_link": ""
     },
     "share": {
         "description": "Share the Dristi app with your friends and family.",
-        "share_link": "https://play.google.com/store/apps/details?id=jp.konami.pesam&pcampaignid=web_share"
+        "share_link": ""
     },
     "contribution": {
         "description": "We appreciate your contributions. Please contact us through the following details.",
-        "google_form": "https://docs.google.com/forms/d/1QFO1GWiaYe9MGMkCK2IsKCfTKhJEjmskUtpjsnuCHzk/viewform?pli=1&edit_requested=true&edit_requested=true"
+        "google_form": "https://forms.gle/JQQ5uQW6o2oi5xwP9"
     },
     "support": {
         "description": "Need help? Reach out to us through our social accounts.",
-        "facebook": "https://www.facebook.com/theove6",
-        "instagram": "https://www.instagram.com/theove46mania/",
-        "youtube": "https://www.youtube.com/@TSportsbd"
+        "facebook": "https://www.facebook.com/profile.php?id=61569934783979",
+        "instagram": "https://www.instagram.com/dristi_360/",
+        "youtube": "https://www.youtube.com/@Dristi360-info"
     },
     "contact": {
         "description": "Need contact? Reach out to us through our social accounts.",
-        "email": "support@yourapp.com",
-        "whatsapp": "+880-987-654321"
+        "email": "dristi360info@gmail.com",
+        "whatsapp": "+880 1533-377296"
     },
     "privacy_policy": {
         "description": "Read our privacy policy to learn more about how we handle your data.",
