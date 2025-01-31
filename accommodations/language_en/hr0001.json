@@ -6,39 +6,26 @@
     "division": "Chattogram",
     "category": "Hotels and Resorts",
     "address": "Jaliapalong, Inani, Ukhia, Cox's Bazar - 4750",
-    "description": "Nilgiri is a collection of multiple variable sizes hill area in Bandarban. Bandarban itself is a hill district in Banglades",
+    "description": "Sea Pearl Beach Resort is one of the most luxurious and well-known resorts in Cox's Bazar, offering a perfect blend of comfort and natural beauty. Located near the pristine Inani Beach, the resort provides stunning views of the Bay of Bengal and the surrounding hills. The resort is designed to offer a tranquil and relaxing experience, making it an ideal choice for both leisure and business travelers.\n\nThe resort features a range of modern amenities, including spacious rooms, a swimming pool, a spa, and multiple dining options. Guests can enjoy a variety of cuisines at the on-site restaurants, which serve both local and international dishes. The resort also offers beachfront access, allowing guests to enjoy the serene beauty of Inani Beach at any time.\n\nSea Pearl Beach Resort is known for its exceptional hospitality and world-class services. Whether you're looking for a romantic getaway, a family vacation, or a business retreat, the resort caters to all your needs. The staff is highly trained and dedicated to ensuring a memorable stay for every guest.",
     "phone": [
-        "01238385034",
-        "34534634646",
-        "34634634663"
+        "+8801844016120",
+        "+8801844016001"
     ],
     "website": [
         {
-            "url": "https://flutter.dev",
+            "url": "https://seapearlcoxsbazar.com",
             "site": "Website"
         },
         {
-            "url": "https://flutter.dev",
+            "url": "https://www.facebook.com/seapearlcoxsbazar",
             "site": "Facebook"
         }
     ],
-    "mapUrl": "https://www.google.com/maps/place/Inani+Beach/@21.23077,92.0418801,16z/data=!4m6!3m5!1s0x30addb734c7ac3eb:0x1b8ecdeeaf8c2b5b!8m2!3d21.2296658!4d92.0475329!16s%2Fm%2F0pmfczc?entry=ttu",
+    "mapUrl": "https://www.google.com/maps/place/Sea+Pearl+Beach+Resort+%26+Spa+Cox's+Bazar/@21.2156495,92.0463137,17z/data=!3m1!4b1!4m9!3m8!1s0x30addb98f90b08b7:0x6c678eda6bd69230!5m2!4m1!1i2!8m2!3d21.2156495!4d92.048894!16s%2Fg%2F11b6t3lr_b?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
     "images": [
         {
-            "url": "https://drive.google.com/uc?export=view&id=19tpZYfWVQvceQov0M_wCkrdROrOpn563",
-            "credit": "Dristi 360"
-        },
-        {
-            "url": "https://drive.google.com/uc?export=view&id=12qCZkxtcoPGepU5SP7NWHfO80TCa1PFQ",
-            "credit": "Dristi 360"
-        },
-        {
-            "url": "https://drive.google.com/uc?export=view&id=1R3O8d93MEqPSuKIhppxw2vWZ051eRiVQ",
-            "credit": "Dristi 360"
-        },
-        {
-            "url": "https://drive.google.com/uc?export=view&id=1lYLM4_CNK6gtEnF7n-85DUlpIaT0t_W4",
-            "credit": "Dristi 360"
+            "url": "https://drive.google.com/uc?export=view&id=1wcCxzY5lXM81fpwcowbZmGK-CHE-mLkS",
+            "credit": ""
         }
     ]
 }
