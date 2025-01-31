@@ -4,7 +4,9 @@
     "onImageTitle": "Sea Pearl",
     "district": "Cox's Bazar",
     "division": "Chattogram",
-    "category": "Hotels and Resorts",
+    "category": [
+        "Hotels and Resorts"
+    ],
     "address": "Jaliapalong, Inani, Ukhia, Cox's Bazar - 4750",
     "description": "Sea Pearl Beach Resort is one of the most luxurious and well-known resorts in Cox's Bazar, offering a perfect blend of comfort and natural beauty. Located near the pristine Inani Beach, the resort provides stunning views of the Bay of Bengal and the surrounding hills. The resort is designed to offer a tranquil and relaxing experience, making it an ideal choice for both leisure and business travelers.\n\nThe resort features a range of modern amenities, including spacious rooms, a swimming pool, a spa, and multiple dining options. Guests can enjoy a variety of cuisines at the on-site restaurants, which serve both local and international dishes. The resort also offers beachfront access, allowing guests to enjoy the serene beauty of Inani Beach at any time.\n\nSea Pearl Beach Resort is known for its exceptional hospitality and world-class services. Whether you're looking for a romantic getaway, a family vacation, or a business retreat, the resort caters to all your needs. The staff is highly trained and dedicated to ensuring a memorable stay for every guest.",
     "phone": [

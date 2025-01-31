@@ -5,25 +5,53 @@
         "onImageTitle": "Sea Pearl",
         "district": "কক্সবাজার",
         "division": "চট্টগ্রাম",
-        "category": "হোটেল ও রিসোর্ট",
-        "image": "https://drive.google.com/uc?export=view&id=19tpZYfWVQvceQov0M_wCkrdROrOpn563"
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1wcCxzY5lXM81fpwcowbZmGK-CHE-mLkS"
     },
     {
         "id": "hr0002",
-        "title": "সায়েমন বীচ রিসোর্ট",
-        "onImageTitle": "Sayeman",
-        "district": "কক্সবাজার",
-        "division": "চট্টগ্রাম",
-        "category": "হোটেল ও রিসোর্ট",
-        "image": "https://drive.google.com/uc?export=view&id=1WcyQJlMKSH5VWtRwVK-qqBGhwuxkBoDW"
+        "title": "ইন্টারকন্টিনেন্টাল ঢাকা",
+        "onImageTitle": "Intercontinental",
+        "district": "ঢাকা",
+        "division": "ঢাকা",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1BYir6qjzx1xitCibdD4N9RglfvU2gVGd"
     },
     {
         "id": "hr0003",
+        "title": "ভেনাস রিসোর্ট",
+        "onImageTitle": "Venus",
+        "district": "বান্দরবন",
+        "division": "চট্টগ্রাম",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1zI70F8qfPMhSTO0w6jmYGNbBY7unbmFf"
+    },
+    {
+        "id": "hr0004",
+        "title": "রেডিসন ব্লু চট্টগ্রাম",
+        "onImageTitle": "Raddison Blue",
+        "district": "চট্টগ্রাম",
+        "division": "চট্টগ্রাম",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1K0yw-SIixPEVSqXhzsWHSkidO4-8jAhX"
+    },
+    {
+        "id": "hr0005",
         "title": "প্যান প্যাসিফিক সোনারগাঁও",
         "onImageTitle": "Sonargaon",
         "district": "ঢাকা",
         "division": "ঢাকা",
-        "category": "হোটেল ও রিসোর্ট",
-        "image": "https://drive.google.com/uc?export=view&id=1RoArkO6ljNczf9jymStdqc2kT4P3npMI"
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1BsSdo9Q7994cO92jb8gNaSAOkq-yimYE"
     }
 ]
