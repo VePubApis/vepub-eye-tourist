@@ -1,0 +1,32 @@
+{
+    "id": "hr0003",
+    "title": "Venus Resort",
+    "onImageTitle": "Venus",
+    "district": "Bandarban",
+    "division": "Chattogram",
+    "category": [
+        "Hotels and Resorts"
+    ],
+    "address": "Meghla, Lal Mohan Bahadur Bagan, Bandarban 4600",
+    "description": "Venus Resort, located in the picturesque hills of Bandarban, is a serene and luxurious retreat for nature lovers and adventure seekers. Surrounded by lush green forests and offering breathtaking views of the hills and valleys, the resort provides a perfect escape from the hustle and bustle of city life. It is an ideal destination for those seeking peace, relaxation, and a connection with nature.\n\nThe resort features well-appointed rooms and cottages, each designed to provide maximum comfort and a sense of tranquility. Guests can enjoy modern amenities, including a restaurant serving local and international cuisines, a swimming pool, and a spa. The resort also offers guided tours and trekking opportunities for those who want to explore the natural beauty of Bandarban.\n\nVenus Resort is known for its warm hospitality and personalized service. Whether you're planning a romantic getaway, a family vacation, or an adventure trip, the resort caters to all your needs. The staff is dedicated to ensuring a memorable and comfortable stay for every guest.",
+    "phone": [
+        "+8801552-808000"
+    ],
+    "website": [
+        {
+            "url": "https://venusresortbd.com",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/venusresortbd",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Venus+Resort+Bandarban/@22.1833768,92.1925881,17z/data=!3m1!4b1!4m9!3m8!1s0x30ad6a4e11c0c643:0x4af236700a6751a5!5m2!4m1!1i2!8m2!3d22.1833768!4d92.1951684!16s%2Fg%2F11byl379cg?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1zI70F8qfPMhSTO0w6jmYGNbBY7unbmFf",
+            "credit": ""
+        }
+    ]
+}
