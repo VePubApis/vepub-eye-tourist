@@ -7,11 +7,11 @@
     },
     "ratings_reviews": {
         "description": "Rate and review our app on the Play Store.",
-        "play_store_link": ""
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.ohiduzzaman.dristi"
     },
     "share": {
         "description": "Share the Dristi app with your friends and family.",
-        "share_link": ""
+        "share_link": "https://play.google.com/store/apps/details?id=com.ohiduzzaman.dristi"
     },
     "contribution": {
         "description": "We appreciate your contributions. Please contact us through the following details.",
