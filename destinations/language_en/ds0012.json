@@ -1,0 +1,39 @@
+{
+    "id": "ds0012",
+    "title": "Fantasy Kingdom",
+    "onImageTitle": "Fantasy Kingdom",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "category": [
+        "Theme Parks"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Fantasy+Kingdom/@23.9358705,90.2895241,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c386684b8de9:0xa51d15a3906d565c!8m2!3d23.9358705!4d90.2921044!16s%2Fg%2F11fmnf5chd?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+    "details": "Fantasy Kingdom, located in Ashulia, Dhaka, is one of the most popular amusement parks in Bangladesh. Designed as a family-friendly destination, the park offers a wide range of attractions, including thrilling rides, water slides, and entertainment shows. It is a perfect place for families, friends, and children to spend a fun-filled day.\n\nTo reach Fantasy Kingdom, travelers can take a bus or private car from Dhaka city. The journey takes approximately 1-2 hours, depending on traffic. The park is easily accessible and offers ample parking facilities for visitors.\n\nFantasy Kingdom features various themed zones, including Adventure Land, Fantasy Land, and Water World. Visitors can enjoy roller coasters, carousels, bumper cars, and a variety of water-based attractions. The park also hosts live shows, cultural performances, and special events throughout the year, making it a vibrant and entertaining destination.\n\nThe best time to visit Fantasy Kingdom is during the winter months (November to February) when the weather is cool and pleasant. The park is less crowded on weekdays, making it ideal for families with young children. However, weekends and public holidays are also popular, with special events and performances adding to the excitement. Food stalls and restaurants within the park offer a variety of snacks and meals, ensuring a comfortable and enjoyable experience for all visitors.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1ml8KmS7XM-xVewSImIAacrBZuAWJfDg6",
+            "credit": "fantasykingdom"
+        }
+    ],
+    "seasons": [
+        "Winter (November to February): The best time to visit, with cool and pleasant weather. Ideal for outdoor activities and rides.",
+        "Spring (March to April): Enjoy the vibrant atmosphere and mild temperatures. Special events and performances are often held during this time.",
+        "Avoid Monsoon (June to September): Heavy rains can disrupt outdoor activities and rides."
+    ],
+    "cautions": [
+        "Follow all safety instructions provided for rides and attractions. Ensure children are supervised at all times.",
+        "Carry enough cash, as some food stalls and shops may not accept card payments.",
+        "Wear comfortable clothing and footwear, as the park involves a lot of walking.",
+        "Check the park's schedule for live shows and events to plan your visit accordingly.",
+        "Avoid visiting during public holidays if you prefer a less crowded experience."
+    ],
+    "specials": [
+        "A family-friendly amusement park with thrilling rides, water slides, and entertainment shows.",
+        "Features themed zones like Adventure Land, Fantasy Land, and Water World.",
+        "Perfect for families, friends, and children to enjoy a fun-filled day.",
+        "Live shows, cultural performances, and special events are held throughout the year.",
+        "Food stalls and restaurants offer a variety of snacks and meals for visitors.",
+        "A vibrant and entertaining destination for all age groups."
+    ],
+    "blogs": []
+}
