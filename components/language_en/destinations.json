@@ -172,5 +172,18 @@
       "Monuments"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1rWQXGS-a9_Ji6NpuFvUjkHCh7Mxy-YfC"
+  },
+  {
+    "id": "ds0016",
+    "title": "Gazipur Safari Park",
+    "onImageTitle": "Safari Park",
+    "district": "Gazipur",
+    "division": "Dhaka",
+    "category": [
+      "National Parks",
+      "Zoos",
+      "Museums"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1t3mPmS7DRkof6uqAQNzuTC5p3oe9_RUS"
   }
 ]

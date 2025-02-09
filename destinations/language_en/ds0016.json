@@ -1,0 +1,41 @@
+{
+    "id": "ds0016",
+    "title": "Gazipur Safari Park",
+    "onImageTitle": "Safari Park",
+    "district": "Gazipur",
+    "division": "Dhaka",
+    "category": [
+        "National Parks",
+        "Zoos",
+        "Museums"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Bangabandhu+Sheikh+Mujib+Safari+Park,+Gazipur/@24.1699549,90.3939585,17z/data=!3m1!4b1!4m6!3m5!1s0x37567640fa93d6a9:0xed8c33b38a2097a5!8m2!3d24.1699549!4d90.3965388!16s%2Fg%2F11clt71zhd?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+    "details": "Gazipur Safari Park is one of the largest wildlife conservation centers in Bangladesh. Located in Gazipur near Dhaka, the park spans over 3,800 acres and offers a unique blend of safari experiences, zoological gardens, and educational exhibits. Visitors can explore open-air safari zones housing Bengal tigers, lions, bears, and deer, as well as a museum showcasing biodiversity and conservation efforts.\n\nThe park features drive-through safari zones, walking trails, and a lake for boating. Families can enjoy picnic spots, children’s play areas, and guided tours. The museum within the park educates visitors about wildlife preservation and Bangladesh’s ecological heritage.\n\nThe best time to visit is during winter (November to February) when the weather is cool and animals are more active. Avoid the monsoon season (June to September) due to heavy rains and muddy pathways. Weekdays are less crowded compared to weekends.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1t3mPmS7DRkof6uqAQNzuTC5p3oe9_RUS",
+            "credit": "The Daily Post"
+        }
+    ],
+    "seasons": [
+        "Winter (November to February): Cool weather ideal for safaris and outdoor activities.",
+        "Spring (March to April): Mild temperatures but can be warm during midday.",
+        "Avoid Monsoon (June to September): Heavy rains disrupt safaris and make trails muddy."
+    ],
+    "cautions": [
+        "Stay inside vehicles during safari tours; do not feed or provoke animals.",
+        "Follow park guidelines and stay within designated visitor areas.",
+        "Carry water, hats, and sunscreen for daytime visits.",
+        "Avoid littering to protect the park’s natural environment.",
+        "Supervise children closely near animal enclosures."
+    ],
+    "specials": [
+        "Drive-through safari zones with Bengal tigers, lions, and Asian black bears.",
+        "Educational museum highlighting wildlife conservation and biodiversity.",
+        "Boat rides on the park’s lake and scenic walking trails.",
+        "Family-friendly picnic spots and children’s play areas.",
+        "Guided tours offering insights into animal behavior and habitat.",
+        "A rare opportunity to observe wildlife in semi-natural environments."
+    ],
+    "blogs": []
+}
