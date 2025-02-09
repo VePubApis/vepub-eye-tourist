@@ -1,0 +1,38 @@
+{
+    "id": "ds0009",
+    "title": "Cox's Bazar",
+    "onImageTitle": "Cox's Bazar",
+    "district": "Cox's Bazar",
+    "division": "Chattogram",
+    "category": [
+        "Beaches",
+        "Mountains"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Cox's+Bazar/@21.4366517,91.9515752,13z/data=!3m1!4b1!4m6!3m5!1s0x30adc7ea2ab928c3:0x3b539e0a68970810!8m2!3d21.4272184!4d92.0061058!16s%2Fm%2F02vk9mt?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+    "details": "Cox's Bazar, located in the Chattogram division, is the longest natural sea beach in the world, stretching over 120 kilometers along the Bay of Bengal. Known for its golden sands, clear waters, and stunning sunsets, Cox's Bazar is a popular destination for both local and international tourists. The beach offers a perfect blend of natural beauty and modern amenities, making it an ideal spot for relaxation and adventure.\n\nTo reach Cox's Bazar, travelers can take a bus, train, or flight from Dhaka or Chattogram. The journey by road takes approximately 8-10 hours from Dhaka and 4-5 hours from Chattogram. Once in Cox's Bazar, visitors can enjoy a variety of activities, including swimming, sunbathing, beach volleyball, and exploring nearby attractions like Himchari National Park and Inani Beach.\n\nThe best time to visit Cox's Bazar is during the winter months (November to February) when the weather is cool and pleasant. The beach is less crowded during this time, making it ideal for relaxation and photography. However, the monsoon season (June to September) also has its charm, with lush greenery and a serene atmosphere. Local food stalls and restaurants offer a variety of seafood delicacies, including fresh fish, crabs, and prawns, which are a must-try for visitors.\n\nCox's Bazar is also known for its vibrant culture and hospitality. The area is home to several ethnic communities, including the Rakhine people, who add to the cultural richness of the region. Visitors can explore local markets, enjoy traditional music and dance performances, and experience the warm hospitality of the locals.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1cYxqGK1Nxb4CFfde7Ti3aYpJsdS1y7Co",
+            "credit": ""
+        }
+    ],
+    "seasons": [
+        "Winter (November to February): The best time to visit, with cool and pleasant weather. The beach is less crowded, making it ideal for relaxation and photography.",
+        "Spring (March to April): Ideal for enjoying the vibrant scenery and mild temperatures. The beach is lively, and the weather is perfect for outdoor activities.",
+        "Avoid Monsoon (June to September): Heavy rains and rough waves can make swimming and beach activities unsafe."
+    ],
+    "cautions": [
+        "Be cautious while swimming, especially during the monsoon season when the waves can be strong and unpredictable.",
+        "Respect the natural environment and avoid littering. Help maintain the cleanliness of the beach.",
+        "Avoid venturing too far into the sea, as the currents can be dangerous."
+    ],
+    "specials": [
+        "The longest natural sea beach in the world, stretching over 120 kilometers along the Bay of Bengal.",
+        "Known for its golden sands, clear waters, and stunning sunsets.",
+        "A perfect destination for relaxation, adventure, and photography.",
+        "Local food stalls and restaurants offer a variety of seafood delicacies, including fresh fish, crabs, and prawns.",
+        "Explore nearby attractions like Himchari National Park and Inani Beach.",
+        "Experience the vibrant culture and hospitality of the local communities, including the Rakhine people."
+    ],
+    "blogs": []
+}
