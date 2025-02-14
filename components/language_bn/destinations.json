@@ -185,5 +185,53 @@
       "জাদুঘর"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1t3mPmS7DRkof6uqAQNzuTC5p3oe9_RUS"
+  },
+  {
+    "id": "ds0017",
+    "title": "সোনারগাঁও জাদুঘর",
+    "onImageTitle": "Sonargaon Museum",
+    "district": "নারায়ণগঞ্জ",
+    "division": "ঢাকা",
+    "category": [
+      "জাদুঘর",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1K864tAHbZlfmRaVUho3sujWNw5pLqSO1"
+  },
+  {
+    "id": "ds0018",
+    "title": "বিরিশিরি",
+    "onImageTitle": "Birishiri",
+    "district": "নেত্রকোণা",
+    "division": "ময়মনসিংহ",
+    "category": [
+      "পাহাড়-পর্বত",
+      "নদীর-পাড়",
+      "লেক"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1IpKsafk3ESY6InjkFt-fDT15Hi3kHw6O"
+  },
+  {
+    "id": "ds0019",
+    "title": "Puthia Rajbari",
+    "onImageTitle": "Puthia Rajbari",
+    "district": "Rajshahi",
+    "division": "Rajshahi",
+    "category": [
+      "Heritages",
+      "Monuments"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1-nho5aGos_8KxpvZf7n3uqT_R9_sV3FU"
+  },
+  {
+    "id": "ds0020",
+    "title": "কাঞ্চনজঙ্ঘা শৃঙ্গ",
+    "onImageTitle": "Kanchanjangha Peak",
+    "district": "পঞ্চগড়",
+    "division": "রংপুর",
+    "category": [
+      "পাহাড়-পর্বত"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1RsXBBQ6cVAvo53ROpQ1TWzOPdF4g_Biz"
   }
 ]

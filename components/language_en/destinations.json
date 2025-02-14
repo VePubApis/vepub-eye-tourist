@@ -185,5 +185,56 @@
       "Museums"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1t3mPmS7DRkof6uqAQNzuTC5p3oe9_RUS"
+  },
+  {
+    "id": "ds0017",
+    "title": "Sonargaon Museum",
+    "onImageTitle": "Sonargaon Museum",
+    "district": "Narayanganj",
+    "division": "Dhaka",
+    "category": [
+      "Museums",
+      "Heritages"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1K864tAHbZlfmRaVUho3sujWNw5pLqSO1"
+  },
+  {
+    "id": "ds0018",
+    "title": "Birishiri",
+    "onImageTitle": "Birishiri",
+    "district": "Netrokona",
+    "division": "Mymensingh",
+    "category": [
+      "Mountains",
+      "River Banks",
+      "Lakes"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1IpKsafk3ESY6InjkFt-fDT15Hi3kHw6O"
+    // ITS Holidays Ltd
+  },
+  {
+    "id": "ds0019",
+    "title": "Puthia Rajbari",
+    "onImageTitle": "Puthia Rajbari",
+    "district": "Rajshahi",
+    "division": "Rajshahi",
+    "category": [
+      "Heritages",
+      "Monuments"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1-nho5aGos_8KxpvZf7n3uqT_R9_sV3FU"
+    // The Financial Express
+  },
+  {
+    "id": "ds0020",
+    "title": "Kanchanjangha Peak",
+    "onImageTitle": "Kanchanjangha Peak",
+    "district": "Panchagarh",
+    "division": "Rangpur",
+    "category": [
+      "Mountains"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1RsXBBQ6cVAvo53ROpQ1TWzOPdF4g_Biz"
+    // Mostafa Shabuj
   }
 ]
