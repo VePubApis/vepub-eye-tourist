@@ -1,0 +1,37 @@
+{
+    "id": "ds0023",
+    "title": "Bangladesh Military Museum",
+    "onImageTitle": "Military Museum",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "category": [
+        "Museums"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Bangabandhu+Military+Museum/@23.7641273,90.3828431,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c758152b6521:0xc71f2d46939db1b4!8m2!3d23.7641273!4d90.3854234!16s%2Fg%2F11clt09bks?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "details": "The Bangladesh Military Museum, located in Bijoy Sarani, Dhaka, is a tribute to the nation’s military history and the valor of its armed forces. Established to preserve and showcase the legacy of the Bangladesh Liberation War and beyond, the museum features indoor and outdoor galleries with rare artifacts, weaponry, and military vehicles. Visitors can explore exhibits ranging from ancient warfare tools to modern defense technologies.\n\nTo reach the museum, take a ride-sharing service, CNG, or bus to Bijoy Sarani—a major Dhaka landmark. The museum is easily accessible from Gulshan, Mirpur, and other parts of the city. Key attractions include the outdoor display of tanks, fighter jets, and helicopters, as well as the Liberation War Gallery, which documents the 1971 struggle through photographs, documents, and personal belongings of martyrs.\n\nThe museum’s indoor section houses historical uniforms, medals, and captured Pakistani military equipment. A dedicated children’s corner offers interactive exhibits to educate young minds about national history. Nearby eateries serve popular Bangladeshi snacks like fuchka and jhalmuri, while upscale restaurants in Gulshan offer diverse dining options.\n\nWith its educational exhibits and patriotic ambiance, the museum is a must-visit for history enthusiasts, students, and families. Special events on Victory Day and Armed Forces Day feature guided tours and exhibitions.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1MFdEPZRAHOFJZ81Vx2RWxaW5T6BcZhrP",
+            "credit": "BDepoint"
+        }
+    ],
+    "seasons": [
+        "Winter (November–February): Cool weather ideal for exploring outdoor exhibits.",
+        "Autumn (September–October): Less crowded, perfect for detailed tours.",
+        "Avoid Summer (April–June): High humidity and heat may reduce comfort."
+    ],
+    "cautions": [
+        "Do not touch exhibits; many artifacts are fragile or historically significant.",
+        "Follow photography rules; some galleries prohibit cameras.",
+        "Keep noise levels low to maintain the museum’s solemn atmosphere.",
+        "Supervise children closely in outdoor areas with large military vehicles."
+    ],
+    "specials": [
+        "Liberation War Gallery: Rare photos, documents, and personal stories from 1971.",
+        "Outdoor Display: Tanks, fighter jets, and helicopters used by the Bangladesh Army.",
+        "Children’s Corner: Interactive exhibits for young learners.",
+        "Historical Artifacts: Ancient swords, Mughal-era armor, and modern military tech.",
+        "Patriotic Events: Special exhibitions on Victory Day (December 16) and Armed Forces Day (November 21)."
+    ],
+    "blogs": []
+}

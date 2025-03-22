@@ -256,5 +256,28 @@
       "Waterfalls"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1XQExOgqNZXxoQOFzQ_xp_UHX9vXpgmLR"
+  },
+  {
+    "id": "ds0023",
+    "title": "Bangladesh Military Museum",
+    "onImageTitle": "Military Museum",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "category": [
+      "Museums"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1MFdEPZRAHOFJZ81Vx2RWxaW5T6BcZhrP"
+  },
+  {
+    "id": "ds0024",
+    "title": "Nikli Haor",
+    "onImageTitle": "Nikli Haor",
+    "district": "Kishoregonj",
+    "division": "Dhaka",
+    "category": [
+      "Lakes",
+      "River Banks"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1PilVbRjJkSTyWsaFo65itvPHT0KY6t9F"
   }
 ]
