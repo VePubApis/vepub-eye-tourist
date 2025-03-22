@@ -237,12 +237,24 @@
   {
     "id": "ds0021",
     "title": "চন্দ্রনাথ পাহাড়",
-    "onImageTitle": "চন্দ্রনাথ পাহাড়",
+    "onImageTitle": "Chandranath Hill",
     "district": "চট্টগ্রাম",
     "division": "চট্টগ্রাম",
     "category": [
       "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=14XL1P4ccP7Px7UUeVGm2-zSmTqxHxZMz"
+  },
+  {
+    "id": "ds0022",
+    "title": "রিসাং জলপ্রপাত",
+    "onImageTitle": "Risang Waterfalls",
+    "district": "খাগড়াছড়ি",
+    "division": "চট্টগ্রাম",
+    "category": [
+      "পাহাড়-পর্বত",
+      "ঝর্ণা"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1XQExOgqNZXxoQOFzQ_xp_UHX9vXpgmLR"
   }
 ]
