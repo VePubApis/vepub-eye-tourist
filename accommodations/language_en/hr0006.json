@@ -1,0 +1,32 @@
+{
+    "id": "hr0006",
+    "title": "Ocean Paradise",
+    "onImageTitle": "Ocean Paradise",
+    "district": "Cox's Bazar",
+    "division": "Chattogram",
+    "category": [
+        "Hotels and Resorts"
+    ],
+    "address": "28-29, Hotel Motel Zone, Road, Cox's Bazar 4700, Bangladesh",
+    "description": "Ocean Paradise Hotel & Resort offers a luxurious beachfront experience on Cox’s Bazar, the world’s longest natural sea beach. With modern amenities like a swimming pool, spa, and diverse dining options, it caters to leisure and business travelers. Proximity to attractions like Himchori Waterfall and Inani Beach makes it ideal for explorers.",
+    "phone": [
+        "+8801938846761"
+    ],
+    "website": [
+        {
+            "url": "http://www.oceanparadisehotel.com/",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/oceanparadisehotel/",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Ocean+Paradise+Hotel+%26+Resort/@21.4184603,91.9798661,17z/data=!3m1!4b1!4m9!3m8!1s0x30adc62a55555555:0x2e775757ca43f46a!5m2!4m1!1i2!8m2!3d21.4184603!4d91.9824464!16s%2Fg%2F1tdrbhmr?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1bY9kvoQ7IugBibTRaHRJpgcnWvQibGBk",
+            "credit": "Booking.com"
+        }
+    ]
+}

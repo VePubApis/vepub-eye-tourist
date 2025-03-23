@@ -1,0 +1,32 @@
+{
+    "id": "hr0006",
+    "title": "ওশিয়ানস প্যারাডাইস",
+    "onImageTitle": "Ocean Paradise",
+    "district": "কক্সবাজার",
+    "division": "চট্টগ্রাম",
+    "category": [
+        "হোটেল ও রিসোর্ট"
+    ],
+    "address": "২৮-২৯, হোটেল মোটেল জোন, রোড, কক্সবাজার ৪৭০০, বাংলাদেশ",
+    "description": "ওশেন প্যারাডাইস হোটেল ও রিসোর্ট বিশ্বের দীর্ঘতম প্রাকৃতিক সমুদ্র সৈকত কক্সবাজারে একটি বিলাসবহুল সমুদ্রতট অভিজ্ঞতা প্রদান করে। সুইমিং পুল, স্পা ও বিভিন্ন রেস্টুরেন্টের মতো আধুনিক সুবিধা সহ এই রিসোর্ট বিনোদন ও ব্যবসায়িক ভ্রমণকারীদের জন্য উপযোগী। হিমছড়ি জলপ্রপাত ও ইনানী বিচের নিকটবর্তী অবস্থান একে অভিযাত্রীদের জন্য আদর্শ করে তোলে।",
+    "phone": [
+        "+8801938846761"
+    ],
+    "website": [
+        {
+            "url": "http://www.oceanparadisehotel.com/",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/oceanparadisehotel/",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Ocean+Paradise+Hotel+%26+Resort/@21.4184603,91.9798661,17z/data=!3m1!4b1!4m9!3m8!1s0x30adc62a55555555:0x2e775757ca43f46a!5m2!4m1!1i2!8m2!3d21.4184603!4d91.9824464!16s%2Fg%2F1tdrbhmr?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1bY9kvoQ7IugBibTRaHRJpgcnWvQibGBk",
+            "credit": "Booking.com"
+        }
+    ]
+}

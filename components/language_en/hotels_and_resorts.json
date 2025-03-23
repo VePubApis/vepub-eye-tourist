@@ -53,5 +53,16 @@
             "Hotels and Resorts"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1BsSdo9Q7994cO92jb8gNaSAOkq-yimYE"
+    },
+    {
+        "id": "hr0006",
+        "title": "Ocean Paradise",
+        "onImageTitle": "Ocean Paradise",
+        "district": "Cox's Bazar",
+        "division": "Chattogram",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1bY9kvoQ7IugBibTRaHRJpgcnWvQibGBk"
     }
 ]

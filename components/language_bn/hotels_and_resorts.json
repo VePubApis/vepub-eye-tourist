@@ -53,5 +53,16 @@
             "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1BsSdo9Q7994cO92jb8gNaSAOkq-yimYE"
+    },
+    {
+        "id": "hr0006",
+        "title": "ওশিয়ানস প্যারাডাইস",
+        "onImageTitle": "Ocean Paradise",
+        "district": "কক্সবাজার",
+        "division": "চট্টগ্রাম",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1bY9kvoQ7IugBibTRaHRJpgcnWvQibGBk"
     }
 ]
