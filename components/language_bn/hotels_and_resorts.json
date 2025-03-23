@@ -75,5 +75,16 @@
             "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1wRz60a4yy4rzbO9a3iHav8DP_Dau-rVe"
+    },
+    {
+        "id": "hr0008",
+        "title": "রোজ গার্ডেন গেস্ট হাউস",
+        "onImageTitle": "Rose Garden",
+        "district": "খুলনা",
+        "division": "খুলনা",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=10lwcriQyWMQr2aygm7zh9TVRxevOKo5E"
     }
 ]

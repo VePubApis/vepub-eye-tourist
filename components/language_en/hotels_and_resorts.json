@@ -75,5 +75,16 @@
             "Hotels and Resorts"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1wRz60a4yy4rzbO9a3iHav8DP_Dau-rVe"
+    },
+    {
+        "id": "hr0008",
+        "title": "Rose Garden Guest House",
+        "onImageTitle": "Rose Garden",
+        "district": "Khulna",
+        "division": "Khulna",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=10lwcriQyWMQr2aygm7zh9TVRxevOKo5E"
     }
 ]

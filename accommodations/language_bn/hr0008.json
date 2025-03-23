@@ -1,0 +1,32 @@
+{
+    "id": "hr0008",
+    "title": "রোজ গার্ডেন গেস্ট হাউস",
+    "onImageTitle": "Rose Garden",
+    "district": "খুলনা",
+    "division": "খুলনা",
+    "category": [
+        "হোটেল ও রিসোর্ট"
+    ],
+    "address": "১১৪০, কে ডি এ খান বাহাদুর আহসানুল্লাহ রোড, খুলনা ৯১০০, বাংলাদেশ",
+    "description": "খুলনার রোজ গার্ডেন গেস্ট হাউস সবুজ বাগান পরিবেষ্টিত একটি শান্তিপূর্ণ আবাস প্রদান করে। সুন্দরবন বা শহরের দর্শনীয় স্থান ঘুরে দেখা ভ্রমণকারীদের জন্য আদর্শ এই গেস্ট হাউসে আরামদায়ক কক্ষ, গার্ডেন ক্যাফে ও বিনামূল্যে ওয়াই-ফাই সুবিধা রয়েছে। ষাট গম্বুজ মসজিদ ও খুলনা রেলওয়ে স্টেশন থেকে অল্প দূরে অবস্থিত।",
+    "phone": [
+        "+8801874044201"
+    ],
+    "website": [
+        {
+            "url": "https://www.booking.com/hotel/bd/rose-garden-guest-house.en.html?aid=7945658&no_rooms=1&group_adults=2%22&fbclid=IwY2xjawJNI9ZleHRuA2FlbQIxMAABHR9I3-YhmZHqNAATL5IM2iukAvdLsgo_oQJU4acavwRQS4d73KcM4ATi1Q_aem_-gr7i0sBvuGb1r1hdHuv7Q",
+            "site": "Official Website"
+        },
+        {
+            "url": "https://www.facebook.com/rosegardenguesthousekhulna",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Rose+Garden+Guest+House,+Khulna/@22.8225196,89.5380987,17z/data=!3m1!4b1!4m9!3m8!1s0x39ff9bf60d845c07:0x367c813e367d5ed5!5m2!4m1!1i2!8m2!3d22.8225196!4d89.540679!16s%2Fg%2F11s1s84qp_?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=10lwcriQyWMQr2aygm7zh9TVRxevOKo5E",
+            "credit": "Booking.com"
+        }
+    ]
+}
