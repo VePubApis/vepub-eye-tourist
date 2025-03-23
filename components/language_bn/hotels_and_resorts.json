@@ -64,5 +64,16 @@
             "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1bY9kvoQ7IugBibTRaHRJpgcnWvQibGBk"
+    },
+    {
+        "id": "hr0007",
+        "title": "বটমহিল প্যালেস হোটেল",
+        "onImageTitle": "Bottomhill Palace",
+        "district": "সিলেট",
+        "division": "সিলেট",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1wRz60a4yy4rzbO9a3iHav8DP_Dau-rVe"
     }
 ]

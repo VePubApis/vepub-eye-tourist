@@ -1,0 +1,32 @@
+{
+    "id": "hr0007",
+    "title": "বটমহিল প্যালেস হোটেল",
+    "onImageTitle": "Bottomhill Palace",
+    "district": "সিলেট",
+    "division": "সিলেট",
+    "category": [
+        "হোটেল ও রিসোর্ট"
+    ],
+    "address": "ওয়েভস 1 / ই, দরগা গেট, সিলেট 3100, বাংলাদেশ",
+    "description": "সিলেটের বটমহিল প্যালেস হোটেল আধুনিক বিলাসিতা ও ঐতিহ্যবাহী আতিথেয়তার মিশ্রণ প্রদান করে। শহরের কেন্দ্রে অবস্থিত এই হোটেলে প্রশস্ত কক্ষ, রুফটপ রেস্টুরেন্ট ও সম্মেলন সুবিধা রয়েছে। রাতারগুল সোয়াম্প ফরেস্ট ও জাফলংয়ের মতো আকর্ষণ ঘুরে দেখা পর্যটক ও ব্যবসায়িক ভ্রমণকারীদের জন্য আদর্শ।",
+    "phone": [
+        "+8801700763512"
+    ],
+    "website": [
+        {
+            "url": "",
+            "site": "Official Website"
+        },
+        {
+            "url": "https://www.facebook.com/profile.php?id=100064036927827",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Bottom+Hill+Palace+Hotel/@24.9016625,91.8677002,17z/data=!3m1!4b1!4m9!3m8!1s0x375055282d7f0943:0x7f48f2de97c1b173!5m2!4m1!1i2!8m2!3d24.9016625!4d91.8702805!16s%2Fg%2F11dz57h426?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1wRz60a4yy4rzbO9a3iHav8DP_Dau-rVe",
+            "credit": "Booking.com"
+        }
+    ]
+}
