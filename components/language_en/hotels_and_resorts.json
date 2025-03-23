@@ -86,5 +86,16 @@
             "Hotels and Resorts"
         ],
         "image": "https://drive.google.com/uc?export=view&id=10lwcriQyWMQr2aygm7zh9TVRxevOKo5E"
+    },
+    {
+        "id": "hr0009",
+        "title": "Hotel Grand Park",
+        "onImageTitle": "Hotel Grand Park",
+        "district": "Barishal",
+        "division": "Barishal",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1i_wKIj-rsUUZtPUj-aVvPkW6NnAi3kZd"
     }
 ]

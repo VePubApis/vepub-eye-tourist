@@ -86,5 +86,16 @@
             "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=10lwcriQyWMQr2aygm7zh9TVRxevOKo5E"
+    },
+    {
+        "id": "hr0009",
+        "title": "হোটেল গ্র্যান্ড পার্ক",
+        "onImageTitle": "Hotel Grand Park",
+        "district": "বরিশাল",
+        "division": "বরিশাল",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1i_wKIj-rsUUZtPUj-aVvPkW6NnAi3kZd"
     }
 ]

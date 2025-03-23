@@ -1,0 +1,32 @@
+{
+    "id": "hr0009",
+    "title": "হোটেল গ্র্যান্ড পার্ক",
+    "onImageTitle": "Hotel Grand Park",
+    "district": "বরিশাল",
+    "division": "বরিশাল",
+    "category": [
+        "হোটেল ও রিসোর্ট"
+    ],
+    "address": "বেলস পার্ক, ব্যান্ড রোড, বরিশাল ৮২০০, বাংলাদেশ",
+    "description": "বরিশালের হোটেল গ্র্যান্ড পার্ক আধুনিক সুযোগ-সুবিধা সহ শহরের প্রধান আকর্ষণগুলির নিকটবর্তী। এয়ার-কন্ডিশন্ড কক্ষ, মাল্টি-কুইজিন রেস্টুরেন্ট ও সম্মেলন কক্ষ ব্যবসায়িক ও বিনোদন ভ্রমণকারীদের জন্য উপযোগী। কাছাকাছি দর্শনীয় স্থানের মধ্যে রয়েছে দুর্গা সাগর লেক এবং ৩ ঘণ্টার দূরত্বে কুয়াকাটা বিচ।",
+    "phone": [
+        "+8801777735173"
+    ],
+    "website": [
+        {
+            "url": "https://hotelgrandparkbarisal.com",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/hgpbarishal",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hotel+Grand+Park+Barisal/@22.6912122,90.3661577,17z/data=!3m1!4b1!4m9!3m8!1s0x3755340ccb9574fb:0x215be985c2c99007!5m2!4m1!1i2!8m2!3d22.6912122!4d90.368738!16s%2Fg%2F11b8t85n0z?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1i_wKIj-rsUUZtPUj-aVvPkW6NnAi3kZd",
+            "credit": "Booking.com"
+        }
+    ]
+}

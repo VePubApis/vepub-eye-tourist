@@ -1,0 +1,32 @@
+{
+    "id": "hr0009",
+    "title": "Hotel Grand Park",
+    "onImageTitle": "Hotel Grand Park",
+    "district": "Barishal",
+    "division": "Barishal",
+    "category": [
+        "Hotels and Resorts"
+    ],
+    "address": "Bell's Park, Band Road, Barishal 8200, Bangladesh",
+    "description": "Hotel Grand Park in Barishal offers modern comfort with easy access to the city’s key attractions. Featuring air-conditioned rooms, a multi-cuisine restaurant, and conference halls, it caters to both business and leisure travelers. Nearby sites include Durga Sagar Lake and Kuakata Beach, a 3-hour drive away.",
+    "phone": [
+        "+8801777735173"
+    ],
+    "website": [
+        {
+            "url": "https://hotelgrandparkbarisal.com",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/hgpbarishal",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hotel+Grand+Park+Barisal/@22.6912122,90.3661577,17z/data=!3m1!4b1!4m9!3m8!1s0x3755340ccb9574fb:0x215be985c2c99007!5m2!4m1!1i2!8m2!3d22.6912122!4d90.368738!16s%2Fg%2F11b8t85n0z?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1i_wKIj-rsUUZtPUj-aVvPkW6NnAi3kZd",
+            "credit": "Booking.com"
+        }
+    ]
+}
