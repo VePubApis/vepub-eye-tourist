@@ -97,5 +97,16 @@
             "Hotels and Resorts"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1i_wKIj-rsUUZtPUj-aVvPkW6NnAi3kZd"
+    },
+    {
+        "id": "hr0010",
+        "title": "Hotel Sonar Bangla",
+        "onImageTitle": "Hotel Sonar Bangla",
+        "district": "Rangamati",
+        "division": "Chattogram",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=17I_bT2x-kqpDs0PMAFbd9mi0Ev9JS2fd"
     }
 ]

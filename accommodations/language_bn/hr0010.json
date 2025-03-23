@@ -1,0 +1,32 @@
+{
+    "id": "hr0010",
+    "title": "হোটেল সোনার বাংলা",
+    "onImageTitle": "Hotel Sonar Bangla",
+    "district": "রাঙ্গামাটি",
+    "division": "চট্টগ্রাম",
+    "category": [
+        "হোটেল ও রিসোর্ট"
+    ],
+    "address": "আগ্রাণী ব্যাংক লিমিটেডের পাশে, রিজার্ভ বাজার, রাঙ্গামাটি, রাঙ্গামাটি, বাংলাদেশ",
+    "description": "রাঙ্গামাটির হোটেল সোনার বাংলা কাপ্তাই লেকের পাশে একটি নির্জন লেকসাইড রিট্রিট প্রদান করে। প্রকৃতিপ্রেমীদের জন্য আদর্শ এই হোটেলে লেক-ভিউ কক্ষ, ঐতিহ্যবাহী বাঙালি রেস্টুরেন্ট ও আদিবাসী গ্রামে নৌকা ভ্রমণের সুবিধা রয়েছে। হ্যাংগিং ব্রিজ ও রাঙ্গামাটি হিল টাউনের মতো আকর্ষণগুলির নিকটবর্তী।",
+    "phone": [
+        "+8801618791111"
+    ],
+    "website": [
+        {
+            "url": "https://hotelsonarbanglarangamati.com/",
+            "site": "ওয়েবসাইট"
+        },
+        {
+            "url": "https://www.facebook.com/hotelsonarbanglarangamati",
+            "site": "ফেসবুক"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hotel+Sonar+Bangla/@22.646689,92.1916253,17z/data=!3m1!4b1!4m9!3m8!1s0x30ad27746164862f:0xe6708d2541f7639d!5m2!4m1!1i2!8m2!3d22.646689!4d92.1942056!16s%2Fg%2F11kv0pcrvn?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=17I_bT2x-kqpDs0PMAFbd9mi0Ev9JS2fd",
+            "credit": "Hotel Sonar Bangla"
+        }
+    ]
+}

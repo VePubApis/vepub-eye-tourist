@@ -1,0 +1,32 @@
+{
+    "id": "hr0010",
+    "title": "Hotel Sonar Bangla",
+    "onImageTitle": "Hotel Sonar Bangla",
+    "district": "Rangamati",
+    "division": "Chattogram",
+    "category": [
+        "Hotels and Resorts"
+    ],
+    "address": "Beside the Agrani Bank Limited, Reserve Bazar, Rangamati., Rangamati, Bangladesh",
+    "description": "Hotel Sonar Bangla in Rangamati offers a serene lakeside retreat near Kaptai Lake. Ideal for nature lovers, it features lake-view rooms, a traditional Bengali restaurant, and boat tours to tribal villages. The hotel is close to attractions like the Hanging Bridge and Rangamati Hill Town.",
+    "phone": [
+        "+8801618791111"
+    ],
+    "website": [
+        {
+            "url": "https://hotelsonarbanglarangamati.com/",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/hotelsonarbanglarangamati",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hotel+Sonar+Bangla/@22.646689,92.1916253,17z/data=!3m1!4b1!4m9!3m8!1s0x30ad27746164862f:0xe6708d2541f7639d!5m2!4m1!1i2!8m2!3d22.646689!4d92.1942056!16s%2Fg%2F11kv0pcrvn?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=17I_bT2x-kqpDs0PMAFbd9mi0Ev9JS2fd",
+            "credit": "Hotel Sonar Bangla"
+        }
+    ]
+}
