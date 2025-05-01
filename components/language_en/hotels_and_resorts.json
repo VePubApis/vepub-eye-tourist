@@ -108,5 +108,16 @@
             "Hotels and Resorts"
         ],
         "image": "https://drive.google.com/uc?export=view&id=17I_bT2x-kqpDs0PMAFbd9mi0Ev9JS2fd"
+    },
+    {
+        "id": "hr0011",
+        "title": "Little Rangpur Inn",
+        "onImageTitle": "Little Rangpur Inn",
+        "district": "Rangpur",
+        "division": "Rangpur",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1wPBuL28Qbn1LN8DyiojaG0rt7b4b76m9"
     }
 ]

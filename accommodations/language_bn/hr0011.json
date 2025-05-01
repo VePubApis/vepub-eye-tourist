@@ -1,0 +1,32 @@
+{
+    "id": "hr0011",
+    "title": "লিটল রাঙ্গপুর ইন",
+    "onImageTitle": "Little Rangpur Inn",
+    "district": "রংপুর",
+    "division": "রংপুর",
+    "category": [
+        "হোটেল ও রিসোর্ট"
+    ],
+    "address": "মুলতোল (কোতোয়ালি থানার পাশে) 5400 রংপুর, বাংলাদেশ",
+    "description_bn": "লিটল রাঙ্গপুর ইন হল রংপুরের কেন্দ্রে অবস্থিত একটি আরামদায়ক হোটেল, যা আরামদায়ক আবাসন এবং উষ্ণ পরিবেশ প্রদান করে। হোটেলটিতে সুসজ্জিত কক্ষ, স্থানীয় এবং আন্তর্জাতিক খাবার পরিবেশনকারী একটি রেস্তোরাঁ এবং নিকটবর্তী আকর্ষণগুলিতে সহজ প্রবেশাধিকার রয়েছে। অতিথিরা আধুনিক সুযোগ-সুবিধা এবং বন্ধুত্বপূর্ণ পরিষেবার সাথে একটি আরামদায়ক থাকার অভিজ্ঞতা উপভোগ করতে পারেন।",
+    "phone": [
+        "+8801780717171"
+    ],
+    "website": [
+        {
+            "url": "https://littlerangpur.com",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/littlerangpurinn",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Little+Rangpur+Inn/@25.7472098,89.2466113,17z/data=!4m10!3m9!1s0x39e32df903044d2d:0xf9da7ad29a63ccac!5m3!1s2025-05-16!4m1!1i2!8m2!3d25.7472098!4d89.2491916!16s%2Fg%2F11g70jw0d3?entry=ttu&g_ep=EgoyMDI1MDQyOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1wPBuL28Qbn1LN8DyiojaG0rt7b4b76m9",
+            "credit": "Booking.com"
+        }
+    ]
+}

@@ -108,5 +108,16 @@
             "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=17I_bT2x-kqpDs0PMAFbd9mi0Ev9JS2fd"
+    },
+    {
+        "id": "hr0011",
+        "title": "লিটল রাঙ্গপুর ইন",
+        "onImageTitle": "Little Rangpur Inn",
+        "district": "রংপুর",
+        "division": "রংপুর",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1wPBuL28Qbn1LN8DyiojaG0rt7b4b76m9"
     }
 ]

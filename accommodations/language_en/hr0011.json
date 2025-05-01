@@ -1,0 +1,32 @@
+{
+    "id": "hr0011",
+    "title": "Little Rangpur Inn",
+    "onImageTitle": "Little Rangpur Inn",
+    "district": "Rangpur",
+    "division": "Rangpur",
+    "category": [
+        "Hotels and Resorts"
+    ],
+    "address": "Mulatole (Beside Kotwali Thana) 5400 Rangpur, Bangladesh",
+    "description": "Little Rangpur Inn is a cozy hotel located in the heart of Rangpur, offering comfortable accommodations and a warm atmosphere. The hotel features well-furnished rooms, a restaurant serving local and international cuisine, and easy access to nearby attractions. Guests can enjoy a relaxing stay with modern amenities and friendly service.",
+    "phone": [
+        "+8801780717171"
+    ],
+    "website": [
+        {
+            "url": "https://littlerangpur.com",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/littlerangpurinn",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Little+Rangpur+Inn/@25.7472098,89.2466113,17z/data=!4m10!3m9!1s0x39e32df903044d2d:0xf9da7ad29a63ccac!5m3!1s2025-05-16!4m1!1i2!8m2!3d25.7472098!4d89.2491916!16s%2Fg%2F11g70jw0d3?entry=ttu&g_ep=EgoyMDI1MDQyOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1wPBuL28Qbn1LN8DyiojaG0rt7b4b76m9",
+            "credit": "Booking.com"
+        }
+    ]
+}
