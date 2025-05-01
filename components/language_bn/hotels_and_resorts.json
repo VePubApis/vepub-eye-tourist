@@ -119,5 +119,16 @@
             "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1wPBuL28Qbn1LN8DyiojaG0rt7b4b76m9"
+    },
+    {
+        "id": "hr0012",
+        "title": "হোটেল এক্স রাজশাহী",
+        "onImageTitle": "Hotel X Rajshahi",
+        "district": "রাজশাহী",
+        "division": "রাজশাহী",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1tLhfCrF7X3HxayPz2c-zpB19ugWGqBaI"
     }
 ]

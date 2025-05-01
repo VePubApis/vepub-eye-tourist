@@ -119,5 +119,16 @@
             "Hotels and Resorts"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1wPBuL28Qbn1LN8DyiojaG0rt7b4b76m9"
+    },
+    {
+        "id": "hr0012",
+        "title": "Hotel X Rajshahi",
+        "onImageTitle": "Hotel X Rajshahi",
+        "district": "Rajshahi",
+        "division": "Rajshahi",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1tLhfCrF7X3HxayPz2c-zpB19ugWGqBaI"
     }
 ]

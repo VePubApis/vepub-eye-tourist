@@ -1,0 +1,32 @@
+{
+    "id": "hr0012",
+    "title": "হোটেল এক্স রাজশাহী",
+    "onImageTitle": "Hotel X Rajshahi",
+    "district": "রাজশাহী",
+    "division": "রাজশাহী",
+    "category": [
+        "হোটেল ও রিসোর্ট"
+    ],
+    "address": "চন্দিপুর, রাজপাড়া, ৬০০০ রাজশাহী, বাংলাদেশ",
+    "description": "হোটেল এক্স রাজশাহী রাজশাহীর কেন্দ্রে অবস্থিত একটি আধুনিক হোটেল, যা আরামদায়ক আবাসন এবং উষ্ণ পরিবেশ প্রদান করে। হোটেলটিতে সুসজ্জিত কক্ষ, স্থানীয় এবং আন্তর্জাতিক খাবার পরিবেশনকারী একটি রেস্তোরাঁ এবং নিকটবর্তী আকর্ষণগুলিতে সহজ প্রবেশাধিকার রয়েছে। অতিথিরা আধুনিক সুযোগ-সুবিধা এবং বন্ধুত্বপূর্ণ পরিষেবার সাথে একটি আরামদায়ক থাকার অভিজ্ঞতা উপভোগ করতে পারেন।",
+    "phone": [
+        "+8801844004200"
+    ],
+    "website": [
+        {
+            "url": "https://www.hotelxhospitality.com",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/HotelXRajshahi",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hotel+X+Rajshahi/@24.3696382,88.5703674,17z/data=!4m10!3m9!1s0x39fbef1be56f3fdf:0xbb8672f291b5e901!5m3!1s2025-05-16!4m1!1i2!8m2!3d24.3696382!4d88.5729477!16s%2Fg%2F11pcnynb7t?entry=ttu&g_ep=EgoyMDI1MDQyOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1tLhfCrF7X3HxayPz2c-zpB19ugWGqBaI",
+            "credit": "Hotel X Group"
+        }
+    ]
+}
