@@ -357,8 +357,21 @@
     "district": "Barisal",
     "division": "Barisal",
     "category": [
-      "National Parks"
+      "National Parks",
+      "Lakes"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1JhETsMtIzs622NbrmrMLSiE3UBG-aD7s"
+  },
+  {
+    "id": "ds0032",
+    "title": "Char Kukri Mukri",
+    "onImageTitle": "Char Kukri Mukri",
+    "district": "Bhola",
+    "division": "Barisal",
+    "category": [
+      "Islands",
+      "Beaches"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1P1lQrRoiUU90PRpjOIU21gKUMvH19WJJ"
   }
 ]
