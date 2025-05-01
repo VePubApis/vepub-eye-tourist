@@ -152,5 +152,16 @@
             "Hotels and Resorts"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1rdmbSjp5mckVxUSveF6A9pnOE7-Kads1"
+    },
+    {
+        "id": "hr0015",
+        "title": "Hotel Hilton",
+        "onImageTitle": "Hotel Hilton",
+        "district": "Patuakhali",
+        "division": "Barishal",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1Us98IiZHV83GXIiebLOftR_meDH645Td"
     }
 ]

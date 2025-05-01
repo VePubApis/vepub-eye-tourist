@@ -152,5 +152,16 @@
             "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1rdmbSjp5mckVxUSveF6A9pnOE7-Kads1"
+    },
+    {
+        "id": "hr0015",
+        "title": "হোটেল হিলটন",
+        "onImageTitle": "Hotel Hilton",
+        "district": "পটুয়াখালী",
+        "division": "বরিশাল",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1Us98IiZHV83GXIiebLOftR_meDH645Td"
     }
 ]

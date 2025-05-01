@@ -1,0 +1,32 @@
+{
+    "id": "hr0015",
+    "title": "Hotel Hilton",
+    "onImageTitle": "Hotel Hilton",
+    "district": "Patuakhali",
+    "division": "Barishal",
+    "category": [
+        "Hotels and Resorts"
+    ],
+    "address": "Sadar Road 8600 Kalikapur, Barisal Division, Bangladesh.",
+    "description": "Hotel Hilton is a modern hotel located in Patuakhali, offering comfortable accommodations and a warm atmosphere. The hotel features well-furnished rooms, a restaurant serving local and international cuisine, and easy access to nearby attractions. Guests can enjoy a comfortable stay with modern amenities and friendly service.",
+    "phone": [
+        "+8801722228777"
+    ],
+    "website": [
+        {
+            "url": "",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/pages/Hotel%20Hilton%20Patuakhali/1504818606477140",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hotel+Hilton/@22.3620138,90.3462183,17z/data=!4m10!3m9!1s0x30aac6e8deb6909f:0xf54f42be1c258546!5m3!1s2025-05-16!4m1!1i2!8m2!3d22.3620138!4d90.3487986!16s%2Fg%2F11b7q7swpg?entry=ttu&g_ep=EgoyMDI1MDQyOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1Us98IiZHV83GXIiebLOftR_meDH645Td",
+            "credit": "Tripadvisor"
+        }
+    ]
+}
