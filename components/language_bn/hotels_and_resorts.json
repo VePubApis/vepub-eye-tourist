@@ -130,5 +130,16 @@
             "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1tLhfCrF7X3HxayPz2c-zpB19ugWGqBaI"
+    },
+    {
+        "id": "hr0013",
+        "title": "হোটেল এলিট প্যালেস",
+        "onImageTitle": "Hotel Elite Palace",
+        "districts": "কুমিল্লা",
+        "division": "চট্টগ্রাম",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1lj66iscOp8fMhHVR_jKEmGEmvnAfgUaI"
     }
 ]

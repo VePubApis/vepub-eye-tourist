@@ -1,0 +1,32 @@
+{
+    "id": "hr0013",
+    "title": "Hotel Elite Palace",
+    "onImageTitle": "Hotel Elite Palace",
+    "district": "Comilla",
+    "division": "Chattogram",
+    "category": [
+        "Hotels and Resorts"
+    ],
+    "address": "214, Jaotaola, comilla 3500 Comilla, Bangladesh",
+    "description": "Hotel Elite Palace is a modern hotel located in Comilla, offering comfortable accommodations and a warm atmosphere. The hotel features well-furnished rooms, a restaurant serving local and international cuisine, and easy access to nearby attractions. Guests can enjoy a comfortable stay with modern amenities and friendly service.",
+    "phone": [
+        "+8801981770777"
+    ],
+    "website": [
+        {
+            "url": "http://hotelelitepalace.com.bd",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/hotelelitepalacecomilla",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hotel+Elite+Palace/@23.4653685,91.1721175,17z/data=!4m10!3m9!1s0x37547f78e8490fa3:0x900670ba11521bee!5m3!1s2025-05-16!4m1!1i2!8m2!3d23.4653685!4d91.1746978!16s%2Fg%2F11sx1z6kj8?entry=ttu&g_ep=EgoyMDI1MDQyOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1lj66iscOp8fMhHVR_jKEmGEmvnAfgUaI",
+            "credit": "Tripadvisor"
+        }
+    ]
+}
