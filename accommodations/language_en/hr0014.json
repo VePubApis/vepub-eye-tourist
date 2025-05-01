@@ -1,0 +1,32 @@
+{
+    "id": "hr0014",
+    "title": "Hotel Valentino",
+    "onImageTitle": "Hotel Valentino",
+    "district": "Noakhali",
+    "division": "Chattogram",
+    "category": [
+        "Hotels and Resorts"
+    ],
+    "address": "Ahsan Bhaban (Shwapno Super shop), Guptanka, Main Road, Maijdee Court, Sadar, Noakhali-3800, Bangladesh.",
+    "description": "Hotel Valentino is a modern hotel located in Noakhali, offering comfortable accommodations and a warm atmosphere. The hotel features well-furnished rooms, a restaurant serving local and international cuisine, and easy access to nearby attractions. Guests can enjoy a comfortable stay with modern amenities and friendly service.",
+    "phone": [
+        "+8801795855555"
+    ],
+    "website": [
+        {
+            "url": "https://www.hotelvalentinobd.com",
+            "site": "Website"
+        },
+        {
+            "url": "https://www.facebook.com/hotelvalentinobd",
+            "site": "Facebook"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hotel+Valentino/@22.8602186,91.093641,17z/data=!4m10!3m9!1s0x3754a4f874decf55:0x471876991814f36b!5m3!1s2025-05-16!4m1!1i2!8m2!3d22.8602186!4d91.0962213!16s%2Fg%2F11dyxn7rvr?entry=ttu&g_ep=EgoyMDI1MDQyOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1rdmbSjp5mckVxUSveF6A9pnOE7-Kads1",
+            "credit": "Booking.com"
+        }
+    ]
+}

@@ -141,5 +141,16 @@
             "Hotels and Resorts"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1lj66iscOp8fMhHVR_jKEmGEmvnAfgUaI"
+    },
+    {
+        "id": "hr0014",
+        "title": "Hotel Valentino",
+        "onImageTitle": "Hotel Valentino",
+        "district": "Noakhali",
+        "division": "Chattogram",
+        "category": [
+            "Hotels and Resorts"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1rdmbSjp5mckVxUSveF6A9pnOE7-Kads1"
     }
 ]

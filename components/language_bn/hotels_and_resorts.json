@@ -138,8 +138,19 @@
         "districts": "কুমিল্লা",
         "division": "চট্টগ্রাম",
         "category": [
-            "Hotels and Resorts"
+            "হোটেল ও রিসোর্ট"
         ],
         "image": "https://drive.google.com/uc?export=view&id=1lj66iscOp8fMhHVR_jKEmGEmvnAfgUaI"
+    },
+    {
+        "id": "hr0014",
+        "title": "হোটেল ভ্যালেন্টিনো",
+        "onImageTitle": "Hotel Valentino",
+        "district": "নোয়াখালী",
+        "division": "চট্টগ্রাম",
+        "category": [
+            "হোটেল ও রিসোর্ট"
+        ],
+        "image": "https://drive.google.com/uc?export=view&id=1rdmbSjp5mckVxUSveF6A9pnOE7-Kads1"
     }
 ]
