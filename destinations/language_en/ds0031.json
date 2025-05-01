@@ -1,0 +1,37 @@
+{
+    "id": "ds0031",
+    "title": "Bell's Park",
+    "onImageTitle": "Bell's Park",
+    "district": "Barisal",
+    "division": "Barisal",
+    "category": [
+        "National Parks",
+        "Lakes"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Bells+Park,+Band+Rd,+Barisal/@22.6926672,90.3664674,17z/data=!3m1!4b1!4m6!3m5!1s0x3755340c94f1cd27:0xa2694f34d2011250!8m2!3d22.6928151!4d90.369245!16s%2Fg%2F11bvtfw8vr?entry=ttu&g_ep=EgoyMDI1MDQyOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D",
+    "details": "Bell's Park in Barisal is a serene green oasis offering a peaceful escape into nature. Spread across lush landscapes, the park features walking trails, picnic spots, and a tranquil lake ideal for boating. It is a popular spot for families, birdwatchers, and photographers, with seasonal blooms adding vibrant colors to the scenery.\n\nTo reach Bell's Park, take a CNG or auto-rickshaw from Barisal city center (15–20 minutes). The park is well-connected by local transport. Nearby attractions include the historic Durga Sagar Lake and the vibrant Bibir Pukur area.\n\nThe park hosts occasional cultural festivals and outdoor events, especially during winter. Local food vendors outside the park offer traditional snacks like 'pitha' and 'fuchka,' making it a delightful day-out destination.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1JhETsMtIzs622NbrmrMLSiE3UBG-aD7s",
+            "credit": "Cholo Zai"
+        }
+    ],
+    "seasons": [
+        "Winter (November–February): Cool weather perfect for picnics and outdoor activities.",
+        "Spring (March–April): Blooming flowers enhance the park's beauty.",
+        "Avoid Monsoon (June–September): Heavy rains may limit access."
+    ],
+    "cautions": [
+        "Avoid littering to preserve the park's cleanliness.",
+        "Stay on marked trails to protect flora.",
+        "Supervise children near the lake."
+    ],
+    "specials": [
+        "Lush Greenery: A biodiverse habitat for local birds and butterflies.",
+        "Boating Lake: Paddle boats available for leisurely rides.",
+        "Cultural Events: Seasonal festivals showcasing local art and music.",
+        "Picnic Zones: Designated areas with shaded seating.",
+        "Local Snacks: Try 'pitha' and 'fuchka' from nearby stalls."
+    ],
+    "blogs": []
+}
