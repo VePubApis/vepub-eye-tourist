@@ -35,5 +35,17 @@
         "ঘন সবুজ বন দ্বারা বেষ্টিত, যা সমুদ্র এবং প্রকৃতির একটি নিখুঁত সংমিশ্রণ প্রদান করে।",
         "ফটোগ্রাফি, সাঁতার এবং সৈকত ঘুরে দেখার জন্য দুর্দান্ত, প্রবাল পাথর অন্বেষণ এবং শান্ত ঢেউ উপভোগ করার সুযোগ সহ।"
     ],
-    "blogs": []
+    "blogs": [],
+    "promotions": [
+        {
+            "title": "Make Promotion",
+            "url": "",
+            "imageUrl": "https://drive.google.com/uc?export=view&id=1vPE8AjcpjsKT2_bhlHTrrSKCUAQs7X33"
+        },
+        {
+            "title": "Make Promotion 2",
+            "url": "",
+            "imageUrl": "https://drive.google.com/uc?export=view&id=1EneLgFj3FmOAbPv4VRMrgB0Jiw3crl0S"
+        }
+    ]
 }

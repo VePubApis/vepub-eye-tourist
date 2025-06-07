@@ -35,5 +35,17 @@
         "Surrounded by lush green forests, providing a perfect blend of sea and nature.",
         "Great for photography, swimming, and beachcombing, with opportunities to explore coral stones and enjoy the tranquil waves."
     ],
-    "blogs": []
+    "blogs": [],
+    "promotions": [
+        {
+            "title": "Make Promotion",
+            "url": "",
+            "imageUrl": "https://drive.google.com/uc?export=view&id=1vPE8AjcpjsKT2_bhlHTrrSKCUAQs7X33"
+        },
+        {
+            "title": "Make Promotion 2",
+            "url": "",
+            "imageUrl": "https://drive.google.com/uc?export=view&id=1EneLgFj3FmOAbPv4VRMrgB0Jiw3crl0S"
+        }
+    ]
 }
