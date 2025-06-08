@@ -2,6 +2,10 @@
     "id": "ds0012",
     "title": "ফ্যান্টাসি কিংডম",
     "onImageTitle": "Fantasy Kingdom",
+    "alternativeTitles": [
+        "ফ্যান্টাসি কিংডম",
+        "Fantasy Kingdom"
+    ],
     "district": "ঢাকা",
     "districts": [
         "ঢাকা"

@@ -1,7 +1,15 @@
 {
     "id": "ds0023",
-    "title": "বাংলাদেশ সেনাবাহিনী জাদুঘর",
+    "title": "বাংলাদেশ সামরিক জাদুঘর",
     "onImageTitle": "Military Museum",
+    "alternativeTitles": [
+        "সামরিক জাদুঘর",
+        "বাংলাদেশ সামরিক জাদুঘর",
+        "বঙ্গবন্ধু সামরিক জাদুঘর",
+        "Military Museum",
+        "Bangladesh Military Museum",
+        "Bangabandhu Military Museum"
+    ],
     "district": "ঢাকা",
     "districts": [
         "ঢাকা"

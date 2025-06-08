@@ -3,6 +3,10 @@
     "id": "ds0001",
     "title": "Inani Beach",
     "onImageTitle": "Inani Beach",
+    "alternativeTitles": [
+      "ইনানী বিচ",
+      "Inani Beach"
+    ],
     "district": "Cox's Bazar",
     "districts": [
       "Cox's Bazar"
@@ -17,6 +21,10 @@
     "id": "ds0002",
     "title": "Saint Martins",
     "onImageTitle": "Saint Martins",
+    "alternativeTitles": [
+      "সেন্ট মার্টিন",
+      "Saint Martins"
+    ],
     "district": "Cox's Bazar",
     "districts": [
       "Cox's Bazar"
@@ -32,6 +40,10 @@
     "id": "ds0003",
     "title": "Kaptai Lake",
     "onImageTitle": "Kaptai Lake",
+    "alternativeTitles": [
+      "কাপ্তাই লেক",
+      "Kaptai Lake"
+    ],
     "district": "Rangamati",
     "districts": [
       "Rangamati"
@@ -46,6 +58,10 @@
     "id": "ds0004",
     "title": "Nil Giri",
     "onImageTitle": "Nil Giri",
+    "alternativeTitles": [
+      "নীলগিরি",
+      "Nil Giri"
+    ],
     "district": "Bandarban",
     "districts": [
       "Bandarban"
@@ -60,6 +76,10 @@
     "id": "ds0005",
     "title": "Hiron Point",
     "onImageTitle": "Hiron Point",
+    "alternativeTitles": [
+      "হিরণ পয়েন্ট",
+      "Hiron Point"
+    ],
     "district": "Khulna",
     "districts": [
       "Khulna"
@@ -75,6 +95,10 @@
     "id": "ds0006",
     "title": "Tanguar Haor",
     "onImageTitle": "Tanguar Haor",
+    "alternativeTitles": [
+      "টাঙ্গুয়ার হাওর",
+      "Tanguar Haor"
+    ],
     "district": "Sunamganj",
     "districts": [
       "Sunamganj"
@@ -89,6 +113,10 @@
     "id": "ds0007",
     "title": "Jaflong",
     "onImageTitle": "Jaflong",
+    "alternativeTitles": [
+      "জাফলং",
+      "Jaflong"
+    ],
     "district": "Sylhet",
     "districts": [
       "Sylhet"
@@ -105,6 +133,10 @@
     "id": "ds0008",
     "title": "Sundarbans",
     "onImageTitle": "Sundarbans",
+    "alternativeTitles": [
+      "সুন্দরবন",
+      "Sundarbans"
+    ],
     "district": "Khulna",
     "districts": [
       "Khulna"
@@ -120,6 +152,10 @@
     "id": "ds0009",
     "title": "Cox's Bazar",
     "onImageTitle": "Cox's Bazar",
+    "alternativeTitles": [
+      "কক্সবাজার",
+      "Cox's Bazar"
+    ],
     "district": "Cox's Bazar",
     "districts": [
       "Cox's Bazar"
@@ -135,6 +171,10 @@
     "id": "ds0010",
     "title": "Nafakhum",
     "onImageTitle": "Nafakhum",
+    "alternativeTitles": [
+      "নাফাখুম",
+      "Nafakhum"
+    ],
     "district": "Bandarban",
     "districts": [
       "Bandarban"
@@ -150,6 +190,10 @@
     "id": "ds0011",
     "title": "Sajek Valley",
     "onImageTitle": "Sajek Valley",
+    "alternativeTitles": [
+      "সাজেক ভ্যালি",
+      "Sajek Valley"
+    ],
     "district": "Rangamati",
     "districts": [
       "Rangamati"
@@ -164,6 +208,10 @@
     "id": "ds0012",
     "title": "Fantasy Kingdom",
     "onImageTitle": "Fantasy Kingdom",
+    "alternativeTitles": [
+      "ফ্যান্টাসি কিংডম",
+      "Fantasy Kingdom"
+    ],
     "district": "Dhaka",
     "districts": [
       "Dhaka"
@@ -178,6 +226,10 @@
     "id": "ds0013",
     "title": "Patenga",
     "onImageTitle": "Patenga",
+    "alternativeTitles": [
+      "পতেঙ্গা বিচ",
+      "Patenga"
+    ],
     "district": "Chattogram",
     "districts": [
       "Chattogram"
@@ -190,8 +242,13 @@
   },
   {
     "id": "ds0014",
-    "title": "Shaat Gambuj Mosque",
+    "title": "Sixty Dome Mosque",
     "onImageTitle": "Shaat Gambuj",
+    "alternativeTitles": [
+      "ষাট গম্বুজ মসজিদ",
+      "Sixty Dome Mosque",
+      "Shaat Gambuj Mosque"
+    ],
     "district": "Bagerhat",
     "districts": [
       "Bagerhat"
@@ -207,6 +264,11 @@
     "id": "ds0015",
     "title": "Lalbag Fort",
     "onImageTitle": "Lalbag Kella",
+    "alternativeTitles": [
+      "লালবাগ কেল্লা",
+      "Lalbag Kella",
+      "Lalbag Fort"
+    ],
     "district": "Dhaka",
     "districts": [
       "Dhaka"
@@ -222,6 +284,12 @@
     "id": "ds0016",
     "title": "Gazipur Safari Park",
     "onImageTitle": "Safari Park",
+    "alternativeTitles": [
+      "গাজীপুর সাফারি পার্ক",
+      "বঙ্গবন্ধু শেখ মুজিব সাফারি পার্ক",
+      "Gazipur Safari Park",
+      "Bangabandhu Sheikh Mujib Safari Park"
+    ],
     "district": "Gazipur",
     "districts": [
       "Gazipur"
@@ -238,6 +306,10 @@
     "id": "ds0017",
     "title": "Sonargaon Museum",
     "onImageTitle": "Sonargaon Museum",
+    "alternativeTitles": [
+      "সোনারগাঁও জাদুঘর",
+      "Sonargaon Museum"
+    ],
     "district": "Narayanganj",
     "districts": [
       "Narayanganj"
@@ -253,6 +325,10 @@
     "id": "ds0018",
     "title": "Birishiri",
     "onImageTitle": "Birishiri",
+    "alternativeTitles": [
+      "বিরিশিরি",
+      "Birishiri"
+    ],
     "district": "Netrokona",
     "districts": [
       "Netrokona"
@@ -269,6 +345,10 @@
     "id": "ds0019",
     "title": "Puthia Rajbari",
     "onImageTitle": "Puthia Rajbari",
+    "alternativeTitles": [
+      "পুঠিয়া রাজবাড়ি",
+      "Puthia Rajbari"
+    ],
     "district": "Rajshahi",
     "districts": [
       "Rajshahi"
@@ -284,6 +364,10 @@
     "id": "ds0020",
     "title": "Kanchanjangha View Point",
     "onImageTitle": "Kanchanjangha",
+    "alternativeTitles": [
+      "কাঞ্চনজঙ্ঘা ভিউ পয়েন্ট",
+      "Kanchanjangha View Point"
+    ],
     "district": "Panchagarh",
     "districts": [
       "Panchagarh"
@@ -298,6 +382,10 @@
     "id": "ds0021",
     "title": "Chandranath Hill",
     "onImageTitle": "Chandranath Hill",
+    "alternativeTitles": [
+      "চন্দ্রনাথ পাহাড়",
+      "Chandranath Hill"
+    ],
     "district": "Chattogram",
     "districts": [
       "Chattogram"
@@ -312,6 +400,10 @@
     "id": "ds0022",
     "title": "Risang Waterfalls",
     "onImageTitle": "Risang Waterfalls",
+    "alternativeTitles": [
+      "রিসাং জলপ্রপাত",
+      "Risang Waterfalls"
+    ],
     "district": "Khagrachhari",
     "districts": [
       "Khagrachhari"
@@ -327,6 +419,14 @@
     "id": "ds0023",
     "title": "Bangladesh Military Museum",
     "onImageTitle": "Military Museum",
+    "alternativeTitles": [
+      "সামরিক জাদুঘর",
+      "বাংলাদেশ সামরিক জাদুঘর",
+      "বঙ্গবন্ধু সামরিক জাদুঘর",
+      "Military Museum",
+      "Bangladesh Military Museum",
+      "Bangabandhu Military Museum"
+    ],
     "district": "Dhaka",
     "districts": [
       "Dhaka"
@@ -341,6 +441,10 @@
     "id": "ds0024",
     "title": "Nikli Haor",
     "onImageTitle": "Nikli Haor",
+    "alternativeTitles": [
+      "নিকলী হাওর",
+      "Nikli Haor"
+    ],
     "district": "Kishoregonj",
     "districts": [
       "Kishoregonj"
@@ -356,6 +460,10 @@
     "id": "ds0025",
     "title": "Madhabkunda Waterfall",
     "onImageTitle": "Madhabkunda Waterfall",
+    "alternativeTitles": [
+      "মাধবকুণ্ড জলপ্রপাত",
+      "Madhabkunda Waterfall"
+    ],
     "district": "Moulvibazar",
     "districts": [
       "Moulvibazar"
@@ -371,6 +479,12 @@
     "id": "ds0026",
     "title": "Hazrat Shah Jalal Dargah",
     "onImageTitle": "Shah Jalal Dargah",
+    "alternativeTitles": [
+      "শাহ জালাল দরগাহ",
+      "হযরত শাহ জালাল দরগাহ",
+      "Shah Jalal Dargah",
+      "Hazrat Shah Jalal Dargah"
+    ],
     "district": "Sylhet",
     "districts": [
       "Sylhet"
@@ -385,6 +499,10 @@
     "id": "ds0027",
     "title": "Mithamain Haor",
     "onImageTitle": "Mithamain Haor",
+    "alternativeTitles": [
+      "মিঠামইন হাওর",
+      "Mithamain Haor"
+    ],
     "district": "Kishoregonj",
     "districts": [
       "Kishoregonj"
@@ -400,6 +518,10 @@
     "id": "ds0028",
     "title": "Hakaluki Haor",
     "onImageTitle": "Hakaluki Haor",
+    "alternativeTitles": [
+      "হাকালুকি হাওর",
+      "Hakaluki Haor"
+    ],
     "district": "Moulvibazar",
     "districts": [
       "Moulvibazar"
@@ -415,6 +537,10 @@
     "id": "ds0029",
     "title": "Alutila Cave",
     "onImageTitle": "Alutila Cave",
+    "alternativeTitles": [
+      "আলুটিলা গুহা",
+      "Alutila Cave"
+    ],
     "district": "Khagrachhari",
     "districts": [
       "Khagrachhari"
@@ -430,6 +556,10 @@
     "id": "ds0030",
     "title": "Kuakata",
     "onImageTitle": "Kuakata",
+    "alternativeTitles": [
+      "কুয়াকাটা",
+      "Kuakata"
+    ],
     "district": "Patuakhali",
     "districts": [
       "Patuakhali"
@@ -444,6 +574,10 @@
     "id": "ds0031",
     "title": "Bell's Park",
     "onImageTitle": "Bell's Park",
+    "alternativeTitles": [
+      "বেল'স পার্ক",
+      "Bell's Park"
+    ],
     "district": "Barisal",
     "districts": [
       "Barisal"
@@ -459,6 +593,10 @@
     "id": "ds0032",
     "title": "Char Kukri Mukri",
     "onImageTitle": "Char Kukri Mukri",
+    "alternativeTitles": [
+      "চর কুকরি মুকরি",
+      "Char Kukri Mukri"
+    ],
     "district": "Bhola",
     "districts": [
       "Bhola"
@@ -474,6 +612,10 @@
     "id": "ds0033",
     "title": "Gabkhan Bridge",
     "onImageTitle": "Gabkhan Bridge",
+    "alternativeTitles": [
+      "গাবখান ব্রিজ",
+      "Gabkhan Bridge"
+    ],
     "district": "Jhalokati",
     "districts": [
       "Jhalokati"
@@ -488,6 +630,12 @@
     "id": "ds0034",
     "title": "Boat Museum",
     "onImageTitle": "Boat Museum",
+    "alternativeTitles": [
+      "নৌকা জাদুঘর",
+      "বঙ্গবন্ধু নৌকা জাদুঘর",
+      "Boat Museum",
+      "Bangabandhu Boat Museum"
+    ],
     "district": "Barguna",
     "districts": [
       "Barguna"
@@ -502,6 +650,10 @@
     "id": "ds0035",
     "title": "Bhandaria Sishu Park",
     "onImageTitle": "Bhandaria Sishu Park",
+    "alternativeTitles": [
+      "ভাণ্ডারিয়া শিশু পার্ক",
+      "Bhandaria Sishu Park"
+    ],
     "district": "Pirojpur",
     "districts": [
       "Pirojpur"
@@ -517,6 +669,10 @@
     "id": "ds0036",
     "title": "Kasba Border Market",
     "onImageTitle": "Kasba Border Market",
+    "alternativeTitles": [
+      "কসবা সীমান্ত বাজার",
+      "Kasba Border Market"
+    ],
     "district": "Brahmanbaria",
     "districts": [
       "Brahmanbaria"
@@ -531,6 +687,10 @@
     "id": "ds0037",
     "title": "Rupsha Jamidar Palace",
     "onImageTitle": "Rupsha Jamidar Palace",
+    "alternativeTitles": [
+      "রূপসা জমিদার বাড়ি",
+      "Rupsha Jamidar Palace"
+    ],
     "district": "Chandpur",
     "districts": [
       "Chandpur"
@@ -546,6 +706,11 @@
     "id": "ds0038",
     "title": "Mainamati Palace",
     "onImageTitle": "Mainamati Palace",
+    "alternativeTitles": [
+      "ময়নামতি প্রাসাদ",
+      "Mainamati Palace",
+      "Palace of Queen Maynamati"
+    ],
     "district": "Comilla",
     "districts": [
       "Comilla"
@@ -561,6 +726,10 @@
     "id": "ds0039",
     "title": "Bijay Singh Dighi",
     "onImageTitle": "Bijay Singh Dighi",
+    "alternativeTitles": [
+      "বিজয় সিংহ দীঘি",
+      "Bijay Singh Dighi"
+    ],
     "district": "Feni",
     "districts": [
       "Feni"
@@ -575,6 +744,10 @@
     "id": "ds0040",
     "title": "Char Alexjander",
     "onImageTitle": "Char Alexjander",
+    "alternativeTitles": [
+      "চর আলেকজান্ডার",
+      "Char Alexander"
+    ],
     "district": "Laxmipur",
     "districts": [
       "Laxmipur"
