@@ -4,6 +4,9 @@
     "title": "ইনানী বীচ",
     "onImageTitle": "Inani Beach",
     "district": "কক্সবাজার",
+    "districts": [
+      "কক্সবাজার"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "সী বীচ"
@@ -15,6 +18,9 @@
     "title": "সেইন্ট-মার্টিন",
     "onImageTitle": "Saint Martins",
     "district": "কক্সবাজার",
+    "districts": [
+      "কক্সবাজার"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "সী বীচ",
@@ -27,6 +33,9 @@
     "title": "কাপ্তাই লেক",
     "onImageTitle": "Kaptai Lake",
     "district": "রাঙ্গামাটি",
+    "districts": [
+      "রাঙ্গামাটি"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "লেক"
@@ -38,6 +47,9 @@
     "title": "নীল গিরি",
     "onImageTitle": "Nil Giri",
     "district": "বান্দরবন",
+    "districts": [
+      "বান্দরবন"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "পাহাড়-পর্বত"
@@ -49,6 +61,9 @@
     "title": "হিরণ পয়েন্ট",
     "onImageTitle": "Hiron Point",
     "district": "খুলনা",
+    "districts": [
+      "খুলনা"
+    ],
     "division": "খুলনা",
     "category": [
       "বন-জঙ্গল",
@@ -61,6 +76,9 @@
     "title": "টাঙ্গুয়ার হাওর",
     "onImageTitle": "Tanguar Haor",
     "district": "সুনামগঞ্জ",
+    "districts": [
+      "সুনামগঞ্জ"
+    ],
     "division": "সিলেট",
     "category": [
       "লেক"
@@ -72,6 +90,9 @@
     "title": "জাফলং",
     "onImageTitle": "Jaflong",
     "district": "সিলেট",
+    "districts": [
+      "সিলেট"
+    ],
     "division": "সিলেট",
     "category": [
       "ঝর্ণা",
@@ -85,6 +106,9 @@
     "title": "সুন্দরবন",
     "onImageTitle": "Sundarbans",
     "district": "খুলনা",
+    "districts": [
+      "খুলনা"
+    ],
     "division": "খুলনা",
     "category": [
       "বন-জঙ্গল",
@@ -97,6 +121,9 @@
     "title": "কক্সবাজার",
     "onImageTitle": "Cox's Bazar",
     "district": "কক্সবাজার",
+    "districts": [
+      "কক্সবাজার"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "সী বীচ",
@@ -109,6 +136,9 @@
     "title": "নাফাকুম",
     "onImageTitle": "Nafakhum",
     "district": "বান্দরবন",
+    "districts": [
+      "বান্দরবন"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "ঝর্ণা",
@@ -121,6 +151,9 @@
     "title": "সাজেক ভ্যালি",
     "onImageTitle": "Sajek Valley",
     "district": "রাঙ্গামাটি",
+    "districts": [
+      "রাঙ্গামাটি"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "পাহাড়-পর্বত"
@@ -132,6 +165,9 @@
     "title": "ফ্যান্টাসি কিংডম",
     "onImageTitle": "Fantasy Kingdom",
     "district": "ঢাকা",
+    "districts": [
+      "ঢাকা"
+    ],
     "division": "ঢাকা",
     "category": [
       "থিম-পার্ক"
@@ -143,6 +179,9 @@
     "title": "পতেঙ্গা",
     "onImageTitle": "Patenga",
     "district": "চট্টগ্রাম",
+    "districts": [
+      "চট্টগ্রাম"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "সী বীচ"
@@ -154,6 +193,9 @@
     "title": "ষাট গম্বুজ মসজিদ",
     "onImageTitle": "Shaat Gambuj",
     "district": "বাগেরহাট",
+    "districts": [
+      "বাগেরহাট"
+    ],
     "division": "খুলনা",
     "category": [
       "ঐতিহ্যবাহী",
@@ -166,6 +208,9 @@
     "title": "লালবাগের কেল্লা",
     "onImageTitle": "Lalbag Kella",
     "district": "ঢাকা",
+    "districts": [
+      "ঢাকা"
+    ],
     "division": "ঢাকা",
     "category": [
       "ঐতিহ্যবাহী",
@@ -178,6 +223,9 @@
     "title": "গাজীপুর সাফারি পার্ক",
     "onImageTitle": "Safari Park",
     "district": "গাজীপুর",
+    "districts": [
+      "গাজীপুর"
+    ],
     "division": "ঢাকা",
     "category": [
       "জাতীয়-উদ্যান",
@@ -191,6 +239,9 @@
     "title": "সোনারগাঁও জাদুঘর",
     "onImageTitle": "Sonargaon Museum",
     "district": "নারায়ণগঞ্জ",
+    "districts": [
+      "নারায়ণগঞ্জ"
+    ],
     "division": "ঢাকা",
     "category": [
       "জাদুঘর",
@@ -203,6 +254,9 @@
     "title": "বিরিশিরি",
     "onImageTitle": "Birishiri",
     "district": "নেত্রকোণা",
+    "districts": [
+      "নেত্রকোণা"
+    ],
     "division": "ময়মনসিংহ",
     "category": [
       "পাহাড়-পর্বত",
@@ -216,6 +270,9 @@
     "title": "পুঠিয়া রাজবাড়ি",
     "onImageTitle": "Puthia Rajbari",
     "district": "রাজশাহী",
+    "districts": [
+      "রাজশাহী"
+    ],
     "division": "রাজশাহী",
     "category": [
       "ঐতিহ্যবাহী",
@@ -228,6 +285,9 @@
     "title": "কাঞ্চনজঙ্ঘা ভিউ পয়েন্ট",
     "onImageTitle": "Kanchanjangha",
     "district": "পঞ্চগড়",
+    "districts": [
+      "পঞ্চগড়"
+    ],
     "division": "রংপুর",
     "category": [
       "পাহাড়-পর্বত"
@@ -239,6 +299,9 @@
     "title": "চন্দ্রনাথ পাহাড়",
     "onImageTitle": "Chandranath Hill",
     "district": "চট্টগ্রাম",
+    "districts": [
+      "চট্টগ্রাম"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "পাহাড়-পর্বত"
@@ -250,6 +313,9 @@
     "title": "রিসাং জলপ্রপাত",
     "onImageTitle": "Risang Waterfalls",
     "district": "খাগড়াছড়ি",
+    "districts": [
+      "খাগড়াছড়ি"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "পাহাড়-পর্বত",
@@ -262,6 +328,9 @@
     "title": "বাংলাদেশ সেনাবাহিনী জাদুঘর",
     "onImageTitle": "Military Museum",
     "district": "ঢাকা",
+    "districts": [
+      "ঢাকা"
+    ],
     "division": "ঢাকা",
     "category": [
       "জাদুঘর"
@@ -273,6 +342,9 @@
     "title": "নিকলী হাওর",
     "onImageTitle": "Nikli Haor",
     "district": "কিশোরগঞ্জ",
+    "districts": [
+      "কিশোরগঞ্জ"
+    ],
     "division": "ঢাকা",
     "category": [
       "লেক",
@@ -285,6 +357,9 @@
     "title": "মাধবকুণ্ড জলপ্রপাত",
     "onImageTitle": "Madhabkunda Waterfall",
     "district": "মৌলভীবাজার",
+    "districts": [
+      "মৌলভীবাজার"
+    ],
     "division": "সিলেট",
     "category": [
       "পাহাড়-পর্বত",
@@ -297,6 +372,9 @@
     "title": "হযরত শাহ জালাল দরগাহ",
     "onImageTitle": "Shah Jalal Dargah",
     "district": "সিলেট",
+    "districts": [
+      "সিলেট"
+    ],
     "division": "সিলেট",
     "category": [
       "স্মৃতিস্তম্ভ"
@@ -308,6 +386,9 @@
     "title": "মিঠামইন হাওর",
     "onImageTitle": "Mithamain Haor",
     "district": "কিশোরগঞ্জ",
+    "districts": [
+      "কিশোরগঞ্জ"
+    ],
     "division": "ঢাকা",
     "category": [
       "লেক",
@@ -320,6 +401,9 @@
     "title": "হাকালুকি হাওর",
     "onImageTitle": "Hakaluki Haor",
     "district": "মৌলভীবাজার",
+    "districts": [
+      "মৌলভীবাজার"
+    ],
     "division": "সিলেট",
     "category": [
       "লেক",
@@ -332,6 +416,9 @@
     "title": "আলুটিলা গুহা",
     "onImageTitle": "Alutila Cave",
     "district": "খাগড়াছড়ি",
+    "districts": [
+      "খাগড়াছড়ি"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "পাহাড়-পর্বত",
@@ -344,6 +431,9 @@
     "title": "কুয়াকাটা",
     "onImageTitle": "Kuakata",
     "district": "পটুয়াখালী",
+    "districts": [
+      "পটুয়াখালী"
+    ],
     "division": "বরিশাল",
     "category": [
       "সী বীচ"
@@ -355,6 +445,9 @@
     "title": "বেল'স পার্ক",
     "onImageTitle": "Bell's Park",
     "district": "বরিশাল",
+    "districts": [
+      "বরিশাল"
+    ],
     "division": "বরিশাল",
     "category": [
       "জাতীয়-উদ্যান",
@@ -367,6 +460,9 @@
     "title": "চর কুকরি মুকরি",
     "onImageTitle": "Char Kukri Mukri",
     "district": "ভোলা",
+    "districts": [
+      "ভোলা"
+    ],
     "division": "বরিশাল",
     "category": [
       "দ্বীপ",
@@ -379,6 +475,9 @@
     "title": "গাবখান ব্রিজ",
     "onImageTitle": "Gabkhan Bridge",
     "district": "ঝালকাঠি",
+    "districts": [
+      "ঝালকাঠি"
+    ],
     "division": "বরিশাল",
     "category": [
       "নদীর-পাড়"
@@ -390,6 +489,9 @@
     "title": "নৌকা জাদুঘর",
     "onImageTitle": "Boat Museum",
     "district": "বরগুনা",
+    "districts": [
+      "বরগুনা"
+    ],
     "division": "বরিশাল",
     "category": [
       "জাদুঘর"
@@ -401,6 +503,9 @@
     "title": "Bhandaria Sishu Park",
     "onImageTitle": "Bhandaria Sishu Park",
     "district": "Pirojpur",
+    "districts": [
+      "পিরোজপুর"
+    ],
     "division": "Barisal",
     "category": [
       "থিম-পার্ক",
@@ -413,6 +518,9 @@
     "title": "কসবা সীমান্ত বাজার",
     "onImageTitle": "Kasba Border Market",
     "district": "ব্রাহ্মণবাড়িয়া",
+    "districts": [
+      "ব্রাহ্মণবাড়িয়া"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "মেলা"
@@ -424,6 +532,9 @@
     "title": "রূপসা জমিদার বাড়ি",
     "onImageTitle": "Rupsha Jamidar Palace",
     "district": "চাঁদপুর",
+    "districts": [
+      "চাঁদপুর"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "ঐতিহ্যবাহী",
@@ -436,6 +547,9 @@
     "title": "ময়নামতি প্রাসাদ",
     "onImageTitle": "Mainamati Palace",
     "district": "কুমিল্লা",
+    "districts": [
+      "কুমিল্লা"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "ঐতিহ্যবাহী",
@@ -448,6 +562,9 @@
     "title": "বিজয় সিংহ দীঘি",
     "onImageTitle": "Bijay Singh Dighi",
     "district": "ফেনী",
+    "districts": [
+      "ফেনী"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "লেক"
@@ -459,6 +576,9 @@
     "title": "চর আলেকজান্ডার",
     "onImageTitle": "Char Alexjander",
     "district": "লক্ষ্মীপুর",
+    "districts": [
+      "লক্ষ্মীপুর"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "সী বীচ"

@@ -4,6 +4,9 @@
     "title": "Inani Beach",
     "onImageTitle": "Inani Beach",
     "district": "Cox's Bazar",
+    "districts": [
+      "Cox's Bazar"
+    ],
     "division": "Chattogram",
     "category": [
       "Beaches"
@@ -15,6 +18,9 @@
     "title": "Saint Martins",
     "onImageTitle": "Saint Martins",
     "district": "Cox's Bazar",
+    "districts": [
+      "Cox's Bazar"
+    ],
     "division": "Chattogram",
     "category": [
       "Beaches",
@@ -27,6 +33,9 @@
     "title": "Kaptai Lake",
     "onImageTitle": "Kaptai Lake",
     "district": "Rangamati",
+    "districts": [
+      "Rangamati"
+    ],
     "division": "Chattogram",
     "category": [
       "Lakes"
@@ -38,6 +47,9 @@
     "title": "Nil Giri",
     "onImageTitle": "Nil Giri",
     "district": "Bandarban",
+    "districts": [
+      "Bandarban"
+    ],
     "division": "Chattogram",
     "category": [
       "Mountains"
@@ -49,6 +61,9 @@
     "title": "Hiron Point",
     "onImageTitle": "Hiron Point",
     "district": "Khulna",
+    "districts": [
+      "Khulna"
+    ],
     "division": "Khulna",
     "category": [
       "Forests",
@@ -61,6 +76,9 @@
     "title": "Tanguar Haor",
     "onImageTitle": "Tanguar Haor",
     "district": "Sunamganj",
+    "districts": [
+      "Sunamganj"
+    ],
     "division": "Sylhet",
     "category": [
       "Lakes"
@@ -72,6 +90,9 @@
     "title": "Jaflong",
     "onImageTitle": "Jaflong",
     "district": "Sylhet",
+    "districts": [
+      "Sylhet"
+    ],
     "division": "Sylhet",
     "category": [
       "Waterfalls",
@@ -85,6 +106,9 @@
     "title": "Sundarbans",
     "onImageTitle": "Sundarbans",
     "district": "Khulna",
+    "districts": [
+      "Khulna"
+    ],
     "division": "Khulna",
     "category": [
       "Forests",
@@ -97,6 +121,9 @@
     "title": "Cox's Bazar",
     "onImageTitle": "Cox's Bazar",
     "district": "Cox's Bazar",
+    "districts": [
+      "Cox's Bazar"
+    ],
     "division": "Chattogram",
     "category": [
       "Beaches",
@@ -109,6 +136,9 @@
     "title": "Nafakhum",
     "onImageTitle": "Nafakhum",
     "district": "Bandarban",
+    "districts": [
+      "Bandarban"
+    ],
     "division": "Chattogram",
     "category": [
       "Waterfalls",
@@ -121,6 +151,9 @@
     "title": "Sajek Valley",
     "onImageTitle": "Sajek Valley",
     "district": "Rangamati",
+    "districts": [
+      "Rangamati"
+    ],
     "division": "Chattogram",
     "category": [
       "Mountains"
@@ -132,6 +165,9 @@
     "title": "Fantasy Kingdom",
     "onImageTitle": "Fantasy Kingdom",
     "district": "Dhaka",
+    "districts": [
+      "Dhaka"
+    ],
     "division": "Dhaka",
     "category": [
       "Theme Parks"
@@ -143,6 +179,9 @@
     "title": "Patenga",
     "onImageTitle": "Patenga",
     "district": "Chattogram",
+    "districts": [
+      "Chattogram"
+    ],
     "division": "Chattogram",
     "category": [
       "Beaches"
@@ -154,6 +193,9 @@
     "title": "Shaat Gambuj Mosque",
     "onImageTitle": "Shaat Gambuj",
     "district": "Bagerhat",
+    "districts": [
+      "Bagerhat"
+    ],
     "division": "Khulna",
     "category": [
       "Heritages",
@@ -166,6 +208,9 @@
     "title": "Lalbag Fort",
     "onImageTitle": "Lalbag Kella",
     "district": "Dhaka",
+    "districts": [
+      "Dhaka"
+    ],
     "division": "Dhaka",
     "category": [
       "Heritages",
@@ -178,6 +223,9 @@
     "title": "Gazipur Safari Park",
     "onImageTitle": "Safari Park",
     "district": "Gazipur",
+    "districts": [
+      "Gazipur"
+    ],
     "division": "Dhaka",
     "category": [
       "National Parks",
@@ -191,6 +239,9 @@
     "title": "Sonargaon Museum",
     "onImageTitle": "Sonargaon Museum",
     "district": "Narayanganj",
+    "districts": [
+      "Narayanganj"
+    ],
     "division": "Dhaka",
     "category": [
       "Museums",
@@ -203,6 +254,9 @@
     "title": "Birishiri",
     "onImageTitle": "Birishiri",
     "district": "Netrokona",
+    "districts": [
+      "Netrokona"
+    ],
     "division": "Mymensingh",
     "category": [
       "Mountains",
@@ -216,6 +270,9 @@
     "title": "Puthia Rajbari",
     "onImageTitle": "Puthia Rajbari",
     "district": "Rajshahi",
+    "districts": [
+      "Rajshahi"
+    ],
     "division": "Rajshahi",
     "category": [
       "Heritages",
@@ -228,6 +285,9 @@
     "title": "Kanchanjangha View Point",
     "onImageTitle": "Kanchanjangha",
     "district": "Panchagarh",
+    "districts": [
+      "Panchagarh"
+    ],
     "division": "Rangpur",
     "category": [
       "Mountains"
@@ -239,6 +299,9 @@
     "title": "Chandranath Hill",
     "onImageTitle": "Chandranath Hill",
     "district": "Chattogram",
+    "districts": [
+      "Chattogram"
+    ],
     "division": "Chattogram",
     "category": [
       "Mountains"
@@ -250,6 +313,9 @@
     "title": "Risang Waterfalls",
     "onImageTitle": "Risang Waterfalls",
     "district": "Khagrachhari",
+    "districts": [
+      "Khagrachhari"
+    ],
     "division": "Chattogram",
     "category": [
       "Mountains",
@@ -262,6 +328,9 @@
     "title": "Bangladesh Military Museum",
     "onImageTitle": "Military Museum",
     "district": "Dhaka",
+    "districts": [
+      "Dhaka"
+    ],
     "division": "Dhaka",
     "category": [
       "Museums"
@@ -273,6 +342,9 @@
     "title": "Nikli Haor",
     "onImageTitle": "Nikli Haor",
     "district": "Kishoregonj",
+    "districts": [
+      "Kishoregonj"
+    ],
     "division": "Dhaka",
     "category": [
       "Lakes",
@@ -285,6 +357,9 @@
     "title": "Madhabkunda Waterfall",
     "onImageTitle": "Madhabkunda Waterfall",
     "district": "Moulvibazar",
+    "districts": [
+      "Moulvibazar"
+    ],
     "division": "Sylhet",
     "category": [
       "Mountains",
@@ -297,6 +372,9 @@
     "title": "Hazrat Shah Jalal Dargah",
     "onImageTitle": "Shah Jalal Dargah",
     "district": "Sylhet",
+    "districts": [
+      "Sylhet"
+    ],
     "division": "Sylhet",
     "category": [
       "Monuments"
@@ -308,6 +386,9 @@
     "title": "Mithamain Haor",
     "onImageTitle": "Mithamain Haor",
     "district": "Kishoregonj",
+    "districts": [
+      "Kishoregonj"
+    ],
     "division": "Dhaka",
     "category": [
       "Lakes",
@@ -320,6 +401,9 @@
     "title": "Hakaluki Haor",
     "onImageTitle": "Hakaluki Haor",
     "district": "Moulvibazar",
+    "districts": [
+      "Moulvibazar"
+    ],
     "division": "Sylhet",
     "category": [
       "Lakes",
@@ -332,6 +416,9 @@
     "title": "Alutila Cave",
     "onImageTitle": "Alutila Cave",
     "district": "Khagrachhari",
+    "districts": [
+      "Khagrachhari"
+    ],
     "division": "Chattogram",
     "category": [
       "Mountains",
@@ -344,6 +431,9 @@
     "title": "Kuakata",
     "onImageTitle": "Kuakata",
     "district": "Patuakhali",
+    "districts": [
+      "Patuakhali"
+    ],
     "division": "Barisal",
     "category": [
       "Beaches"
@@ -355,6 +445,9 @@
     "title": "Bell's Park",
     "onImageTitle": "Bell's Park",
     "district": "Barisal",
+    "districts": [
+      "Barisal"
+    ],
     "division": "Barisal",
     "category": [
       "National Parks",
@@ -367,6 +460,9 @@
     "title": "Char Kukri Mukri",
     "onImageTitle": "Char Kukri Mukri",
     "district": "Bhola",
+    "districts": [
+      "Bhola"
+    ],
     "division": "Barisal",
     "category": [
       "Islands",
@@ -379,6 +475,9 @@
     "title": "Gabkhan Bridge",
     "onImageTitle": "Gabkhan Bridge",
     "district": "Jhalokati",
+    "districts": [
+      "Jhalokati"
+    ],
     "division": "Barisal",
     "category": [
       "River Banks"
@@ -390,6 +489,9 @@
     "title": "Boat Museum",
     "onImageTitle": "Boat Museum",
     "district": "Barguna",
+    "districts": [
+      "Barguna"
+    ],
     "division": "Barisal",
     "category": [
       "Museums"
@@ -401,6 +503,9 @@
     "title": "Bhandaria Sishu Park",
     "onImageTitle": "Bhandaria Sishu Park",
     "district": "Pirojpur",
+    "districts": [
+      "Pirojpur"
+    ],
     "division": "Barisal",
     "category": [
       "Theme Parks",
@@ -413,6 +518,9 @@
     "title": "Kasba Border Market",
     "onImageTitle": "Kasba Border Market",
     "district": "Brahmanbaria",
+    "districts": [
+      "Brahmanbaria"
+    ],
     "division": "Chattogram",
     "category": [
       "Fairs"
@@ -424,6 +532,9 @@
     "title": "Rupsha Jamidar Palace",
     "onImageTitle": "Rupsha Jamidar Palace",
     "district": "Chandpur",
+    "districts": [
+      "Chandpur"
+    ],
     "division": "Chattogram",
     "category": [
       "Heritages",
@@ -436,6 +547,9 @@
     "title": "Mainamati Palace",
     "onImageTitle": "Mainamati Palace",
     "district": "Comilla",
+    "districts": [
+      "Comilla"
+    ],
     "division": "Chattogram",
     "category": [
       "Heritages",
@@ -448,6 +562,9 @@
     "title": "Bijay Singh Dighi",
     "onImageTitle": "Bijay Singh Dighi",
     "district": "Feni",
+    "districts": [
+      "Feni"
+    ],
     "division": "Chattogram",
     "category": [
       "Lakes"
@@ -459,6 +576,9 @@
     "title": "Char Alexjander",
     "onImageTitle": "Char Alexjander",
     "district": "Laxmipur",
+    "districts": [
+      "Laxmipur"
+    ],
     "division": "Chattogram",
     "category": [
       "Beaches"
