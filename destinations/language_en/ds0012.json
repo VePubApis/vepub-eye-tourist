@@ -3,6 +3,9 @@
     "title": "Fantasy Kingdom",
     "onImageTitle": "Fantasy Kingdom",
     "district": "Dhaka",
+    "districts": [
+        "Dhaka"
+    ],
     "division": "Dhaka",
     "category": [
         "Theme Parks"

@@ -3,6 +3,9 @@
     "title": "Hazrat Shah Jalal Dargah",
     "onImageTitle": "Shah Jalal Dargah",
     "district": "Sylhet",
+    "districts": [
+        "Sylhet"
+    ],
     "division": "Sylhet",
     "category": [
         "Monuments"

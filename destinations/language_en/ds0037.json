@@ -3,6 +3,9 @@
     "title": "Rupsha Jamidar Palace",
     "onImageTitle": "Rupsha Jamidar Palace",
     "district": "Chandpur",
+    "districts": [
+        "Chandpur"
+    ],
     "division": "Chattogram",
     "category": [
         "Heritages",

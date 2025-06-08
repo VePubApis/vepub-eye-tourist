@@ -3,6 +3,9 @@
     "title": "Bijay Singh Dighi",
     "onImageTitle": "Bijay Singh Dighi",
     "district": "Feni",
+    "districts": [
+        "Feni"
+    ],
     "division": "Chattogram",
     "category": [
         "Lakes"

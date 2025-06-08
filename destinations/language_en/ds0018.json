@@ -3,6 +3,9 @@
     "title": "Birishiri",
     "onImageTitle": "Birishiri",
     "district": "Netrokona",
+    "districts": [
+        "Netrokona"
+    ],
     "division": "Mymensingh",
     "category": [
         "Mountains",

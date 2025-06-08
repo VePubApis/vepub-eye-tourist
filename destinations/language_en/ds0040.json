@@ -3,6 +3,9 @@
     "title": "Char Alexjander",
     "onImageTitle": "Char Alexjander",
     "district": "Laxmipur",
+    "districts": [
+        "Laxmipur"
+    ],
     "division": "Chattogram",
     "category": [
         "Beaches"

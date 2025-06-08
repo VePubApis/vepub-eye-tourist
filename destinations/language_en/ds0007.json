@@ -3,6 +3,9 @@
     "title": "Jaflong",
     "onImageTitle": "Jaflong",
     "district": "Sylhet",
+    "districts": [
+        "Sylhet"
+    ],
     "division": "Sylhet",
     "category": [
         "Waterfalls",

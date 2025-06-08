@@ -3,6 +3,9 @@
     "title": "Nil Giri",
     "onImageTitle": "Nil Giri",
     "district": "Bandarban",
+    "districts": [
+        "Bandarban"
+    ],
     "division": "Chattogram",
     "category": [
         "Mountains"

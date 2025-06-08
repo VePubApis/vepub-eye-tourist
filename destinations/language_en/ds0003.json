@@ -3,6 +3,9 @@
     "title": "Kaptai Lake",
     "onImageTitle": "Kaptai Lake",
     "district": "Rangamati",
+    "districts": [
+        "Rangamati"
+    ],
     "division": "Chattogram",
     "category": [
         "Lakes"

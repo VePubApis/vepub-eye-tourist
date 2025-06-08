@@ -3,6 +3,9 @@
     "title": "Alutila Cave",
     "onImageTitle": "Alutila Cave",
     "district": "Khagrachhari",
+    "districts": [
+        "Khagrachhari"
+    ],
     "division": "Chattogram",
     "category": [
         "Mountains",

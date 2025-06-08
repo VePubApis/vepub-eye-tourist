@@ -3,6 +3,9 @@
     "title": "Boat Museum",
     "onImageTitle": "Boat Museum",
     "district": "Barguna",
+    "districts": [
+        "Barguna"
+    ],
     "division": "Barisal",
     "category": [
         "Museums"

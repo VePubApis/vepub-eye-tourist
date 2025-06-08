@@ -3,6 +3,9 @@
     "title": "Gazipur Safari Park",
     "onImageTitle": "Safari Park",
     "district": "Gazipur",
+    "districts": [
+        "Gazipur"
+    ],
     "division": "Dhaka",
     "category": [
         "National Parks",

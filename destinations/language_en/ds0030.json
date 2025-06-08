@@ -3,6 +3,9 @@
     "title": "Kuakata",
     "onImageTitle": "Kuakata",
     "district": "Patuakhali",
+    "districts": [
+        "Patuakhali"
+    ],
     "division": "Barisal",
     "category": [
         "Beaches"

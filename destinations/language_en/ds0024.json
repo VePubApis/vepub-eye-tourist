@@ -3,6 +3,9 @@
     "title": "Nikli Haor",
     "onImageTitle": "Nikli Haor",
     "district": "Kishoregonj",
+    "districts": [
+        "Kishoregonj"
+    ],
     "division": "Dhaka",
     "category": [
         "Lakes",

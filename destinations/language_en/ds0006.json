@@ -3,6 +3,9 @@
     "title": "Tanguar Haor",
     "onImageTitle": "Tanguar Haor",
     "district": "Sunamganj",
+    "districts": [
+        "Sunamganj"
+    ],
     "division": "Sylhet",
     "category": [
         "Lakes"

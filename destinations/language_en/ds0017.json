@@ -3,6 +3,9 @@
     "title": "Sonargaon Museum",
     "onImageTitle": "Sonargaon Museum",
     "district": "Narayanganj",
+    "districts": [
+        "Narayanganj"
+    ],
     "division": "Dhaka",
     "category": [
         "Museums",

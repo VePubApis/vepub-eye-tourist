@@ -3,6 +3,9 @@
     "title": "Madhabkunda Waterfall",
     "onImageTitle": "Madhabkunda Waterfall",
     "district": "Moulvibazar",
+    "districts": [
+        "Moulvibazar"
+    ],
     "division": "Sylhet",
     "category": [
         "Mountains",

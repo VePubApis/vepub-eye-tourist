@@ -3,6 +3,9 @@
     "title": "Chandranath Hill",
     "onImageTitle": "Chandranath Hill",
     "district": "Chattogram",
+    "districts": [
+        "Chattogram"
+    ],
     "division": "Chattogram",
     "category": [
         "Mountains"

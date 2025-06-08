@@ -3,6 +3,9 @@
     "title": "Bell's Park",
     "onImageTitle": "Bell's Park",
     "district": "Barisal",
+    "districts": [
+        "Barisal"
+    ],
     "division": "Barisal",
     "category": [
         "National Parks",

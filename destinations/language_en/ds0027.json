@@ -3,6 +3,9 @@
     "title": "Mithamain Haor",
     "onImageTitle": "Mithamain Haor",
     "district": "Kishoregonj",
+    "districts": [
+        "Kishoregonj"
+    ],
     "division": "Dhaka",
     "category": [
         "Lakes",

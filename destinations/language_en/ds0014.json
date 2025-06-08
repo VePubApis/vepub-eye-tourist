@@ -3,6 +3,9 @@
     "title": "Shaat Gambuj Mosque",
     "onImageTitle": "Shaat Gambuj",
     "district": "Bagerhat",
+    "districts": [
+        "Bagerhat"
+    ],
     "division": "Khulna",
     "category": [
         "Heritages",

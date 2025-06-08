@@ -3,6 +3,9 @@
     "title": "Gabkhan Bridge",
     "onImageTitle": "Gabkhan Bridge",
     "district": "Jhalokati",
+    "districts": [
+        "Jhalokati"
+    ],
     "division": "Barisal",
     "category": [
         "River Banks"

@@ -3,6 +3,9 @@
     "title": "Risang Waterfalls",
     "onImageTitle": "Risang Waterfalls",
     "district": "Khagrachhari",
+    "districts": [
+        "Khagrachhari"
+    ],
     "division": "Chattogram",
     "category": [
         "Mountains",

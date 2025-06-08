@@ -3,6 +3,9 @@
     "title": "Cox's Bazar",
     "onImageTitle": "Cox's Bazar",
     "district": "Cox's Bazar",
+    "districts": [
+        "Cox's Bazar"
+    ],
     "division": "Chattogram",
     "category": [
         "Beaches",

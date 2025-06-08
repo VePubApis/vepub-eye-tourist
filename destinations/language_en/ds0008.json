@@ -3,6 +3,9 @@
     "title": "Sundarbans",
     "onImageTitle": "Sundarbans",
     "district": "Khulna",
+    "districts": [
+        "Khulna"
+    ],
     "division": "Khulna",
     "category": [
         "Forests",

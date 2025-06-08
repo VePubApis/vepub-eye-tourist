@@ -3,6 +3,9 @@
     "title": "Sajek Valley",
     "onImageTitle": "Sajek Valley",
     "district": "Rangamati",
+    "districts": [
+        "Rangamati"
+    ],
     "division": "Chattogram",
     "category": [
         "Mountains"

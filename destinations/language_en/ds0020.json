@@ -3,6 +3,9 @@
     "title": "Kanchanjangha View Point",
     "onImageTitle": "Kanchanjangha",
     "district": "Panchagarh",
+    "districts": [
+        "Panchagarh"
+    ],
     "division": "Rangpur",
     "category": [
         "Mountains"

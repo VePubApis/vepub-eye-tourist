@@ -3,6 +3,9 @@
     "title": "Lalbag Fort",
     "onImageTitle": "Lalbag Kella",
     "district": "Dhaka",
+    "districts": [
+        "Dhaka"
+    ],
     "division": "Dhaka",
     "category": [
         "Heritages",

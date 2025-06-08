@@ -3,6 +3,9 @@
     "title": "Mainamati Palace",
     "onImageTitle": "Mainamati Palace",
     "district": "Comilla",
+    "districts": [
+        "Comilla"
+    ],
     "division": "Chattogram",
     "category": [
         "Heritages",

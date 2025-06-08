@@ -3,6 +3,9 @@
     "title": "Bhandaria Sishu Park",
     "onImageTitle": "Bhandaria Sishu Park",
     "district": "Pirojpur",
+    "districts": [
+        "Pirojpur"
+    ],
     "division": "Barisal",
     "category": [
         "Theme Parks",

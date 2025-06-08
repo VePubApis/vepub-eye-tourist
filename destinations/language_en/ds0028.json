@@ -3,6 +3,9 @@
     "title": "Hakaluki Haor",
     "onImageTitle": "Hakaluki Haor",
     "district": "Moulvibazar",
+    "districts": [
+        "Moulvibazar"
+    ],
     "division": "Sylhet",
     "category": [
         "Lakes",

@@ -3,6 +3,9 @@
     "title": "Nafakhum",
     "onImageTitle": "Nafakhum",
     "district": "Bandarban",
+    "districts": [
+        "Bandarban"
+    ],
     "division": "Chattogram",
     "category": [
         "Waterfalls",

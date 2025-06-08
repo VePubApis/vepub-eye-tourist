@@ -3,6 +3,9 @@
     "title": "Kasba Border Market",
     "onImageTitle": "Kasba Border Market",
     "district": "Brahmanbaria",
+    "districts": [
+        "Brahmanbaria"
+    ],
     "division": "Chattogram",
     "category": [
         "Fairs"

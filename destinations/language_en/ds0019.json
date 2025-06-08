@@ -3,6 +3,9 @@
     "title": "Puthia Rajbari",
     "onImageTitle": "Puthia Rajbari",
     "district": "Rajshahi",
+    "districts": [
+        "Rajshahi"
+    ],
     "division": "Rajshahi",
     "category": [
         "Heritages",

@@ -3,6 +3,9 @@
     "title": "Char Kukri Mukri",
     "onImageTitle": "Char Kukri Mukri",
     "district": "Bhola",
+    "districts": [
+        "Bhola"
+    ],
     "division": "Barisal",
     "category": [
         "Islands",

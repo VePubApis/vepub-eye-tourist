@@ -3,6 +3,9 @@
     "title": "Patenga Beach",
     "onImageTitle": "Patenga",
     "district": "Chattogram",
+    "districts": [
+        "Chattogram"
+    ],
     "division": "Chattogram",
     "category": [
         "Beaches"

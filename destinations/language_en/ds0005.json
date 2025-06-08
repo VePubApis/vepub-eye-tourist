@@ -3,6 +3,9 @@
     "title": "Hiron Point",
     "onImageTitle": "Hiron Point",
     "district": "Khulna",
+    "districts": [
+        "Khulna"
+    ],
     "division": "Khulna",
     "category": [
         "Forests",
