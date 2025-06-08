@@ -3,6 +3,9 @@
     "title": "ভাণ্ডারিয়া শিশু পার্ক",
     "onImageTitle": "Bhandaria Sishu Park",
     "district": "পিরোজপুর",
+    "districts": [
+        "পিরোজপুর"
+    ],
     "division": "বরিশাল",
     "category": [
         "থিম-পার্ক",

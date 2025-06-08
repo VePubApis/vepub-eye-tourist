@@ -3,6 +3,9 @@
     "title": "রিসাং জলপ্রপাত",
     "onImageTitle": "Risang Waterfalls",
     "district": "খাগড়াছড়ি",
+    "districts": [
+        "খাগড়াছড়ি"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "পাহাড়-পর্বত",

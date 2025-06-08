@@ -3,6 +3,9 @@
     "title": "বাংলাদেশ সেনাবাহিনী জাদুঘর",
     "onImageTitle": "Military Museum",
     "district": "ঢাকা",
+    "districts": [
+        "ঢাকা"
+    ],
     "division": "ঢাকা",
     "category": [
         "জাদুঘর"

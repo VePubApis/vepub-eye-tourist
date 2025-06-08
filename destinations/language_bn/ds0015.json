@@ -3,6 +3,9 @@
     "title": "লালবাগ কেল্লা",
     "onImageTitle": "Lalbag Kella",
     "district": "ঢাকা",
+    "districts": [
+        "ঢাকা"
+    ],
     "division": "ঢাকা",
     "category": [
         "ঐতিহ্যবাহী",

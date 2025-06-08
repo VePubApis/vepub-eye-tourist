@@ -3,6 +3,9 @@
     "title": "সেন্ট মার্টিন",
     "onImageTitle": "Saint Martins",
     "district": "কক্সবাজার",
+    "districts": [
+        "কক্সবাজার"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "সী বীচ",

@@ -3,6 +3,9 @@
     "title": "কক্সবাজার",
     "onImageTitle": "Cox's Bazar",
     "district": "কক্সবাজার",
+    "districts": [
+        "কক্সবাজার"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "সী বীচ",

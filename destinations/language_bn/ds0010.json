@@ -3,6 +3,9 @@
     "title": "নাফাখুম",
     "onImageTitle": "Nafakhum",
     "district": "বান্দরবান",
+    "districts": [
+        "বান্দরবান"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "ঝর্ণা",

@@ -3,6 +3,9 @@
     "title": "নিকলী হাওর",
     "onImageTitle": "Nikli Haor",
     "district": "কিশোরগঞ্জ",
+    "districts": [
+        "কিশোরগঞ্জ"
+    ],
     "division": "ঢাকা",
     "category": [
         "লেক",

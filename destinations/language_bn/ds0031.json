@@ -3,6 +3,9 @@
     "title": "বেল'স পার্ক",
     "onImageTitle": "Bell's Park",
     "district": "বরিশাল",
+    "districts": [
+        "বরিশাল"
+    ],
     "division": "বরিশাল",
     "category": [
         "জাতীয় উদ্যান",

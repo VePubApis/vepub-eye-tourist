@@ -3,6 +3,9 @@
     "title": "কুয়াকাটা",
     "onImageTitle": "Kuakata",
     "district": "পটুয়াখালী",
+    "districts": [
+        "পটুয়াখালী"
+    ],
     "division": "বরিশাল",
     "category": [
         "সৈকত"

@@ -3,6 +3,9 @@
     "title": "কসবা সীমান্ত বাজার",
     "onImageTitle": "Kasba Border Market",
     "district": "ব্রাহ্মণবাড়িয়া",
+    "districts": [
+        "ব্রাহ্মণবাড়িয়া"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "মেলা"

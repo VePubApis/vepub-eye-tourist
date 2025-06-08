@@ -3,6 +3,9 @@
     "title": "জাফলং",
     "onImageTitle": "Jaflong",
     "district": "সিলেট",
+    "districts": [
+        "সিলেট"
+    ],
     "division": "সিলেট",
     "category": [
         "ঝর্ণা",

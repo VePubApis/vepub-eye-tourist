@@ -3,6 +3,9 @@
     "title": "আলুটিলা গুহা",
     "onImageTitle": "Alutila Cave",
     "district": "খাগড়াছড়ি",
+    "districts": [
+        "খাগড়াছড়ি"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "পাহাড়",

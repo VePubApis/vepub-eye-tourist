@@ -3,6 +3,9 @@
     "title": "নীলগিরি",
     "onImageTitle": "Nil Giri",
     "district": "বান্দরবান",
+    "districts": [
+        "বান্দরবান"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "পাহাড়-পর্বত"

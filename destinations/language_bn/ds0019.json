@@ -3,6 +3,9 @@
     "title": "পুঠিয়া রাজবাড়ি",
     "onImageTitle": "Puthia Rajbari",
     "district": "রাজশাহী",
+    "districts": [
+        "রাজশাহী"
+    ],
     "division": "রাজশাহী",
     "category": [
         "ঐতিহ্যবাহী",

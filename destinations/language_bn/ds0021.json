@@ -3,6 +3,9 @@
     "title": "চন্দ্রনাথ পাহাড়",
     "onImageTitle": "Chandranath Hill",
     "district": "চট্টগ্রাম",
+    "districts": [
+        "চট্টগ্রাম"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "পাহাড়-পর্বত"

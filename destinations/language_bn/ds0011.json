@@ -3,6 +3,9 @@
     "title": "সাজেক ভ্যালি",
     "onImageTitle": "Sajek Valley",
     "district": "রাঙ্গামাটি",
+    "districts": [
+        "রাঙ্গামাটি"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "পাহাড়-পর্বত"

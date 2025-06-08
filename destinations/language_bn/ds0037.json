@@ -3,6 +3,9 @@
     "title": "রূপসা জমিদার বাড়ি",
     "onImageTitle": "Rupsha Jamidar Palace",
     "district": "চাঁদপুর",
+    "districts": [
+        "চাঁদপুর"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "ঐতিহ্যবাহী",

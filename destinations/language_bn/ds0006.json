@@ -3,6 +3,9 @@
     "title": "টাঙ্গুয়ার হাওর",
     "onImageTitle": "Tanguar Haor",
     "district": "সুনামগঞ্জ",
+    "districts": [
+        "সুনামগঞ্জ"
+    ],
     "division": "সিলেট",
     "category": [
         "লেক"

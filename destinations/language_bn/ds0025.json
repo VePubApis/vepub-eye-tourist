@@ -3,6 +3,9 @@
     "title": "মাধবকুণ্ড জলপ্রপাত",
     "onImageTitle": "Madhabkunda Waterfall",
     "district": "মৌলভীবাজার",
+    "districts": [
+        "মৌলভীবাজার"
+    ],
     "division": "সিলেট",
     "category": [
         "পাহাড়",

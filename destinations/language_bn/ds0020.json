@@ -3,6 +3,9 @@
     "title": "কাঞ্চনজঙ্ঘা ভিউ পয়েন্ট",
     "onImageTitle": "Kanchanjangha",
     "district": "পঞ্চগড়",
+    "districts": [
+        "পঞ্চগড়"
+    ],
     "division": "রংপুর",
     "category": [
         "পাহাড়-পর্বত"

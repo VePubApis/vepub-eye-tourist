@@ -3,6 +3,9 @@
     "title": "চর কুকরি মুকরি",
     "onImageTitle": "Char Kukri Mukri",
     "district": "ভোলা",
+    "districts": [
+        "ভোলা"
+    ],
     "division": "বরিশাল",
     "category": [
         "দ্বীপ",

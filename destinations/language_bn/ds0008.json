@@ -3,6 +3,9 @@
     "title": "সুন্দরবন",
     "onImageTitle": "Sundarbans",
     "district": "খুলনা",
+    "districts": [
+        "খুলনা"
+    ],
     "division": "খুলনা",
     "category": [
         "বন-জঙ্গল",

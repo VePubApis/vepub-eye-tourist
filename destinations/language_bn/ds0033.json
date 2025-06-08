@@ -3,6 +3,9 @@
     "title": "গাবখান ব্রিজ",
     "onImageTitle": "Gabkhan Bridge",
     "district": "ঝালকাঠি",
+    "districts": [
+        "ঝালকাঠি"
+    ],
     "division": "বরিশাল",
     "category": [
         "নদীর-পাড়"

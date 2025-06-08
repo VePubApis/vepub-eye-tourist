@@ -3,6 +3,9 @@
     "title": "চর আলেকজান্ডার",
     "onImageTitle": "Char Alexjander",
     "district": "লক্ষ্মীপুর",
+    "districts": [
+        "লক্ষ্মীপুর"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "সী বীচ"

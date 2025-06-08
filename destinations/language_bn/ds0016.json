@@ -3,6 +3,9 @@
     "title": "গাজীপুর সাফারি পার্ক",
     "onImageTitle": "Safari Park",
     "district": "গাজীপুর",
+    "districts": [
+        "গাজীপুর"
+    ],
     "division": "ঢাকা",
     "category": [
         "জাতীয়-উদ্যান",

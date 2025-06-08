@@ -3,6 +3,9 @@
     "title": "নৌকা জাদুঘর",
     "onImageTitle": "Boat Museum",
     "district": "বরগুনা",
+    "districts": [
+        "বরগুনা"
+    ],
     "division": "বরিশাল",
     "category": [
         "জাদুঘর"

@@ -3,6 +3,9 @@
     "title": "বিজয় সিংহ দীঘি",
     "onImageTitle": "Bijay Singh Dighi",
     "district": "ফেনী",
+    "districts": [
+        "ফেনী"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "লেক"

@@ -3,6 +3,9 @@
     "title": "মিঠামইন হাওর",
     "onImageTitle": "Mithamain Haor",
     "district": "কিশোরগঞ্জ",
+    "districts": [
+        "কিশোরগঞ্জ"
+    ],
     "division": "ঢাকা",
     "category": [
         "লেক",

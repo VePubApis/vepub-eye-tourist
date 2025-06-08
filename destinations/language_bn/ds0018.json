@@ -3,6 +3,9 @@
     "title": "বিরিশিরি",
     "onImageTitle": "Birishiri",
     "district": "নেত্রকোণা",
+    "districts": [
+        "নেত্রকোণা"
+    ],
     "division": "ময়মনসিংহ",
     "category": [
         "পাহাড়-পর্বত",

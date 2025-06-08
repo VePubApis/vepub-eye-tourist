@@ -3,6 +3,9 @@
     "title": "ময়নামতি প্রাসাদ",
     "onImageTitle": "Mainamati Palace",
     "district": "কুমিল্লা",
+    "districts": [
+        "কুমিল্লা"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "ঐতিহ্য",

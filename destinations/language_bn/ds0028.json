@@ -3,6 +3,9 @@
     "title": "হাকালুকি হাওর",
     "onImageTitle": "Hakaluki Haor",
     "district": "মৌলভীবাজার",
+    "districts": [
+        "মৌলভীবাজার"
+    ],
     "division": "সিলেট",
     "category": [
         "লেক",

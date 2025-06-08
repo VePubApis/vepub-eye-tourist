@@ -3,6 +3,9 @@
     "title": "সোনারগাঁও জাদুঘর",
     "onImageTitle": "Sonargaon Museum",
     "district": "নারায়ণগঞ্জ",
+    "districts": [
+        "নারায়ণগঞ্জ"
+    ],
     "division": "ঢাকা",
     "category": [
         "জাদুঘর",

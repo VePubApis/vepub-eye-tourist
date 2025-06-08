@@ -3,6 +3,9 @@
     "title": "পতেঙ্গা বিচ",
     "onImageTitle": "Patenga",
     "district": "চট্টগ্রাম",
+    "districts": [
+        "চট্টগ্রাম"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
         "সী বীচ"

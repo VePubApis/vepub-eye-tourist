@@ -3,6 +3,9 @@
     "title": "ফ্যান্টাসি কিংডম",
     "onImageTitle": "Fantasy Kingdom",
     "district": "ঢাকা",
+    "districts": [
+        "ঢাকা"
+    ],
     "division": "ঢাকা",
     "category": [
         "থিম-পার্ক"
