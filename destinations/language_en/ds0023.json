@@ -2,6 +2,14 @@
     "id": "ds0023",
     "title": "Bangladesh Military Museum",
     "onImageTitle": "Military Museum",
+    "alternativeTitles": [
+        "সামরিক জাদুঘর",
+        "বাংলাদেশ সামরিক জাদুঘর",
+        "বঙ্গবন্ধু সামরিক জাদুঘর",
+        "Military Museum",
+        "Bangladesh Military Museum",
+        "Bangabandhu Military Museum"
+    ],
     "district": "Dhaka",
     "districts": [
         "Dhaka"

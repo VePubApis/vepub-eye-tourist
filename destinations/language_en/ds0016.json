@@ -2,6 +2,12 @@
     "id": "ds0016",
     "title": "Gazipur Safari Park",
     "onImageTitle": "Safari Park",
+    "alternativeTitles": [
+        "গাজীপুর সাফারি পার্ক",
+        "বঙ্গবন্ধু শেখ মুজিব সাফারি পার্ক",
+        "Gazipur Safari Park",
+        "Bangabandhu Sheikh Mujib Safari Park"
+    ],
     "district": "Gazipur",
     "districts": [
         "Gazipur"

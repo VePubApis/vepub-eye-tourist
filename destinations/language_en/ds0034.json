@@ -2,6 +2,12 @@
     "id": "ds0034",
     "title": "Boat Museum",
     "onImageTitle": "Boat Museum",
+    "alternativeTitles": [
+        "নৌকা জাদুঘর",
+        "বঙ্গবন্ধু নৌকা জাদুঘর",
+        "Boat Museum",
+        "Bangabandhu Boat Museum"
+    ],
     "district": "Barguna",
     "districts": [
         "Barguna"

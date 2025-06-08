@@ -3,6 +3,10 @@
     "id": "ds0001",
     "title": "ইনানী বীচ",
     "onImageTitle": "Inani Beach",
+    "alternativeTitles": [
+      "ইনানী বিচ",
+      "Inani Beach"
+    ],
     "district": "কক্সবাজার",
     "districts": [
       "কক্সবাজার"
@@ -17,6 +21,10 @@
     "id": "ds0002",
     "title": "সেইন্ট-মার্টিন",
     "onImageTitle": "Saint Martins",
+    "alternativeTitles": [
+      "সেন্ট মার্টিন",
+      "Saint Martins"
+    ],
     "district": "কক্সবাজার",
     "districts": [
       "কক্সবাজার"
@@ -32,6 +40,10 @@
     "id": "ds0003",
     "title": "কাপ্তাই লেক",
     "onImageTitle": "Kaptai Lake",
+    "alternativeTitles": [
+      "কাপ্তাই লেক",
+      "Kaptai Lake"
+    ],
     "district": "রাঙ্গামাটি",
     "districts": [
       "রাঙ্গামাটি"
@@ -46,6 +58,10 @@
     "id": "ds0004",
     "title": "নীল গিরি",
     "onImageTitle": "Nil Giri",
+    "alternativeTitles": [
+      "নীলগিরি",
+      "Nil Giri"
+    ],
     "district": "বান্দরবন",
     "districts": [
       "বান্দরবন"
@@ -60,6 +76,10 @@
     "id": "ds0005",
     "title": "হিরণ পয়েন্ট",
     "onImageTitle": "Hiron Point",
+    "alternativeTitles": [
+      "হিরণ পয়েন্ট",
+      "Hiron Point"
+    ],
     "district": "খুলনা",
     "districts": [
       "খুলনা"
@@ -75,6 +95,10 @@
     "id": "ds0006",
     "title": "টাঙ্গুয়ার হাওর",
     "onImageTitle": "Tanguar Haor",
+    "alternativeTitles": [
+      "টাঙ্গুয়ার হাওর",
+      "Tanguar Haor"
+    ],
     "district": "সুনামগঞ্জ",
     "districts": [
       "সুনামগঞ্জ"
@@ -89,6 +113,10 @@
     "id": "ds0007",
     "title": "জাফলং",
     "onImageTitle": "Jaflong",
+    "alternativeTitles": [
+      "জাফলং",
+      "Jaflong"
+    ],
     "district": "সিলেট",
     "districts": [
       "সিলেট"
@@ -105,6 +133,10 @@
     "id": "ds0008",
     "title": "সুন্দরবন",
     "onImageTitle": "Sundarbans",
+    "alternativeTitles": [
+      "সুন্দরবন",
+      "Sundarbans"
+    ],
     "district": "খুলনা",
     "districts": [
       "খুলনা"
@@ -120,6 +152,10 @@
     "id": "ds0009",
     "title": "কক্সবাজার",
     "onImageTitle": "Cox's Bazar",
+    "alternativeTitles": [
+      "কক্সবাজার",
+      "Cox's Bazar"
+    ],
     "district": "কক্সবাজার",
     "districts": [
       "কক্সবাজার"
@@ -135,6 +171,10 @@
     "id": "ds0010",
     "title": "নাফাকুম",
     "onImageTitle": "Nafakhum",
+    "alternativeTitles": [
+      "নাফাখুম",
+      "Nafakhum"
+    ],
     "district": "বান্দরবন",
     "districts": [
       "বান্দরবন"
@@ -150,6 +190,10 @@
     "id": "ds0011",
     "title": "সাজেক ভ্যালি",
     "onImageTitle": "Sajek Valley",
+    "alternativeTitles": [
+      "সাজেক ভ্যালি",
+      "Sajek Valley"
+    ],
     "district": "রাঙ্গামাটি",
     "districts": [
       "রাঙ্গামাটি"
@@ -164,6 +208,10 @@
     "id": "ds0012",
     "title": "ফ্যান্টাসি কিংডম",
     "onImageTitle": "Fantasy Kingdom",
+    "alternativeTitles": [
+      "ফ্যান্টাসি কিংডম",
+      "Fantasy Kingdom"
+    ],
     "district": "ঢাকা",
     "districts": [
       "ঢাকা"
@@ -178,6 +226,10 @@
     "id": "ds0013",
     "title": "পতেঙ্গা",
     "onImageTitle": "Patenga",
+    "alternativeTitles": [
+      "পতেঙ্গা বিচ",
+      "Patenga"
+    ],
     "district": "চট্টগ্রাম",
     "districts": [
       "চট্টগ্রাম"
@@ -192,6 +244,11 @@
     "id": "ds0014",
     "title": "ষাট গম্বুজ মসজিদ",
     "onImageTitle": "Shaat Gambuj",
+    "alternativeTitles": [
+      "ষাট গম্বুজ মসজিদ",
+      "Sixty Dome Mosque",
+      "Shaat Gambuj Mosque"
+    ],
     "district": "বাগেরহাট",
     "districts": [
       "বাগেরহাট"
@@ -207,6 +264,11 @@
     "id": "ds0015",
     "title": "লালবাগের কেল্লা",
     "onImageTitle": "Lalbag Kella",
+    "alternativeTitles": [
+      "লালবাগ কেল্লা",
+      "Lalbag Kella",
+      "Lalbag Fort"
+    ],
     "district": "ঢাকা",
     "districts": [
       "ঢাকা"
@@ -222,6 +284,12 @@
     "id": "ds0016",
     "title": "গাজীপুর সাফারি পার্ক",
     "onImageTitle": "Safari Park",
+    "alternativeTitles": [
+      "গাজীপুর সাফারি পার্ক",
+      "বঙ্গবন্ধু শেখ মুজিব সাফারি পার্ক",
+      "Gazipur Safari Park",
+      "Bangabandhu Sheikh Mujib Safari Park"
+    ],
     "district": "গাজীপুর",
     "districts": [
       "গাজীপুর"
@@ -238,6 +306,10 @@
     "id": "ds0017",
     "title": "সোনারগাঁও জাদুঘর",
     "onImageTitle": "Sonargaon Museum",
+    "alternativeTitles": [
+      "সোনারগাঁও জাদুঘর",
+      "Sonargaon Museum"
+    ],
     "district": "নারায়ণগঞ্জ",
     "districts": [
       "নারায়ণগঞ্জ"
@@ -253,6 +325,10 @@
     "id": "ds0018",
     "title": "বিরিশিরি",
     "onImageTitle": "Birishiri",
+    "alternativeTitles": [
+      "বিরিশিরি",
+      "Birishiri"
+    ],
     "district": "নেত্রকোণা",
     "districts": [
       "নেত্রকোণা"
@@ -269,6 +345,10 @@
     "id": "ds0019",
     "title": "পুঠিয়া রাজবাড়ি",
     "onImageTitle": "Puthia Rajbari",
+    "alternativeTitles": [
+      "পুঠিয়া রাজবাড়ি",
+      "Puthia Rajbari"
+    ],
     "district": "রাজশাহী",
     "districts": [
       "রাজশাহী"
@@ -284,6 +364,10 @@
     "id": "ds0020",
     "title": "কাঞ্চনজঙ্ঘা ভিউ পয়েন্ট",
     "onImageTitle": "Kanchanjangha",
+    "alternativeTitles": [
+      "কাঞ্চনজঙ্ঘা ভিউ পয়েন্ট",
+      "Kanchanjangha View Point"
+    ],
     "district": "পঞ্চগড়",
     "districts": [
       "পঞ্চগড়"
@@ -298,6 +382,10 @@
     "id": "ds0021",
     "title": "চন্দ্রনাথ পাহাড়",
     "onImageTitle": "Chandranath Hill",
+    "alternativeTitles": [
+      "চন্দ্রনাথ পাহাড়",
+      "Chandranath Hill"
+    ],
     "district": "চট্টগ্রাম",
     "districts": [
       "চট্টগ্রাম"
@@ -312,6 +400,10 @@
     "id": "ds0022",
     "title": "রিসাং জলপ্রপাত",
     "onImageTitle": "Risang Waterfalls",
+    "alternativeTitles": [
+      "রিসাং জলপ্রপাত",
+      "Risang Waterfalls"
+    ],
     "district": "খাগড়াছড়ি",
     "districts": [
       "খাগড়াছড়ি"
@@ -327,6 +419,14 @@
     "id": "ds0023",
     "title": "বাংলাদেশ সামরিক জাদুঘর",
     "onImageTitle": "Military Museum",
+    "alternativeTitles": [
+      "সামরিক জাদুঘর",
+      "বাংলাদেশ সামরিক জাদুঘর",
+      "বঙ্গবন্ধু সামরিক জাদুঘর",
+      "Military Museum",
+      "Bangladesh Military Museum",
+      "Bangabandhu Military Museum"
+    ],
     "district": "ঢাকা",
     "districts": [
       "ঢাকা"
@@ -341,6 +441,10 @@
     "id": "ds0024",
     "title": "নিকলী হাওর",
     "onImageTitle": "Nikli Haor",
+    "alternativeTitles": [
+      "নিকলী হাওর",
+      "Nikli Haor"
+    ],
     "district": "কিশোরগঞ্জ",
     "districts": [
       "কিশোরগঞ্জ"
@@ -356,6 +460,10 @@
     "id": "ds0025",
     "title": "মাধবকুণ্ড জলপ্রপাত",
     "onImageTitle": "Madhabkunda Waterfall",
+    "alternativeTitles": [
+      "মাধবকুণ্ড জলপ্রপাত",
+      "Madhabkunda Waterfall"
+    ],
     "district": "মৌলভীবাজার",
     "districts": [
       "মৌলভীবাজার"
@@ -371,6 +479,12 @@
     "id": "ds0026",
     "title": "হযরত শাহ জালাল দরগাহ",
     "onImageTitle": "Shah Jalal Dargah",
+    "alternativeTitles": [
+      "শাহ জালাল দরগাহ",
+      "হযরত শাহ জালাল দরগাহ",
+      "Shah Jalal Dargah",
+      "Hazrat Shah Jalal Dargah"
+    ],
     "district": "সিলেট",
     "districts": [
       "সিলেট"
@@ -385,6 +499,10 @@
     "id": "ds0027",
     "title": "মিঠামইন হাওর",
     "onImageTitle": "Mithamain Haor",
+    "alternativeTitles": [
+      "মিঠামইন হাওর",
+      "Mithamain Haor"
+    ],
     "district": "কিশোরগঞ্জ",
     "districts": [
       "কিশোরগঞ্জ"
@@ -400,6 +518,10 @@
     "id": "ds0028",
     "title": "হাকালুকি হাওর",
     "onImageTitle": "Hakaluki Haor",
+    "alternativeTitles": [
+      "হাকালুকি হাওর",
+      "Hakaluki Haor"
+    ],
     "district": "মৌলভীবাজার",
     "districts": [
       "মৌলভীবাজার"
@@ -415,6 +537,10 @@
     "id": "ds0029",
     "title": "আলুটিলা গুহা",
     "onImageTitle": "Alutila Cave",
+    "alternativeTitles": [
+      "আলুটিলা গুহা",
+      "Alutila Cave"
+    ],
     "district": "খাগড়াছড়ি",
     "districts": [
       "খাগড়াছড়ি"
@@ -430,6 +556,10 @@
     "id": "ds0030",
     "title": "কুয়াকাটা",
     "onImageTitle": "Kuakata",
+    "alternativeTitles": [
+      "কুয়াকাটা",
+      "Kuakata"
+    ],
     "district": "পটুয়াখালী",
     "districts": [
       "পটুয়াখালী"
@@ -444,6 +574,10 @@
     "id": "ds0031",
     "title": "বেল'স পার্ক",
     "onImageTitle": "Bell's Park",
+    "alternativeTitles": [
+      "বেল'স পার্ক",
+      "Bell's Park"
+    ],
     "district": "বরিশাল",
     "districts": [
       "বরিশাল"
@@ -459,6 +593,10 @@
     "id": "ds0032",
     "title": "চর কুকরি মুকরি",
     "onImageTitle": "Char Kukri Mukri",
+    "alternativeTitles": [
+      "চর কুকরি মুকরি",
+      "Char Kukri Mukri"
+    ],
     "district": "ভোলা",
     "districts": [
       "ভোলা"
@@ -474,6 +612,10 @@
     "id": "ds0033",
     "title": "গাবখান ব্রিজ",
     "onImageTitle": "Gabkhan Bridge",
+    "alternativeTitles": [
+      "গাবখান ব্রিজ",
+      "Gabkhan Bridge"
+    ],
     "district": "ঝালকাঠি",
     "districts": [
       "ঝালকাঠি"
@@ -488,6 +630,12 @@
     "id": "ds0034",
     "title": "নৌকা জাদুঘর",
     "onImageTitle": "Boat Museum",
+    "alternativeTitles": [
+      "নৌকা জাদুঘর",
+      "বঙ্গবন্ধু নৌকা জাদুঘর",
+      "Boat Museum",
+      "Bangabandhu Boat Museum"
+    ],
     "district": "বরগুনা",
     "districts": [
       "বরগুনা"
@@ -502,6 +650,10 @@
     "id": "ds0035",
     "title": "Bhandaria Sishu Park",
     "onImageTitle": "Bhandaria Sishu Park",
+    "alternativeTitles": [
+      "ভাণ্ডারিয়া শিশু পার্ক",
+      "Bhandaria Sishu Park"
+    ],
     "district": "Pirojpur",
     "districts": [
       "পিরোজপুর"
@@ -517,6 +669,10 @@
     "id": "ds0036",
     "title": "কসবা সীমান্ত বাজার",
     "onImageTitle": "Kasba Border Market",
+    "alternativeTitles": [
+      "কসবা সীমান্ত বাজার",
+      "Kasba Border Market"
+    ],
     "district": "ব্রাহ্মণবাড়িয়া",
     "districts": [
       "ব্রাহ্মণবাড়িয়া"
@@ -531,6 +687,10 @@
     "id": "ds0037",
     "title": "রূপসা জমিদার বাড়ি",
     "onImageTitle": "Rupsha Jamidar Palace",
+    "alternativeTitles": [
+      "রূপসা জমিদার বাড়ি",
+      "Rupsha Jamidar Palace"
+    ],
     "district": "চাঁদপুর",
     "districts": [
       "চাঁদপুর"
@@ -546,6 +706,11 @@
     "id": "ds0038",
     "title": "ময়নামতি প্রাসাদ",
     "onImageTitle": "Mainamati Palace",
+    "alternativeTitles": [
+      "ময়নামতি প্রাসাদ",
+      "Mainamati Palace",
+      "Palace of Queen Maynamati"
+    ],
     "district": "কুমিল্লা",
     "districts": [
       "কুমিল্লা"
@@ -561,6 +726,10 @@
     "id": "ds0039",
     "title": "বিজয় সিংহ দীঘি",
     "onImageTitle": "Bijay Singh Dighi",
+    "alternativeTitles": [
+      "বিজয় সিংহ দীঘি",
+      "Bijay Singh Dighi"
+    ],
     "district": "ফেনী",
     "districts": [
       "ফেনী"
@@ -575,6 +744,10 @@
     "id": "ds0040",
     "title": "চর আলেকজান্ডার",
     "onImageTitle": "Char Alexjander",
+    "alternativeTitles": [
+      "চর আলেকজান্ডার",
+      "Char Alexander"
+    ],
     "district": "লক্ষ্মীপুর",
     "districts": [
       "লক্ষ্মীপুর"
