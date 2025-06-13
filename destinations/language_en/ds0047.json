@@ -1,0 +1,43 @@
+{
+    "id": "ds0047",
+    "title": "Dream Holiday Park",
+    "onImageTitle": "Dream Holiday Park",
+    "alternativeTitles": [
+        "ড্রিম হলিডে পার্ক",
+        "Dream Holiday Park"
+    ],
+    "district": "Narsingdi",
+    "districts": [
+        "Narsingdi"
+    ],
+    "division": "Dhaka",
+    "category": [
+        "Theme Parks"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Dream+Holiday+Park/@23.9422296,90.5938424,11.79z/data=!4m6!3m5!1s0x375433c298d21b67:0xad53b0d4babc0616!8m2!3d23.881267!4d90.6650557!16s%2Fg%2F1thfct1j?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D",
+    "details": "Dream Holiday Park in Narsingdi is Dhaka's nearest eco-friendly amusement destination, blending thrilling rides with serene natural landscapes. Spread over 50 acres, this family-oriented park features themed zones including water attractions, adventure sports, and botanical gardens. Its signature Ferris wheel offers panoramic views of the Shitalakshya River valley, while the butterfly sanctuary and organic farms promote environmental education.\n\nLocated just 40km northeast of Dhaka, accessible via the Dhaka-Sylhet Highway (1.5 hours by car). Regular shuttles depart from Mohakhali bus terminal. Nearby attractions include the historic Sonargaon Folk Art Museum and the riverfront at Meghna Ghat.\n\nEnjoy wave pools, zip-lining, and paddle boating during summer. Local food stalls serve traditional snacks like 'pitha platters' and grilled corn. The park operates on solar energy and rainwater harvesting systems, with conservation programs protecting native bird species in its wetland habitats.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1Vexd_8eY2EoeSQVJ_a9L6h7Hu4vKyZyP",
+            "credit": "Dream Holiday Park"
+        }
+    ],
+    "seasons": [
+        "Winter (October–March): Ideal for outdoor activities with pleasant temperatures.",
+        "Summer (April–June): Perfect for water rides and splash zones.",
+        "Avoid Heavy Rain Days: Some attractions close during thunderstorms."
+    ],
+    "cautions": [
+        "Follow height/age restrictions on thrill rides.",
+        "Supervise children near water attractions.",
+        "Use biodegradable sunscreen to protect aquatic ecosystems."
+    ],
+    "specials": [
+        "Sky Wheel: 60-meter Ferris wheel with valley vistas.",
+        "Aqua Zone: Wave pool and water slides with filtration systems.",
+        "Eco-Trail: Guided nature walks through medicinal plant gardens.",
+        "Adventure Hub: Zip-lining and rock climbing facilities.",
+        "Cultural Evenings: Traditional puppet shows and folk music festivals."
+    ],
+    "blogs": []
+}
