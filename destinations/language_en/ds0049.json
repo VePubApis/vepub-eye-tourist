@@ -1,0 +1,43 @@
+{
+    "id": "ds0049",
+    "title": "Modern Fantasy Kingdom",
+    "onImageTitle": "Modern Fantasy",
+    "alternativeTitles": [
+        "মডার্ন ফ্যান্টাসি কিংডম",
+        "Modern Fantasy Kingdom"
+    ],
+    "district": "Shariatpur",
+    "districts": [
+        "Shariatpur"
+    ],
+    "division": "Dhaka",
+    "category": [
+        "Theme Parks"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Modern+Fantasy+Kingdom/@23.3012212,90.4221422,17z/data=!3m1!4b1!4m6!3m5!1s0x375508c5acf8c5f9:0x1871dedc19f562ee!8m2!3d23.3012212!4d90.4247225!16s%2Fg%2F11ckrj3ld0?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D",
+    "details": "Modern Fantasy Kingdom in Shariatpur is Bangladesh's largest tech-integrated amusement park, blending futuristic attractions with lush riverfront landscapes. Spanning 100 acres along the Padma River, this entertainment hub features AI-powered rides, holographic theaters, and interactive digital gardens. Its centerpiece - the 'Crystal River' light show - transforms water jets into dancing laser sculptures after sunset.\n\nAccessible via Dhaka-Bhanga Expressway (2 hours from Dhaka), the park offers shuttle services from Jazira Ferry Terminal. Nearby attractions include the historic Madhumati River confluence and traditional pottery villages in Naria. The park operates on solar energy with rainwater harvesting systems.\n\nExperience virtual reality rollercoasters, 5D cinematic adventures, and robotic animal safaris. Local food courts serve innovative fusion cuisine like 'digital pitha platters'. Conservation initiatives include butterfly sanctuaries and digital awareness campaigns about Padma River ecosystems.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=19vFFBBBmDIfNNwXiUhJNSKB0WD-YRHin",
+            "credit": "Vromon Guide"
+        }
+    ],
+    "seasons": [
+        "Winter (November–February): Ideal for outdoor tech experiences with cool weather.",
+        "Summer Nights (April–June): Perfect for light shows and water attractions.",
+        "Avoid Monsoon Peak (July–August): Limited outdoor access during heavy rains."
+    ],
+    "cautions": [
+        "Secure loose items on high-tech motion rides.",
+        "Follow digital queue systems to avoid congestion.",
+        "Children under 10 require adult supervision in VR zones."
+    ],
+    "specials": [
+        "Holographic Theater: 360-degree immersive storytelling experiences.",
+        "Robotic Safari: Animatronic Bengal tigers and elephants in natural habitats.",
+        "Digital Gardens: Interactive plant ecosystems with augmented reality.",
+        "Riverfront Light Show: Synchronized lasers and fountain performances.",
+        "Eco-Tech Integration: Solar-powered rides and water conservation exhibits."
+    ],
+    "blogs": []
+}
