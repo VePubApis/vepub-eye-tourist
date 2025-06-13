@@ -1,0 +1,44 @@
+{
+    "id": "ds0041",
+    "title": "Nijhum Island",
+    "onImageTitle": "Nijhum Island",
+    "alternativeTitles": [
+        "নিঝুম দ্বীপ",
+        "Nijhum Island"
+    ],
+    "district": "Noakhali",
+    "districts": [
+        "Noakhali"
+    ],
+    "division": "Chattogram",
+    "category": [
+        "Islands",
+        "Forests",
+        "Beaches"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Nijhum+Dwip/@22.0635334,91.0106993,13z/data=!3m1!4b1!4m6!3m5!1s0x30ab6e3a009162a3:0x3e045c141f654da5!8m2!3d22.0564571!4d91.0107552!16s%2Fm%2F04cx6t_?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D",
+    "details": "Nijhum Island, a serene deltaic island in Noakhali, is famed for its mangrove forests and wild spotted deer sanctuary. Part of the Meghna River estuary, this undisturbed paradise features golden beaches, tidal flats, and rich biodiversity. Recognized as a national park, it offers solitude amid rhythmic waves and whispering woods.\n\nReach Nijhum Island via boat from Hatiya Island (2–3 hours) or Tamaruddi launch terminal in Noakhali. The journey reveals river dolphins and vibrant birdlife. Nearby attractions include the Jamuna River confluence and traditional fishing hamlets like Char Osman.\n\nCycle through forest trails or camp under starry skies at the beach. Savor local delicacies like 'kaakrar jhal' (spicy crab curry) and freshly grilled fish. Conservation initiatives protect its deer population and crucial mangrove ecosystem against climate vulnerabilities.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1s_pRgrp9v0DdL3ZfegPeD0HQrNIhXQvh",
+            "credit": "Tourism Bangladesh"
+        }
+    ],
+    "seasons": [
+        "Winter (November–February): Ideal for deer sightings, birdwatching, and beach camping.",
+        "Avoid Monsoon (June–September): Inaccessible due to tidal surges and heavy rainfall."
+    ],
+    "cautions": [
+        "Wear covered clothing to avoid insect bites in forests.",
+        "Do not feed or disturb deer; maintain a safe distance.",
+        "Carry cash – no ATMs available on the island."
+    ],
+    "specials": [
+        "Deer Sanctuary: Rare spotted deer roaming freely in mangrove habitats.",
+        "Starry Beaches: Unpolluted night skies perfect for astrophotography.",
+        "Birdwatching Hub: Migratory birds like herons, kingfishers, and seagulls.",
+        "Cycling Trails: Explore hidden forest paths and fishing villages.",
+        "Eco-Conservation: Community-led mangrove restoration projects."
+    ],
+    "blogs": []
+}
