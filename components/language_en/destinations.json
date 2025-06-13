@@ -855,5 +855,23 @@
       "Monuments"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1NeG3shmnokYIIVsCKPqQrEtdFV3EQEQh"
+  },
+  {
+    "id": "ds0046",
+    "title": "Mawa Ghat",
+    "onImageTitle": "Mawa Ghat",
+    "alternativeTitles": [
+      "মাওয়া ঘাট",
+      "Mawa Ghat"
+    ],
+    "district": "Munshiganj",
+    "districts": [
+      "Munshiganj"
+    ],
+    "division": "Dhaka",
+    "category": [
+      "River Banks"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1UL8UKiywmFAXF4fe6p3oVKMU9sEC7HXV"
   }
 ]
