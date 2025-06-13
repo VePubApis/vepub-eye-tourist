@@ -928,5 +928,24 @@
       "থিম-পার্ক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=19vFFBBBmDIfNNwXiUhJNSKB0WD-YRHin"
+  },
+  {
+    "id": "ds0050",
+    "title": "মহেরা জমিদার বাড়ি",
+    "onImageTitle": "Mahera Palace",
+    "alternativeTitles": [
+      "মহেরা জমিদার বাড়ি",
+      "Mahera Jamidar Palace"
+    ],
+    "district": "টাঙ্গাইল",
+    "districts": [
+      "টাঙ্গাইল"
+    ],
+    "division": "ঢাকা",
+    "category": [
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1tYiph5zhJkUkicTSOO6A3oIY6EgNRLBV"
   }
 ]

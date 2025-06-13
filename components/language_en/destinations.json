@@ -928,5 +928,24 @@
       "Theme Parks"
     ],
     "image": "https://drive.google.com/uc?export=view&id=19vFFBBBmDIfNNwXiUhJNSKB0WD-YRHin"
+  },
+  {
+    "id": "ds0050",
+    "title": "Mahera Jamidar Palace",
+    "onImageTitle": "Mahera Palace",
+    "alternativeTitles": [
+      "মহেরা জমিদার বাড়ি",
+      "Mahera Jamidar Palace"
+    ],
+    "district": "Tangail",
+    "districts": [
+      "Tangail"
+    ],
+    "division": "Dhaka",
+    "category": [
+      "Heritages",
+      "Monuments"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1tYiph5zhJkUkicTSOO6A3oIY6EgNRLBV"
   }
 ]
