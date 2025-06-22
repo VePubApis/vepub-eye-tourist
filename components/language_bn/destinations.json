@@ -11,6 +11,10 @@
     "districts": [
       "কক্সবাজার"
     ],
+    "alternativeDistrictsNames": [
+      "Cox's Bazar",
+      "কক্সবাজার"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "সী বীচ"
@@ -27,6 +31,10 @@
     ],
     "district": "কক্সবাজার",
     "districts": [
+      "কক্সবাজার"
+    ],
+    "alternativeDistrictsNames": [
+      "Cox's Bazar",
       "কক্সবাজার"
     ],
     "division": "চট্টগ্রাম",
@@ -48,6 +56,10 @@
     "districts": [
       "রাঙ্গামাটি"
     ],
+    "alternativeDistrictsNames": [
+      "Rangamati",
+      "রাঙ্গামাটি"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "লেক"
@@ -66,6 +78,10 @@
     "districts": [
       "বান্দরবন"
     ],
+    "alternativeDistrictsNames": [
+      "Bandarban",
+      "বান্দরবন"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "পাহাড়-পর্বত"
@@ -82,6 +98,10 @@
     ],
     "district": "খুলনা",
     "districts": [
+      "খুলনা"
+    ],
+    "alternativeDistrictsNames": [
+      "Khulna",
       "খুলনা"
     ],
     "division": "খুলনা",
@@ -103,6 +123,10 @@
     "districts": [
       "সুনামগঞ্জ"
     ],
+    "alternativeDistrictsNames": [
+      "Sunamganj",
+      "সুনামগঞ্জ"
+    ],
     "division": "সিলেট",
     "category": [
       "লেক"
@@ -119,6 +143,10 @@
     ],
     "district": "সিলেট",
     "districts": [
+      "সিলেট"
+    ],
+    "alternativeDistrictsNames": [
+      "Sylhet",
       "সিলেট"
     ],
     "division": "সিলেট",
@@ -141,6 +169,10 @@
     "districts": [
       "খুলনা"
     ],
+    "alternativeDistrictsNames": [
+      "Khulna",
+      "খুলনা"
+    ],
     "division": "খুলনা",
     "category": [
       "বন-জঙ্গল",
@@ -158,6 +190,10 @@
     ],
     "district": "কক্সবাজার",
     "districts": [
+      "কক্সবাজার"
+    ],
+    "alternativeDistrictsNames": [
+      "Cox's Bazar",
       "কক্সবাজার"
     ],
     "division": "চট্টগ্রাম",
@@ -179,6 +215,10 @@
     "districts": [
       "বান্দরবন"
     ],
+    "alternativeDistrictsNames": [
+      "Bandarban",
+      "বান্দরবন"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "ঝর্ণা",
@@ -196,6 +236,10 @@
     ],
     "district": "রাঙ্গামাটি",
     "districts": [
+      "রাঙ্গামাটি"
+    ],
+    "alternativeDistrictsNames": [
+      "Rangamati",
       "রাঙ্গামাটি"
     ],
     "division": "চট্টগ্রাম",
@@ -216,6 +260,10 @@
     "districts": [
       "ঢাকা"
     ],
+    "alternativeDistrictsNames": [
+      "Dhaka",
+      "ঢাকা"
+    ],
     "division": "ঢাকা",
     "category": [
       "থিম-পার্ক"
@@ -232,6 +280,10 @@
     ],
     "district": "চট্টগ্রাম",
     "districts": [
+      "চট্টগ্রাম"
+    ],
+    "alternativeDistrictsNames": [
+      "Chattogram",
       "চট্টগ্রাম"
     ],
     "division": "চট্টগ্রাম",
@@ -253,6 +305,10 @@
     "districts": [
       "বাগেরহাট"
     ],
+    "alternativeDistrictsNames": [
+      "Bagerhat",
+      "বাগেরহাট"
+    ],
     "division": "খুলনা",
     "category": [
       "ঐতিহ্যবাহী",
@@ -271,6 +327,10 @@
     ],
     "district": "ঢাকা",
     "districts": [
+      "ঢাকা"
+    ],
+    "alternativeDistrictsNames": [
+      "Dhaka",
       "ঢাকা"
     ],
     "division": "ঢাকা",
@@ -294,6 +354,10 @@
     "districts": [
       "গাজীপুর"
     ],
+    "alternativeDistrictsNames": [
+      "Gazipur",
+      "গাজীপুর"
+    ],
     "division": "ঢাকা",
     "category": [
       "জাতীয়-উদ্যান",
@@ -314,6 +378,10 @@
     "districts": [
       "নারায়ণগঞ্জ"
     ],
+    "alternativeDistrictsNames": [
+      "Narayanganj",
+      "নারায়ণগঞ্জ"
+    ],
     "division": "ঢাকা",
     "category": [
       "জাদুঘর",
@@ -331,6 +399,10 @@
     ],
     "district": "নেত্রকোণা",
     "districts": [
+      "নেত্রকোণা"
+    ],
+    "alternativeDistrictsNames": [
+      "Netrokona",
       "নেত্রকোণা"
     ],
     "division": "ময়মনসিংহ",
@@ -353,6 +425,10 @@
     "districts": [
       "রাজশাহী"
     ],
+    "alternativeDistrictsNames": [
+      "Rajshahi",
+      "রাজশাহী"
+    ],
     "division": "রাজশাহী",
     "category": [
       "ঐতিহ্যবাহী",
@@ -370,6 +446,10 @@
     ],
     "district": "পঞ্চগড়",
     "districts": [
+      "পঞ্চগড়"
+    ],
+    "alternativeDistrictsNames": [
+      "Panchagarh",
       "পঞ্চগড়"
     ],
     "division": "রংপুর",
@@ -390,6 +470,10 @@
     "districts": [
       "চট্টগ্রাম"
     ],
+    "alternativeDistrictsNames": [
+      "Chattogram",
+      "চট্টগ্রাম"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "পাহাড়-পর্বত"
@@ -406,6 +490,10 @@
     ],
     "district": "খাগড়াছড়ি",
     "districts": [
+      "খাগড়াছড়ি"
+    ],
+    "alternativeDistrictsNames": [
+      "Khagrachari",
       "খাগড়াছড়ি"
     ],
     "division": "চট্টগ্রাম",
@@ -431,6 +519,10 @@
     "districts": [
       "ঢাকা"
     ],
+    "alternativeDistrictsNames": [
+      "Dhaka",
+      "ঢাকা"
+    ],
     "division": "ঢাকা",
     "category": [
       "জাদুঘর"
@@ -447,6 +539,10 @@
     ],
     "district": "কিশোরগঞ্জ",
     "districts": [
+      "কিশোরগঞ্জ"
+    ],
+    "alternativeDistrictsNames": [
+      "Kishoreganj",
       "কিশোরগঞ্জ"
     ],
     "division": "ঢাকা",
@@ -466,6 +562,10 @@
     ],
     "district": "মৌলভীবাজার",
     "districts": [
+      "মৌলভীবাজার"
+    ],
+    "alternativeDistrictsNames": [
+      "Moulvibazar",
       "মৌলভীবাজার"
     ],
     "division": "সিলেট",
@@ -489,6 +589,10 @@
     "districts": [
       "সিলেট"
     ],
+    "alternativeDistrictsNames": [
+      "Sylhet",
+      "সিলেট"
+    ],
     "division": "সিলেট",
     "category": [
       "স্মৃতিস্তম্ভ"
@@ -505,6 +609,10 @@
     ],
     "district": "কিশোরগঞ্জ",
     "districts": [
+      "কিশোরগঞ্জ"
+    ],
+    "alternativeDistrictsNames": [
+      "Kishoreganj",
       "কিশোরগঞ্জ"
     ],
     "division": "ঢাকা",
@@ -526,6 +634,10 @@
     "districts": [
       "মৌলভীবাজার"
     ],
+    "alternativeDistrictsNames": [
+      "Moulvibazar",
+      "মৌলভীবাজার"
+    ],
     "division": "সিলেট",
     "category": [
       "লেক",
@@ -543,6 +655,10 @@
     ],
     "district": "খাগড়াছড়ি",
     "districts": [
+      "খাগড়াছড়ি"
+    ],
+    "alternativeDistrictsNames": [
+      "Khagrachari",
       "খাগড়াছড়ি"
     ],
     "division": "চট্টগ্রাম",
@@ -564,6 +680,10 @@
     "districts": [
       "পটুয়াখালী"
     ],
+    "alternativeDistrictsNames": [
+      "Patuakhali",
+      "পটুয়াখালী"
+    ],
     "division": "বরিশাল",
     "category": [
       "সী বীচ"
@@ -580,6 +700,10 @@
     ],
     "district": "বরিশাল",
     "districts": [
+      "বরিশাল"
+    ],
+    "alternativeDistrictsNames": [
+      "Barisal",
       "বরিশাল"
     ],
     "division": "বরিশাল",
@@ -601,6 +725,10 @@
     "districts": [
       "ভোলা"
     ],
+    "alternativeDistrictsNames": [
+      "Bhola",
+      "ভোলা"
+    ],
     "division": "বরিশাল",
     "category": [
       "দ্বীপ",
@@ -618,6 +746,10 @@
     ],
     "district": "ঝালকাঠি",
     "districts": [
+      "ঝালকাঠি"
+    ],
+    "alternativeDistrictsNames": [
+      "Jhalokati",
       "ঝালকাঠি"
     ],
     "division": "বরিশাল",
@@ -640,6 +772,10 @@
     "districts": [
       "বরগুনা"
     ],
+    "alternativeDistrictsNames": [
+      "Barguna",
+      "বরগুনা"
+    ],
     "division": "বরিশাল",
     "category": [
       "জাদুঘর"
@@ -656,6 +792,10 @@
     ],
     "district": "Pirojpur",
     "districts": [
+      "পিরোজপুর"
+    ],
+    "alternativeDistrictsNames": [
+      "Pirojpur",
       "পিরোজপুর"
     ],
     "division": "Barisal",
@@ -677,6 +817,10 @@
     "districts": [
       "ব্রাহ্মণবাড়িয়া"
     ],
+    "alternativeDistrictsNames": [
+      "Brahmanbaria",
+      "ব্রাহ্মণবাড়িয়া"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "মেলা"
@@ -693,6 +837,10 @@
     ],
     "district": "চাঁদপুর",
     "districts": [
+      "চাঁদপুর"
+    ],
+    "alternativeDistrictsNames": [
+      "Chandpur",
       "চাঁদপুর"
     ],
     "division": "চট্টগ্রাম",
@@ -715,6 +863,10 @@
     "districts": [
       "কুমিল্লা"
     ],
+    "alternativeDistrictsNames": [
+      "Comilla",
+      "কুমিল্লা"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "ঐতিহ্যবাহী",
@@ -732,6 +884,10 @@
     ],
     "district": "ফেনী",
     "districts": [
+      "ফেনী"
+    ],
+    "alternativeDistrictsNames": [
+      "Feni",
       "ফেনী"
     ],
     "division": "চট্টগ্রাম",
@@ -752,6 +908,10 @@
     "districts": [
       "লক্ষ্মীপুর"
     ],
+    "alternativeDistrictsNames": [
+      "Lakshmipur",
+      "লক্ষ্মীপুর"
+    ],
     "division": "চট্টগ্রাম",
     "category": [
       "সী বীচ"
@@ -768,6 +928,10 @@
     ],
     "district": "নোয়াখালী",
     "districts": [
+      "নোয়াখালী"
+    ],
+    "alternativeDistrictsNames": [
+      "Noakhali",
       "নোয়াখালী"
     ],
     "division": "চট্টগ্রাম",
@@ -790,6 +954,10 @@
     "districts": [
       "ফরিদপুর"
     ],
+    "alternativeDistrictsNames": [
+      "Faridpur",
+      "ফরিদপুর"
+    ],
     "division": "ঢাকা",
     "category": [
       "নদীর-পাড়"
@@ -806,6 +974,10 @@
     ],
     "district": "গোপালগঞ্জ",
     "districts": [
+      "গোপালগঞ্জ"
+    ],
+    "alternativeDistrictsNames": [
+      "Gopalganj",
       "গোপালগঞ্জ"
     ],
     "division": "ঢাকা",
@@ -829,6 +1001,10 @@
     "districts": [
       "মাদারীপুর"
     ],
+    "alternativeDistrictsNames": [
+      "Madaripur",
+      "মাদারীপুর"
+    ],
     "division": "ঢাকা",
     "category": [
       "ঐতিহ্যবাহী",
@@ -847,6 +1023,10 @@
     ],
     "district": "মানিকগঞ্জ",
     "districts": [
+      "মানিকগঞ্জ"
+    ],
+    "alternativeDistrictsNames": [
+      "Manikganj",
       "মানিকগঞ্জ"
     ],
     "division": "ঢাকা",
@@ -868,6 +1048,10 @@
     "districts": [
       "মুন্সীগঞ্জ"
     ],
+    "alternativeDistrictsNames": [
+      "Munshiganj",
+      "মুন্সীগঞ্জ"
+    ],
     "division": "ঢাকা",
     "category": [
       "নদীর-পাড়"
@@ -886,6 +1070,10 @@
     "districts": [
       "নরসিংদী"
     ],
+    "alternativeDistrictsNames": [
+      "Narsingdi",
+      "নরসিংদী"
+    ],
     "division": "ঢাকা",
     "category": [
       "থিম-পার্ক"
@@ -902,6 +1090,10 @@
     ],
     "district": "রাজবাড়ী",
     "districts": [
+      "রাজবাড়ী"
+    ],
+    "alternativeDistrictsNames": [
+      "Rajbari",
       "রাজবাড়ী"
     ],
     "division": "ঢাকা",
@@ -923,6 +1115,10 @@
     "districts": [
       "শরীয়তপুর"
     ],
+    "alternativeDistrictsNames": [
+      "Shariatpur",
+      "শরীয়তপুর"
+    ],
     "division": "ঢাকা",
     "category": [
       "থিম-পার্ক"
@@ -939,6 +1135,10 @@
     ],
     "district": "টাঙ্গাইল",
     "districts": [
+      "টাঙ্গাইল"
+    ],
+    "alternativeDistrictsNames": [
+      "Tangail",
       "টাঙ্গাইল"
     ],
     "division": "ঢাকা",

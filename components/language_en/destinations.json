@@ -11,6 +11,10 @@
     "districts": [
       "Cox's Bazar"
     ],
+    "alternativeDistrictsNames": [
+      "Cox's Bazar",
+      "কক্সবাজার"
+    ],
     "division": "Chattogram",
     "category": [
       "Beaches"
@@ -28,6 +32,10 @@
     "district": "Cox's Bazar",
     "districts": [
       "Cox's Bazar"
+    ],
+    "alternativeDistrictsNames": [
+      "Cox's Bazar",
+      "কক্সবাজার"
     ],
     "division": "Chattogram",
     "category": [
@@ -48,6 +56,10 @@
     "districts": [
       "Rangamati"
     ],
+    "alternativeDistrictsNames": [
+      "Rangamati",
+      "রাঙ্গামাটি"
+    ],
     "division": "Chattogram",
     "category": [
       "Lakes"
@@ -66,6 +78,10 @@
     "districts": [
       "Bandarban"
     ],
+    "alternativeDistrictsNames": [
+      "Bandarban",
+      "বান্দরবান"
+    ],
     "division": "Chattogram",
     "category": [
       "Mountains"
@@ -83,6 +99,10 @@
     "district": "Khulna",
     "districts": [
       "Khulna"
+    ],
+    "alternativeDistrictsNames": [
+      "Khulna",
+      "খুলনা"
     ],
     "division": "Khulna",
     "category": [
@@ -103,6 +123,10 @@
     "districts": [
       "Sunamganj"
     ],
+    "alternativeDistrictsNames": [
+      "Sunamganj",
+      "সুনামগঞ্জ"
+    ],
     "division": "Sylhet",
     "category": [
       "Lakes"
@@ -120,6 +144,10 @@
     "district": "Sylhet",
     "districts": [
       "Sylhet"
+    ],
+    "alternativeDistrictsNames": [
+      "Sylhet",
+      "সিলেট"
     ],
     "division": "Sylhet",
     "category": [
@@ -141,6 +169,10 @@
     "districts": [
       "Khulna"
     ],
+    "alternativeDistrictsNames": [
+      "Khulna",
+      "খুলনা"
+    ],
     "division": "Khulna",
     "category": [
       "Forests",
@@ -159,6 +191,10 @@
     "district": "Cox's Bazar",
     "districts": [
       "Cox's Bazar"
+    ],
+    "alternativeDistrictsNames": [
+      "Cox's Bazar",
+      "কক্সবাজার"
     ],
     "division": "Chattogram",
     "category": [
@@ -179,6 +215,10 @@
     "districts": [
       "Bandarban"
     ],
+    "alternativeDistrictsNames": [
+      "Bandarban",
+      "বান্দরবান"
+    ],
     "division": "Chattogram",
     "category": [
       "Waterfalls",
@@ -198,6 +238,10 @@
     "districts": [
       "Rangamati"
     ],
+    "alternativeDistrictsNames": [
+      "Rangamati",
+      "রাঙ্গামাটি"
+    ],
     "division": "Chattogram",
     "category": [
       "Mountains"
@@ -216,6 +260,10 @@
     "districts": [
       "Dhaka"
     ],
+    "alternativeDistrictsNames": [
+      "Dhaka",
+      "ঢাকা"
+    ],
     "division": "Dhaka",
     "category": [
       "Theme Parks"
@@ -233,6 +281,10 @@
     "district": "Chattogram",
     "districts": [
       "Chattogram"
+    ],
+    "alternativeDistrictsNames": [
+      "Chattogram",
+      "চট্টগ্রাম"
     ],
     "division": "Chattogram",
     "category": [
@@ -253,6 +305,10 @@
     "districts": [
       "Bagerhat"
     ],
+    "alternativeDistrictsNames": [
+      "Bagerhat",
+      "বাগেরহাট"
+    ],
     "division": "Khulna",
     "category": [
       "Heritages",
@@ -272,6 +328,10 @@
     "district": "Dhaka",
     "districts": [
       "Dhaka"
+    ],
+    "alternativeDistrictsNames": [
+      "Dhaka",
+      "ঢাকা"
     ],
     "division": "Dhaka",
     "category": [
@@ -294,6 +354,10 @@
     "districts": [
       "Gazipur"
     ],
+    "alternativeDistrictsNames": [
+      "Gazipur",
+      "গাজীপুর"
+    ],
     "division": "Dhaka",
     "category": [
       "National Parks",
@@ -314,6 +378,10 @@
     "districts": [
       "Narayanganj"
     ],
+    "alternativeDistrictsNames": [
+      "Narayanganj",
+      "নারায়ণগঞ্জ"
+    ],
     "division": "Dhaka",
     "category": [
       "Museums",
@@ -332,6 +400,10 @@
     "district": "Netrokona",
     "districts": [
       "Netrokona"
+    ],
+    "alternativeDistrictsNames": [
+      "Netrokona",
+      "নেত্রকোনা"
     ],
     "division": "Mymensingh",
     "category": [
@@ -353,6 +425,10 @@
     "districts": [
       "Rajshahi"
     ],
+    "alternativeDistrictsNames": [
+      "Rajshahi",
+      "রাজশাহী"
+    ],
     "division": "Rajshahi",
     "category": [
       "Heritages",
@@ -372,6 +448,10 @@
     "districts": [
       "Panchagarh"
     ],
+    "alternativeDistrictsNames": [
+      "Panchagarh",
+      "পঞ্চগড়"
+    ],
     "division": "Rangpur",
     "category": [
       "Mountains"
@@ -390,6 +470,10 @@
     "districts": [
       "Chattogram"
     ],
+    "alternativeDistrictsNames": [
+      "Chattogram",
+      "চট্টগ্রাম"
+    ],
     "division": "Chattogram",
     "category": [
       "Mountains"
@@ -407,6 +491,10 @@
     "district": "Khagrachhari",
     "districts": [
       "Khagrachhari"
+    ],
+    "alternativeDistrictsNames": [
+      "Khagrachhari",
+      "খাগড়াছড়ি"
     ],
     "division": "Chattogram",
     "category": [
@@ -431,6 +519,10 @@
     "districts": [
       "Dhaka"
     ],
+    "alternativeDistrictsNames": [
+      "Dhaka",
+      "ঢাকা"
+    ],
     "division": "Dhaka",
     "category": [
       "Museums"
@@ -448,6 +540,10 @@
     "district": "Kishoregonj",
     "districts": [
       "Kishoregonj"
+    ],
+    "alternativeDistrictsNames": [
+      "Kishoregonj",
+      "কিশোরগঞ্জ"
     ],
     "division": "Dhaka",
     "category": [
@@ -467,6 +563,10 @@
     "district": "Moulvibazar",
     "districts": [
       "Moulvibazar"
+    ],
+    "alternativeDistrictsNames": [
+      "Moulvibazar",
+      "মৌলভীবাজার"
     ],
     "division": "Sylhet",
     "category": [
@@ -489,6 +589,10 @@
     "districts": [
       "Sylhet"
     ],
+    "alternativeDistrictsNames": [
+      "Sylhet",
+      "সিলেট"
+    ],
     "division": "Sylhet",
     "category": [
       "Monuments"
@@ -506,6 +610,10 @@
     "district": "Kishoregonj",
     "districts": [
       "Kishoregonj"
+    ],
+    "alternativeDistrictsNames": [
+      "Kishoregonj",
+      "কিশোরগঞ্জ"
     ],
     "division": "Dhaka",
     "category": [
@@ -526,6 +634,10 @@
     "districts": [
       "Moulvibazar"
     ],
+    "alternativeDistrictsNames": [
+      "Moulvibazar",
+      "মৌলভীবাজার"
+    ],
     "division": "Sylhet",
     "category": [
       "Lakes",
@@ -544,6 +656,10 @@
     "district": "Khagrachhari",
     "districts": [
       "Khagrachhari"
+    ],
+    "alternativeDistrictsNames": [
+      "Khagrachhari",
+      "খাগড়াছড়ি"
     ],
     "division": "Chattogram",
     "category": [
@@ -564,6 +680,10 @@
     "districts": [
       "Patuakhali"
     ],
+    "alternativeDistrictsNames": [
+      "Patuakhali",
+      "পটুয়াখালী"
+    ],
     "division": "Barisal",
     "category": [
       "Beaches"
@@ -581,6 +701,10 @@
     "district": "Barisal",
     "districts": [
       "Barisal"
+    ],
+    "alternativeDistrictsNames": [
+      "Barisal",
+      "বরিশাল"
     ],
     "division": "Barisal",
     "category": [
@@ -601,6 +725,10 @@
     "districts": [
       "Bhola"
     ],
+    "alternativeDistrictsNames": [
+      "Bhola",
+      "ভোলা"
+    ],
     "division": "Barisal",
     "category": [
       "Islands",
@@ -619,6 +747,10 @@
     "district": "Jhalokati",
     "districts": [
       "Jhalokati"
+    ],
+    "alternativeDistrictsNames": [
+      "Jhalokati",
+      "ঝালকাঠি"
     ],
     "division": "Barisal",
     "category": [
@@ -640,6 +772,10 @@
     "districts": [
       "Barguna"
     ],
+    "alternativeDistrictsNames": [
+      "Barguna",
+      "বরগুনা"
+    ],
     "division": "Barisal",
     "category": [
       "Museums"
@@ -657,6 +793,10 @@
     "district": "Pirojpur",
     "districts": [
       "Pirojpur"
+    ],
+    "alternativeDistrictsNames": [
+      "Pirojpur",
+      "পিরোজপুর"
     ],
     "division": "Barisal",
     "category": [
@@ -677,6 +817,10 @@
     "districts": [
       "Brahmanbaria"
     ],
+    "alternativeDistrictsNames": [
+      "Brahmanbaria",
+      "ব্রাহ্মণবাড়িয়া"
+    ],
     "division": "Chattogram",
     "category": [
       "Fairs"
@@ -694,6 +838,10 @@
     "district": "Chandpur",
     "districts": [
       "Chandpur"
+    ],
+    "alternativeDistrictsNames": [
+      "Chandpur",
+      "চাঁদপুর"
     ],
     "division": "Chattogram",
     "category": [
@@ -715,6 +863,10 @@
     "districts": [
       "Comilla"
     ],
+    "alternativeDistrictsNames": [
+      "Comilla",
+      "কুমিল্লা"
+    ],
     "division": "Chattogram",
     "category": [
       "Heritages",
@@ -734,6 +886,10 @@
     "districts": [
       "Feni"
     ],
+    "alternativeDistrictsNames": [
+      "Feni",
+      "ফেনী"
+    ],
     "division": "Chattogram",
     "category": [
       "Lakes"
@@ -752,6 +908,10 @@
     "districts": [
       "Laxmipur"
     ],
+    "alternativeDistrictsNames": [
+      "Laxmipur",
+      "লক্ষ্মীপুর"
+    ],
     "division": "Chattogram",
     "category": [
       "Beaches"
@@ -769,6 +929,10 @@
     "district": "Noakhali",
     "districts": [
       "Noakhali"
+    ],
+    "alternativeDistrictsNames": [
+      "Noakhali",
+      "নোয়াখালী"
     ],
     "division": "Chattogram",
     "category": [
@@ -790,6 +954,10 @@
     "districts": [
       "Faridpur"
     ],
+    "alternativeDistrictsNames": [
+      "Faridpur",
+      "ফরিদপুর"
+    ],
     "division": "Dhaka",
     "category": [
       "River Banks"
@@ -807,6 +975,10 @@
     "district": "Gopalganj",
     "districts": [
       "Gopalganj"
+    ],
+    "alternativeDistrictsNames": [
+      "Gopalganj",
+      "গোপালগঞ্জ"
     ],
     "division": "Dhaka",
     "category": [
@@ -829,6 +1001,10 @@
     "districts": [
       "Madaripur"
     ],
+    "alternativeDistrictsNames": [
+      "Madaripur",
+      "মাদারীপুর"
+    ],
     "division": "Dhaka",
     "category": [
       "Heritages",
@@ -849,6 +1025,10 @@
     "districts": [
       "Manikganj"
     ],
+    "alternativeDistrictsNames": [
+      "Manikganj",
+      "মানিকগঞ্জ"
+    ],
     "division": "Dhaka",
     "category": [
       "Heritages",
@@ -868,6 +1048,10 @@
     "districts": [
       "Munshiganj"
     ],
+    "alternativeDistrictsNames": [
+      "Munshiganj",
+      "মুন্সীগঞ্জ"
+    ],
     "division": "Dhaka",
     "category": [
       "River Banks"
@@ -886,6 +1070,10 @@
     "districts": [
       "Narsingdi"
     ],
+    "alternativeDistrictsNames": [
+      "Narsingdi",
+      "নরসিংদী"
+    ],
     "division": "Dhaka",
     "category": [
       "Theme Parks"
@@ -903,6 +1091,10 @@
     "district": "Rajbari",
     "districts": [
       "Rajbari"
+    ],
+    "alternativeDistrictsNames": [
+      "Rajbari",
+      "রাজবাড়ী"
     ],
     "division": "Dhaka",
     "category": [
@@ -923,6 +1115,10 @@
     "districts": [
       "Shariatpur"
     ],
+    "alternativeDistrictsNames": [
+      "Shariatpur",
+      "শরীয়তপুর"
+    ],
     "division": "Dhaka",
     "category": [
       "Theme Parks"
@@ -940,6 +1136,10 @@
     "district": "Tangail",
     "districts": [
       "Tangail"
+    ],
+    "alternativeDistrictsNames": [
+      "Tangail",
+      "টাঙ্গাইল"
     ],
     "division": "Dhaka",
     "category": [
