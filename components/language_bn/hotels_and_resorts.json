@@ -3,7 +3,15 @@
         "id": "hr0001",
         "title": "সী পার্ল বীচ রিসোর্ট",
         "onImageTitle": "Sea Pearl",
+        "alternativeTitles": [
+            "Sea Pearl Resort",
+            "সী পার্ল বীচ রিসোর্ট"
+        ],
         "district": "কক্সবাজার",
+        "alternativeDistrictNames": [
+            "Cox's Bazar",
+            "কক্সবাজার"
+        ],
         "division": "চট্টগ্রাম",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -14,7 +22,15 @@
         "id": "hr0002",
         "title": "ইন্টারকন্টিনেন্টাল ঢাকা",
         "onImageTitle": "Intercontinental",
+        "alternativeTitles": [
+            "Intercontinental Dhaka",
+            "ইন্টারকন্টিনেন্টাল ঢাকা"
+        ],
         "district": "ঢাকা",
+        "alternativeDistrictNames": [
+            "Dhaka",
+            "ঢাকা"
+        ],
         "division": "ঢাকা",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -25,7 +41,15 @@
         "id": "hr0003",
         "title": "ভেনাস রিসোর্ট",
         "onImageTitle": "Venus",
+        "alternativeTitles": [
+            "Venus Resort",
+            "ভেনাস রিসোর্ট"
+        ],
         "district": "বান্দরবন",
+        "alternativeDistrictNames": [
+            "Bandarban",
+            "বান্দরবন"
+        ],
         "division": "চট্টগ্রাম",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -36,7 +60,15 @@
         "id": "hr0004",
         "title": "রেডিসন ব্লু চট্টগ্রাম",
         "onImageTitle": "Raddison Blue",
+        "alternativeTitles": [
+            "Raddison Blue Chattogram",
+            "রেডিসন ব্লু চট্টগ্রাম"
+        ],
         "district": "চট্টগ্রাম",
+        "alternativeDistrictNames": [
+            "Chattogram",
+            "চট্টগ্রাম"
+        ],
         "division": "চট্টগ্রাম",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -47,7 +79,15 @@
         "id": "hr0005",
         "title": "প্যান প্যাসিফিক সোনারগাঁও",
         "onImageTitle": "Sonargaon",
+        "alternativeTitles": [
+            "Pan Pacific Sonargaon",
+            "প্যান প্যাসিফিক সোনারগাঁও"
+        ],
         "district": "ঢাকা",
+        "alternativeDistrictNames": [
+            "Dhaka",
+            "ঢাকা"
+        ],
         "division": "ঢাকা",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -58,7 +98,15 @@
         "id": "hr0006",
         "title": "ওশিয়ানস প্যারাডাইস",
         "onImageTitle": "Ocean Paradise",
+        "alternativeTitles": [
+            "Ocean Paradise Hotel",
+            "ওশিয়ান প্যারাডাইস"
+        ],
         "district": "কক্সবাজার",
+        "alternativeDistrictNames": [
+            "Cox's Bazar",
+            "কক্সবাজার"
+        ],
         "division": "চট্টগ্রাম",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -69,7 +117,15 @@
         "id": "hr0007",
         "title": "বটমহিল প্যালেস হোটেল",
         "onImageTitle": "Bottomhill Palace",
+        "alternativeTitles": [
+            "Bottomhill Palace Hotel",
+            "বটমহিল প্যালেস হোটেল"
+        ],
         "district": "সিলেট",
+        "alternativeDistrictNames": [
+            "Sylhet",
+            "সিলেট"
+        ],
         "division": "সিলেট",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -80,7 +136,15 @@
         "id": "hr0008",
         "title": "রোজ গার্ডেন গেস্ট হাউস",
         "onImageTitle": "Rose Garden",
+        "alternativeTitles": [
+            "Rose Garden Guest House",
+            "রোজ গার্ডেন গেস্ট হাউস"
+        ],
         "district": "খুলনা",
+        "alternativeDistrictNames": [
+            "Khulna",
+            "খুলনা"
+        ],
         "division": "খুলনা",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -91,7 +155,15 @@
         "id": "hr0009",
         "title": "হোটেল গ্র্যান্ড পার্ক",
         "onImageTitle": "Hotel Grand Park",
+        "alternativeTitles": [
+            "Hotel Grand Park",
+            "হোটেল গ্র্যান্ড পার্ক"
+        ],
         "district": "বরিশাল",
+        "alternativeDistrictNames": [
+            "Barisal",
+            "বরিশাল"
+        ],
         "division": "বরিশাল",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -102,7 +174,15 @@
         "id": "hr0010",
         "title": "হোটেল সোনার বাংলা",
         "onImageTitle": "Hotel Sonar Bangla",
+        "alternativeTitles": [
+            "Hotel Sonar Bangla",
+            "হোটেল সোনার বাংলা"
+        ],
         "district": "রাঙ্গামাটি",
+        "alternativeDistrictNames": [
+            "Rangamati",
+            "রাঙ্গামাটি"
+        ],
         "division": "চট্টগ্রাম",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -113,7 +193,15 @@
         "id": "hr0011",
         "title": "লিটল রাঙ্গপুর ইন",
         "onImageTitle": "Little Rangpur Inn",
+        "alternativeTitles": [
+            "Little Rangpur Inn",
+            "লিটল রাঙ্গপুর ইন"
+        ],
         "district": "রংপুর",
+        "alternativeDistrictNames": [
+            "Rangpur",
+            "রংপুর"
+        ],
         "division": "রংপুর",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -124,7 +212,15 @@
         "id": "hr0012",
         "title": "হোটেল এক্স রাজশাহী",
         "onImageTitle": "Hotel X Rajshahi",
+        "alternativeTitles": [
+            "Hotel X Rajshahi",
+            "হোটেল এক্স রাজশাহী"
+        ],
         "district": "রাজশাহী",
+        "alternativeDistrictNames": [
+            "Rajshahi",
+            "রাজশাহী"
+        ],
         "division": "রাজশাহী",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -135,7 +231,15 @@
         "id": "hr0013",
         "title": "হোটেল এলিট প্যালেস",
         "onImageTitle": "Hotel Elite Palace",
+        "alternativeTitles": [
+            "Hotel Elite Palace",
+            "হোটেল এলিট প্যালেস"
+        ],
         "districts": "কুমিল্লা",
+        "alternativeDistrictNames": [
+            "Comilla",
+            "কুমিল্লা"
+        ],
         "division": "চট্টগ্রাম",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -146,7 +250,15 @@
         "id": "hr0014",
         "title": "হোটেল ভ্যালেন্টিনো",
         "onImageTitle": "Hotel Valentino",
+        "alternativeTitles": [
+            "Hotel Valentino",
+            "হোটেল ভ্যালেন্টিনো"
+        ],
         "district": "নোয়াখালী",
+        "alternativeDistrictNames": [
+            "Noakhali",
+            "নোয়াখালী"
+        ],
         "division": "চট্টগ্রাম",
         "category": [
             "হোটেল ও রিসোর্ট"
@@ -157,7 +269,15 @@
         "id": "hr0015",
         "title": "হোটেল হিলটন",
         "onImageTitle": "Hotel Hilton",
+        "alternativeTitles": [
+            "Hotel Hilton",
+            "হোটেল হিলটন"
+        ],
         "district": "পটুয়াখালী",
+        "alternativeDistrictNames": [
+            "Patuakhali",
+            "পটুয়াখালী"
+        ],
         "division": "বরিশাল",
         "category": [
             "হোটেল ও রিসোর্ট"
