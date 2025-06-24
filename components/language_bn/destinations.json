@@ -103,11 +103,17 @@
     ],
     "district": "খুলনা",
     "districts": [
-      "খুলনা"
+      "খুলনা",
+      "বাগেরহাট",
+      "সাতক্ষীরা"
     ],
     "alternativeDistrictsNames": [
       "Khulna",
-      "খুলনা"
+      "Bagerhat",
+      "Satkhira",
+      "খুলনা",
+      "বাগেরহাট",
+      "সাতক্ষীরা"
     ],
     "division": "খুলনা",
     "category": [
@@ -680,11 +686,14 @@
     ],
     "district": "মৌলভীবাজার",
     "districts": [
-      "মৌলভীবাজার"
+      "মৌলভীবাজার",
+      "সিলেট"
     ],
     "alternativeDistrictsNames": [
       "Moulvibazar",
-      "মৌলভীবাজার"
+      "Sylhet",
+      "মৌলভীবাজার",
+      "সিলেট"
     ],
     "division": "সিলেট",
     "category": [
