@@ -17,7 +17,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Beaches"
+      "Beaches",
+      "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1mjpuHlyhVcZPLZcfhzqmqMM5MVus9kwm"
   },
@@ -40,7 +41,9 @@
     "division": "Chattogram",
     "category": [
       "Beaches",
-      "Islands"
+      "Islands",
+      "সী বীচ",
+      "দ্বীপ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1dPSOSdpTtKC88RHyaKsKCq0V8RxLE7vL"
   },
@@ -62,7 +65,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Lakes"
+      "Lakes",
+      "লেক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1T5shyzOirMqutw4cpOQgMBpvlvfyn9fu"
   },
@@ -84,7 +88,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Mountains"
+      "Mountains",
+      "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1SHGq0gXEwMHoGofofMaGl8cQxQJKWmXW"
   },
@@ -107,7 +112,9 @@
     "division": "Khulna",
     "category": [
       "Forests",
-      "River Banks"
+      "River Banks",
+      "বন-জঙ্গল",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=10B--YHUK3jgdJDiiXWXKOLlv_JYGKkjK"
   },
@@ -129,7 +136,8 @@
     ],
     "division": "Sylhet",
     "category": [
-      "Lakes"
+      "Lakes",
+      "লেক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ZWoy0eXePDH6WTJ5fANruAL8QywXZyxC"
   },
@@ -153,7 +161,10 @@
     "category": [
       "Waterfalls",
       "Mountains",
-      "River Banks"
+      "River Banks",
+      "ঝর্ণা",
+      "পাহাড়-পর্বত",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1cac32Pi3RfP2Z4ncaVh_iCfPVEo7MvWi"
   },
@@ -176,7 +187,9 @@
     "division": "Khulna",
     "category": [
       "Forests",
-      "River Banks"
+      "River Banks",
+      "বন-জঙ্গল",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ReySY2jNnHY8nwApjWb3X3N9PVhhohOu"
   },
@@ -199,7 +212,9 @@
     "division": "Chattogram",
     "category": [
       "Beaches",
-      "Mountains"
+      "Mountains",
+      "সী বীচ",
+      "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1cYxqGK1Nxb4CFfde7Ti3aYpJsdS1y7Co"
   },
@@ -222,7 +237,9 @@
     "division": "Chattogram",
     "category": [
       "Waterfalls",
-      "Mountains"
+      "Mountains",
+      "ঝর্ণা",
+      "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1qVo1HbGD7w9bfxQZxu4S2T311p3kgDG0"
   },
@@ -244,7 +261,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Mountains"
+      "Mountains",
+      "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1wJOAfaXQw5unjy7S--ZvnR7oyv-D_ieM"
   },
@@ -266,7 +284,8 @@
     ],
     "division": "Dhaka",
     "category": [
-      "Theme Parks"
+      "Theme Parks",
+      "থিম-পার্ক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ml8KmS7XM-xVewSImIAacrBZuAWJfDg6"
   },
@@ -288,7 +307,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Beaches"
+      "Beaches",
+      "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ng3PIVT8tkM7KUsKsf6rD39SE_2A3Bot"
   },
@@ -312,7 +332,9 @@
     "division": "Khulna",
     "category": [
       "Heritages",
-      "Monuments"
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=11WJgeeY5tCdDshBRYKW2xrfewGhuj15A"
   },
@@ -336,7 +358,9 @@
     "division": "Dhaka",
     "category": [
       "Heritages",
-      "Monuments"
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1rWQXGS-a9_Ji6NpuFvUjkHCh7Mxy-YfC"
   },
@@ -362,7 +386,10 @@
     "category": [
       "National Parks",
       "Zoos",
-      "Museums"
+      "Museums",
+      "জাতীয়-উদ্যান",
+      "চিড়িয়াখানা",
+      "জাদুঘর"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1t3mPmS7DRkof6uqAQNzuTC5p3oe9_RUS"
   },
@@ -385,7 +412,9 @@
     "division": "Dhaka",
     "category": [
       "Museums",
-      "Heritages"
+      "Heritages",
+      "জাদুঘর",
+      "ঐতিহ্যবাহী"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1K864tAHbZlfmRaVUho3sujWNw5pLqSO1"
   },
@@ -409,7 +438,10 @@
     "category": [
       "Mountains",
       "River Banks",
-      "Lakes"
+      "Lakes",
+      "পাহাড়-পর্বত",
+      "নদীর-পাড়",
+      "লেক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1IpKsafk3ESY6InjkFt-fDT15Hi3kHw6O"
   },
@@ -432,7 +464,9 @@
     "division": "Rajshahi",
     "category": [
       "Heritages",
-      "Monuments"
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1-nho5aGos_8KxpvZf7n3uqT_R9_sV3FU"
   },
@@ -454,7 +488,8 @@
     ],
     "division": "Rangpur",
     "category": [
-      "Mountains"
+      "Mountains",
+      "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1RsXBBQ6cVAvo53ROpQ1TWzOPdF4g_Biz"
   },
@@ -476,7 +511,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Mountains"
+      "Mountains",
+      "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=14XL1P4ccP7Px7UUeVGm2-zSmTqxHxZMz"
   },
@@ -499,7 +535,9 @@
     "division": "Chattogram",
     "category": [
       "Mountains",
-      "Waterfalls"
+      "Waterfalls",
+      "পাহাড়-পর্বত",
+      "ঝর্ণা"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1XQExOgqNZXxoQOFzQ_xp_UHX9vXpgmLR"
   },
@@ -525,7 +563,8 @@
     ],
     "division": "Dhaka",
     "category": [
-      "Museums"
+      "Museums",
+      "জাদুঘর"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1MFdEPZRAHOFJZ81Vx2RWxaW5T6BcZhrP"
   },
@@ -548,7 +587,9 @@
     "division": "Dhaka",
     "category": [
       "Lakes",
-      "River Banks"
+      "River Banks",
+      "লেক",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1PilVbRjJkSTyWsaFo65itvPHT0KY6t9F"
   },
@@ -571,7 +612,9 @@
     "division": "Sylhet",
     "category": [
       "Mountains",
-      "Waterfalls"
+      "Waterfalls",
+      "পাহাড়-পর্বত",
+      "ঝর্ণা"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1KRhEF3T5WwrSER1ujM_svUyh_bjKPsEX"
   },
@@ -595,7 +638,8 @@
     ],
     "division": "Sylhet",
     "category": [
-      "Monuments"
+      "Monuments",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=13lFWxYJ757fgBSwkqElorc5ttNJAF9Vk"
   },
@@ -618,7 +662,9 @@
     "division": "Dhaka",
     "category": [
       "Lakes",
-      "River Banks"
+      "River Banks",
+      "লেক",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1_ZL6keTjC-LwE2GGgu5o5qcqprm88sNV"
   },
@@ -641,7 +687,9 @@
     "division": "Sylhet",
     "category": [
       "Lakes",
-      "River Banks"
+      "River Banks",
+      "লেক",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ndKIFGHjKMCUakzgi844rec7AuLUfuiH"
   },
@@ -664,7 +712,9 @@
     "division": "Chattogram",
     "category": [
       "Mountains",
-      "Forests"
+      "Forests",
+      "পাহাড়-পর্বত",
+      "বন-জঙ্গল"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1DIZW3bvvYsWVnP9grKTEwxufjES_PgVd"
   },
@@ -686,7 +736,8 @@
     ],
     "division": "Barisal",
     "category": [
-      "Beaches"
+      "Beaches",
+      "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ibMwTdTzRbLbOYN-NiiJQgEBWECnAr5P"
   },
@@ -709,7 +760,9 @@
     "division": "Barisal",
     "category": [
       "National Parks",
-      "Lakes"
+      "Lakes",
+      "জাতীয়-উদ্যান",
+      "লেক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1JhETsMtIzs622NbrmrMLSiE3UBG-aD7s"
   },
@@ -732,7 +785,9 @@
     "division": "Barisal",
     "category": [
       "Islands",
-      "Beaches"
+      "Beaches",
+      "দ্বীপ",
+      "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1P1lQrRoiUU90PRpjOIU21gKUMvH19WJJ"
   },
@@ -754,7 +809,8 @@
     ],
     "division": "Barisal",
     "category": [
-      "River Banks"
+      "River Banks",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1h413scQnYFuOwgNC0Vl-xzEDgo5UbRGQ"
   },
@@ -778,7 +834,8 @@
     ],
     "division": "Barisal",
     "category": [
-      "Museums"
+      "Museums",
+      "জাদুঘর"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1SNErHepRs4XPEPZzW7w07MZ531qVIJ-Z"
   },
@@ -801,7 +858,9 @@
     "division": "Barisal",
     "category": [
       "Theme Parks",
-      "National Parks"
+      "National Parks",
+      "থিম-পার্ক",
+      "জাতীয়-উদ্যান"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1iDsRM_OuHAUoj_NkAkm1l74IM_O-aDqE"
   },
@@ -823,7 +882,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Fairs"
+      "Fairs",
+      "মেলা"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ZMscM0h0OsLO_pCC9OgVH90_7pQpGHnG"
   },
@@ -846,7 +906,9 @@
     "division": "Chattogram",
     "category": [
       "Heritages",
-      "Monuments"
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ssKVsC-CmVCv5ED9gJd07EZNwT0OQJdm"
   },
@@ -870,7 +932,9 @@
     "division": "Chattogram",
     "category": [
       "Heritages",
-      "Monuments"
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1Q90rCyVNWHCRidKMdwbbogb31L5m5_XB"
   },
@@ -892,7 +956,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Lakes"
+      "Lakes",
+      "লেক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=14558lMt5plp_tkzMjC1cO6Pc7t5wIB_8"
   },
@@ -914,7 +979,8 @@
     ],
     "division": "Chattogram",
     "category": [
-      "Beaches"
+      "Beaches",
+      "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1YnnjNjWRW3oXEp4SK3wnqV329f1qNZIb"
   },
@@ -938,7 +1004,10 @@
     "category": [
       "Islands",
       "Forests",
-      "Beaches"
+      "Beaches",
+      "দ্বীপ",
+      "বন-জঙ্গল",
+      "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1s_pRgrp9v0DdL3ZfegPeD0HQrNIhXQvh"
   },
@@ -960,7 +1029,8 @@
     ],
     "division": "Dhaka",
     "category": [
-      "River Banks"
+      "River Banks",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1Lgy8f5lwYOmTVT9piUp5wIwkr-rPrY3P"
   },
@@ -982,7 +1052,8 @@
     ],
     "division": "Dhaka",
     "category": [
-      "Monuments"
+      "Monuments",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1H1Zhil0dwm3JvQK4ouDhd5fBAQZDYyXm"
   },
@@ -1008,7 +1079,9 @@
     "division": "Dhaka",
     "category": [
       "Heritages",
-      "Monuments"
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ZlIIzjfIFdqQH-1FgHM-a8uKrLA86zDH"
   },
@@ -1032,7 +1105,9 @@
     "division": "Dhaka",
     "category": [
       "Heritages",
-      "Monuments"
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1NeG3shmnokYIIVsCKPqQrEtdFV3EQEQh"
   },
@@ -1054,7 +1129,8 @@
     ],
     "division": "Dhaka",
     "category": [
-      "River Banks"
+      "River Banks",
+      "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1UL8UKiywmFAXF4fe6p3oVKMU9sEC7HXV"
   },
@@ -1076,7 +1152,8 @@
     ],
     "division": "Dhaka",
     "category": [
-      "Theme Parks"
+      "Theme Parks",
+      "থিম-পার্ক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1Vexd_8eY2EoeSQVJ_a9L6h7Hu4vKyZyP"
   },
@@ -1099,7 +1176,9 @@
     "division": "Dhaka",
     "category": [
       "Museums",
-      "Heritages"
+      "Heritages",
+      "জাদুঘর",
+      "ঐতিহ্যবাহী"
     ],
     "image": "https://drive.google.com/uc?export=view&id=15A2UWcHMECkLDWbDmbGs6nX8PFFCxrdI"
   },
@@ -1121,7 +1200,8 @@
     ],
     "division": "Dhaka",
     "category": [
-      "Theme Parks"
+      "Theme Parks",
+      "থিম-পার্ক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=19vFFBBBmDIfNNwXiUhJNSKB0WD-YRHin"
   },
@@ -1144,7 +1224,9 @@
     "division": "Dhaka",
     "category": [
       "Heritages",
-      "Monuments"
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1tYiph5zhJkUkicTSOO6A3oIY6EgNRLBV"
   }

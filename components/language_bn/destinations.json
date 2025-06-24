@@ -17,6 +17,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Beaches",
       "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1mjpuHlyhVcZPLZcfhzqmqMM5MVus9kwm"
@@ -39,6 +40,8 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Beaches",
+      "Islands",
       "সী বীচ",
       "দ্বীপ"
     ],
@@ -62,6 +65,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Lakes",
       "লেক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1T5shyzOirMqutw4cpOQgMBpvlvfyn9fu"
@@ -84,6 +88,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Mountains",
       "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1SHGq0gXEwMHoGofofMaGl8cQxQJKWmXW"
@@ -106,6 +111,8 @@
     ],
     "division": "খুলনা",
     "category": [
+      "Forests",
+      "River Banks",
       "বন-জঙ্গল",
       "নদীর-পাড়"
     ],
@@ -129,6 +136,7 @@
     ],
     "division": "সিলেট",
     "category": [
+      "Lakes",
       "লেক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ZWoy0eXePDH6WTJ5fANruAL8QywXZyxC"
@@ -151,6 +159,9 @@
     ],
     "division": "সিলেট",
     "category": [
+      "Waterfalls",
+      "Mountains",
+      "River Banks",
       "ঝর্ণা",
       "পাহাড়-পর্বত",
       "নদীর-পাড়"
@@ -175,6 +186,8 @@
     ],
     "division": "খুলনা",
     "category": [
+      "Forests",
+      "River Banks",
       "বন-জঙ্গল",
       "নদীর-পাড়"
     ],
@@ -198,6 +211,8 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Beaches",
+      "River Banks",
       "সী বীচ",
       "পাহাড়-পর্বত"
     ],
@@ -221,6 +236,8 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Waterfalls",
+      "Mountains",
       "ঝর্ণা",
       "পাহাড়-পর্বত"
     ],
@@ -244,6 +261,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Mountains",
       "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1wJOAfaXQw5unjy7S--ZvnR7oyv-D_ieM"
@@ -266,6 +284,7 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Theme Parks",
       "থিম-পার্ক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ml8KmS7XM-xVewSImIAacrBZuAWJfDg6"
@@ -288,6 +307,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Beaches",
       "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ng3PIVT8tkM7KUsKsf6rD39SE_2A3Bot"
@@ -311,6 +331,8 @@
     ],
     "division": "খুলনা",
     "category": [
+      "Heritages",
+      "Monuments",
       "ঐতিহ্যবাহী",
       "স্মৃতিস্তম্ভ"
     ],
@@ -335,6 +357,8 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Heritages",
+      "Monuments",
       "ঐতিহ্যবাহী",
       "স্মৃতিস্তম্ভ"
     ],
@@ -360,6 +384,9 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "National Parks",
+      "Zoos",
+      "Museums",
       "জাতীয়-উদ্যান",
       "চিড়িয়াখানা",
       "জাদুঘর"
@@ -384,6 +411,8 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Museums",
+      "Heritages",
       "জাদুঘর",
       "ঐতিহ্যবাহী"
     ],
@@ -407,6 +436,9 @@
     ],
     "division": "ময়মনসিংহ",
     "category": [
+      "Monuments",
+      "River Banks",
+      "Lakes",
       "পাহাড়-পর্বত",
       "নদীর-পাড়",
       "লেক"
@@ -431,6 +463,8 @@
     ],
     "division": "রাজশাহী",
     "category": [
+      "Heritages",
+      "Monuments",
       "ঐতিহ্যবাহী",
       "স্মৃতিস্তম্ভ"
     ],
@@ -454,6 +488,7 @@
     ],
     "division": "রংপুর",
     "category": [
+      "Mountains",
       "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1RsXBBQ6cVAvo53ROpQ1TWzOPdF4g_Biz"
@@ -476,6 +511,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Mountains",
       "পাহাড়-পর্বত"
     ],
     "image": "https://drive.google.com/uc?export=view&id=14XL1P4ccP7Px7UUeVGm2-zSmTqxHxZMz"
@@ -498,6 +534,8 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Mountains",
+      "Waterfalls",
       "পাহাড়-পর্বত",
       "ঝর্ণা"
     ],
@@ -525,6 +563,7 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Museums",
       "জাদুঘর"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1MFdEPZRAHOFJZ81Vx2RWxaW5T6BcZhrP"
@@ -547,6 +586,8 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Lakes",
+      "River Banks",
       "লেক",
       "নদীর-পাড়"
     ],
@@ -570,6 +611,8 @@
     ],
     "division": "সিলেট",
     "category": [
+      "Mountains",
+      "Waterfalls",
       "পাহাড়-পর্বত",
       "ঝর্ণা"
     ],
@@ -595,6 +638,7 @@
     ],
     "division": "সিলেট",
     "category": [
+      "Monuments",
       "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=13lFWxYJ757fgBSwkqElorc5ttNJAF9Vk"
@@ -617,6 +661,8 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Lakes",
+      "River Banks",
       "লেক",
       "নদীর-পাড়"
     ],
@@ -640,6 +686,8 @@
     ],
     "division": "সিলেট",
     "category": [
+      "Lakes",
+      "River Banks",
       "লেক",
       "নদীর-পাড়"
     ],
@@ -663,6 +711,8 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Mountains",
+      "Forests",
       "পাহাড়-পর্বত",
       "বন-জঙ্গল"
     ],
@@ -686,6 +736,7 @@
     ],
     "division": "বরিশাল",
     "category": [
+      "Beaches",
       "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ibMwTdTzRbLbOYN-NiiJQgEBWECnAr5P"
@@ -708,6 +759,8 @@
     ],
     "division": "বরিশাল",
     "category": [
+      "National Parks",
+      "Lakes",
       "জাতীয়-উদ্যান",
       "লেক"
     ],
@@ -731,6 +784,8 @@
     ],
     "division": "বরিশাল",
     "category": [
+      "Islands",
+      "Beaches",
       "দ্বীপ",
       "সী বীচ"
     ],
@@ -754,6 +809,7 @@
     ],
     "division": "বরিশাল",
     "category": [
+      "River Banks",
       "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1h413scQnYFuOwgNC0Vl-xzEDgo5UbRGQ"
@@ -778,6 +834,7 @@
     ],
     "division": "বরিশাল",
     "category": [
+      "Museums",
       "জাদুঘর"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1SNErHepRs4XPEPZzW7w07MZ531qVIJ-Z"
@@ -800,6 +857,8 @@
     ],
     "division": "Barisal",
     "category": [
+      "Theme Parks",
+      "National Parks",
       "থিম-পার্ক",
       "জাতীয়-উদ্যান"
     ],
@@ -823,6 +882,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Fairs",
       "মেলা"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1ZMscM0h0OsLO_pCC9OgVH90_7pQpGHnG"
@@ -845,6 +905,8 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Heritages",
+      "Monuments",
       "ঐতিহ্যবাহী",
       "স্মৃতিস্তম্ভ"
     ],
@@ -869,6 +931,8 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Heritages",
+      "Monuments",
       "ঐতিহ্যবাহী",
       "স্মৃতিস্তম্ভ"
     ],
@@ -892,6 +956,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Lakes",
       "লেক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=14558lMt5plp_tkzMjC1cO6Pc7t5wIB_8"
@@ -914,6 +979,7 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Beaches",
       "সী বীচ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1YnnjNjWRW3oXEp4SK3wnqV329f1qNZIb"
@@ -936,6 +1002,9 @@
     ],
     "division": "চট্টগ্রাম",
     "category": [
+      "Islands",
+      "Forests",
+      "Beaches",
       "দ্বীপ",
       "বন-জঙ্গল",
       "সী বীচ"
@@ -960,6 +1029,7 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "River Banks",
       "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1Lgy8f5lwYOmTVT9piUp5wIwkr-rPrY3P"
@@ -982,6 +1052,7 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Monuments",
       "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1H1Zhil0dwm3JvQK4ouDhd5fBAQZDYyXm"
@@ -1007,6 +1078,8 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Heritages",
+      "Monuments",
       "ঐতিহ্যবাহী",
       "স্মৃতিস্তম্ভ"
     ],
@@ -1031,6 +1104,8 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Heritages",
+      "Monuments",
       "ঐতিহ্যবাহী",
       "স্মৃতিস্তম্ভ"
     ],
@@ -1054,6 +1129,7 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "River Banks",
       "নদীর-পাড়"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1UL8UKiywmFAXF4fe6p3oVKMU9sEC7HXV"
@@ -1076,6 +1152,7 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Theme Parks",
       "থিম-পার্ক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1Vexd_8eY2EoeSQVJ_a9L6h7Hu4vKyZyP"
@@ -1098,6 +1175,8 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Museums",
+      "Heritages",
       "জাদুঘর",
       "ঐতিহ্যবাহী"
     ],
@@ -1121,6 +1200,7 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Theme Parks",
       "থিম-পার্ক"
     ],
     "image": "https://drive.google.com/uc?export=view&id=19vFFBBBmDIfNNwXiUhJNSKB0WD-YRHin"
@@ -1143,6 +1223,8 @@
     ],
     "division": "ঢাকা",
     "category": [
+      "Heritages",
+      "Monuments",
       "ঐতিহ্যবাহী",
       "স্মৃতিস্তম্ভ"
     ],
