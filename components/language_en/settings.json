@@ -29,6 +29,7 @@
         "whatsapp": "+880 1533-377296"
     },
     "privacy_policy": {
+        "url": "https://www.dristi360.com/en/privacypolicy",
         "description": "Read our privacy policy to learn more about how we handle your data.",
         "policies": [
             "Your privacy is important to us. We handle all data with care and never share it with third parties without your consent.",
@@ -36,6 +37,7 @@
         ]
     },
     "terms_services": {
+        "url": "https://www.dristi360.com/en/termscondition",
         "description": "Read the terms and conditions for using our app.",
         "terms": [
             "By using the Dristi app, you agree to our terms and services. Please review them carefully.",
