@@ -1240,5 +1240,251 @@
       "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1tYiph5zhJkUkicTSOO6A3oIY6EgNRLBV"
+  },
+  {
+    "id": "ds0051",
+    "title": "আলমডাঙ্গা বধ্যভূমি",
+    "onImageTitle": "Alamdanga Boddhovhumi",
+    "alternativeTitles": [
+      "আলমডাঙ্গা বধ্যভূমি",
+      "Alamdanga Boddhovhumi"
+    ],
+    "district": "চুয়াডাঙ্গা",
+    "districts": [
+      "চুয়াডাঙ্গা"
+    ],
+    "alternativeDistrictsNames": [
+      "Chuadanga",
+      "চুয়াডাঙ্গা"
+    ],
+    "division": "খুলনা",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1cAO-41Ic6P_PkvjdFUv8Jb4vGzvgFHpZ"
+  },
+  {
+    "id": "ds0052",
+    "title": "যশোর রোড",
+    "onImageTitle": "Jashore Road",
+    "alternativeTitles": [
+      "যশোর রোড",
+      "Jashore Road"
+    ],
+    "district": "যশোর",
+    "districts": [
+      "যশোর"
+    ],
+    "alternativeDistrictsNames": [
+      "Jashore",
+      "যশোর"
+    ],
+    "division": "খুলনা",
+    "category": [
+      "Heritages",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1KMBKjh0JzWctQ3hWkzDNcfOLYtOAUUhV"
+  },
+  {
+    "id": "ds0053",
+    "title": "খালিশপুর নীলকুঠি",
+    "onImageTitle": "Khalishpur Nilkuthi",
+    "alternativeTitles": [
+      "খালিশপুর নীলকুঠি",
+      "Khalishpur Nilkuthi"
+    ],
+    "district": "ঝিনাইদহ",
+    "districts": [
+      "ঝিনাইদহ"
+    ],
+    "alternativeDistrictsNames": [
+      "Jhenaidah",
+      "ঝিনাইদহ"
+    ],
+    "division": "খুলনা",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1bZY_uWRckgjK3vuGucToFwEy9O4m0pmJ"
+  },
+  {
+    "id": "ds0054",
+    "title": "শিলাইদহ কুঠিবাড়ি",
+    "onImageTitle": "Shilaidaha Kuthibari",
+    "alternativeTitles": [
+      "শিলাইদহ কুঠিবাড়ি",
+      "Shilaidaha Kuthibari"
+    ],
+    "district": "কুষ্টিয়া",
+    "districts": [
+      "কুষ্টিয়া"
+    ],
+    "alternativeDistrictsNames": [
+      "Kushtia",
+      "কুষ্টিয়া"
+    ],
+    "division": "খুলনা",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ",
+      "জাদুঘর"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1o4w4AN6IEjIyw-KxdjIIb0xWMDG3x_PP"
+  },
+  {
+    "id": "ds0055",
+    "title": "সিদ্ধেশ্বরী মঠ",
+    "onImageTitle": "Siddheshwari Math",
+    "alternativeTitles": [
+      "সিদ্ধেশ্বরী মঠ",
+      "Siddheshwari Math"
+    ],
+    "district": "মাগুরা",
+    "districts": [
+      "মাগুরা"
+    ],
+    "alternativeDistrictsNames": [
+      "Magura",
+      "মাগুরা"
+    ],
+    "division": "খুলনা",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1D3H0w6ZjehfOYVhXyFSfkyFAS2MtHuwC"
+  },
+  {
+    "id": "ds0056",
+    "title": "মুজিবনগর কমপ্লেক্স",
+    "onImageTitle": "Mujibnagar Complex",
+    "alternativeTitles": [
+      "মুজিবনগর কমপ্লেক্স",
+      "Mujibnagar Complex"
+    ],
+    "district": "মেহেরপুর",
+    "districts": [
+      "মেহেরপুর"
+    ],
+    "alternativeDistrictsNames": [
+      "Meherpur",
+      "মেহেরপুর"
+    ],
+    "division": "খুলনা",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1c1E2ERzYARqrhxDy5B5bOfeIOix7fPmd"
+  },
+  {
+    "id": "ds0057",
+    "title": "নূর মোহাম্মদ শেখ কমপ্লেক্স",
+    "onImageTitle": "Nur Mohammad  Complex",
+    "alternativeTitles": [
+      "নূর মোহাম্মদ শেখ কমপ্লেক্স",
+      "Nur Mohammad Sheikh Complex"
+    ],
+    "district": "নড়াইল",
+    "districts": [
+      "নড়াইল"
+    ],
+    "alternativeDistrictsNames": [
+      "Narail",
+      "নড়াইল"
+    ],
+    "division": "খুলনা",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1ekLg5oFQ-5I9O8p-Qs33LhldCfFByfyE"
+  },
+  {
+    "id": "ds0058",
+    "title": "মন্দারবাড়িয়া সী বিচ",
+    "onImageTitle": "Mandarbaria Beach",
+    "alternativeTitles": [
+      "মন্দারবাড়িয়া সী বিচ",
+      "Mandarbaria Sea Beach"
+    ],
+    "district": "সাতক্ষীরা",
+    "districts": [
+      "সাতক্ষীরা"
+    ],
+    "alternativeDistrictsNames": [
+      "Satkhira",
+      "সাতক্ষীরা"
+    ],
+    "division": "খুলনা",
+    "category": [
+      "Beaches",
+      "সী বীচ"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1gXaUYachlrBtShD2GAXDeuOKOAUYm1HV"
+  },
+  {
+    "id": "ds0059",
+    "title": "লুইস ভিলেজ রিসোর্ট এন্ড পার্ক",
+    "onImageTitle": "Luis Village",
+    "alternativeTitles": [
+      "লুইস ভিলেজ রিসোর্ট এন্ড পার্ক",
+      "Luis Village Resort And Park"
+    ],
+    "district": "জামালপুর",
+    "districts": [
+      "জামালপুর"
+    ],
+    "alternativeDistrictsNames": [
+      "Jamalpur",
+      "জামালপুর"
+    ],
+    "division": "ময়মনসিংহ",
+    "category": [
+      "Theme Parks",
+      "থিম-পার্ক"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=12_GzfLX9eCrh1b_Jmbz9F_R9H0ezMuqH"
+  },
+  {
+    "id": "ds0060",
+    "title": "মুক্তাগাছা জমিদার বাড়ি",
+    "onImageTitle": "Muktagacha Palace",
+    "alternativeTitles": [
+      "মুক্তাগাছা জমিদার বাড়ি",
+      "Muktagacha Jamidar Palace"
+    ],
+    "district": "ময়মনসিংহ",
+    "districts": [
+      "ময়মনসিংহ"
+    ],
+    "alternativeDistrictsNames": [
+      "Mymensingh",
+      "ময়মনসিংহ"
+    ],
+    "division": "ময়মনসিংহ",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1WTqWc8enYmX1-C6PKxdYEUYGYfGT9sMc"
   }
 ]

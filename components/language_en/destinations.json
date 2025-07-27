@@ -1240,5 +1240,251 @@
       "স্মৃতিস্তম্ভ"
     ],
     "image": "https://drive.google.com/uc?export=view&id=1tYiph5zhJkUkicTSOO6A3oIY6EgNRLBV"
+  },
+  {
+    "id": "ds0051",
+    "title": "Alamdanga Boddhovhumi",
+    "onImageTitle": "Alamdanga Boddhovhumi",
+    "alternativeTitles": [
+      "আলমডাঙ্গা বধ্যভূমি",
+      "Alamdanga Boddhovhumi"
+    ],
+    "district": "Chuadanga",
+    "districts": [
+      "Chuadanga"
+    ],
+    "alternativeDistrictsNames": [
+      "Chuadanga",
+      "চুয়াডাঙ্গা"
+    ],
+    "division": "Khulna",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1cAO-41Ic6P_PkvjdFUv8Jb4vGzvgFHpZ"
+  },
+  {
+    "id": "ds0052",
+    "title": "Jashore Road",
+    "onImageTitle": "Jashore Road",
+    "alternativeTitles": [
+      "যশোর রোড",
+      "Jashore Road"
+    ],
+    "district": "Jashore",
+    "districts": [
+      "Jashore"
+    ],
+    "alternativeDistrictsNames": [
+      "Jashore",
+      "যশোর"
+    ],
+    "division": "Khulna",
+    "category": [
+      "Heritages",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1KMBKjh0JzWctQ3hWkzDNcfOLYtOAUUhV"
+  },
+  {
+    "id": "ds0053",
+    "title": "Khalishpur Nilkuthi",
+    "onImageTitle": "Khalishpur Nilkuthi",
+    "alternativeTitles": [
+      "খালিশপুর নীলকুঠি",
+      "Khalishpur Nilkuthi"
+    ],
+    "district": "Jhenaidah",
+    "districts": [
+      "Jhenaidah"
+    ],
+    "alternativeDistrictsNames": [
+      "Jhenaidah",
+      "ঝিনাইদহ"
+    ],
+    "division": "Khulna",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1bZY_uWRckgjK3vuGucToFwEy9O4m0pmJ"
+  },
+  {
+    "id": "ds0054",
+    "title": "Shilaidaha Kuthibari",
+    "onImageTitle": "Shilaidaha Kuthibari",
+    "alternativeTitles": [
+      "শিলাইদহ কুঠিবাড়ি",
+      "Shilaidaha Kuthibari"
+    ],
+    "district": "Kushtia",
+    "districts": [
+      "Kushtia"
+    ],
+    "alternativeDistrictsNames": [
+      "Kushtia",
+      "কুষ্টিয়া"
+    ],
+    "division": "Khulna",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী",
+      "স্মৃতিস্তম্ভ",
+      "জাদুঘর"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1o4w4AN6IEjIyw-KxdjIIb0xWMDG3x_PP"
+  },
+  {
+    "id": "ds0055",
+    "title": "Siddheshwari Math",
+    "onImageTitle": "Siddheshwari Math",
+    "alternativeTitles": [
+      "সিদ্ধেশ্বরী মঠ",
+      "Siddheshwari Math"
+    ],
+    "district": "Magura",
+    "districts": [
+      "Magura"
+    ],
+    "alternativeDistrictsNames": [
+      "Magura",
+      "মাগুরা"
+    ],
+    "division": "Khulna",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1D3H0w6ZjehfOYVhXyFSfkyFAS2MtHuwC"
+  },
+  {
+    "id": "ds0056",
+    "title": "Mujibnagar Complex",
+    "onImageTitle": "Mujibnagar Complex",
+    "alternativeTitles": [
+      "মুজিবনগর কমপ্লেক্স",
+      "Mujibnagar Complex"
+    ],
+    "district": "Meherpur",
+    "districts": [
+      "Meherpur"
+    ],
+    "alternativeDistrictsNames": [
+      "Meherpur",
+      "মেহেরপুর"
+    ],
+    "division": "Khulna",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1c1E2ERzYARqrhxDy5B5bOfeIOix7fPmd"
+  },
+  {
+    "id": "ds0057",
+    "title": "Nur Mohammad Sheikh Complex",
+    "onImageTitle": "Nur Mohammad Complex",
+    "alternativeTitles": [
+      "নূর মোহাম্মদ শেখ কমপ্লেক্স",
+      "Nur Mohammad Sheikh Complex"
+    ],
+    "district": "Narail",
+    "districts": [
+      "Narail"
+    ],
+    "alternativeDistrictsNames": [
+      "Narail",
+      "নড়াইল"
+    ],
+    "division": "Khulna",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1ekLg5oFQ-5I9O8p-Qs33LhldCfFByfyE"
+  },
+  {
+    "id": "ds0058",
+    "title": "Mandarbaria Sea Beach",
+    "onImageTitle": "Mandarbaria Beach",
+    "alternativeTitles": [
+      "মন্দারবাড়িয়া সী বিচ",
+      "Mandarbaria Sea Beach"
+    ],
+    "district": "Satkhira",
+    "districts": [
+      "Satkhira"
+    ],
+    "alternativeDistrictsNames": [
+      "Satkhira",
+      "সাতক্ষীরা"
+    ],
+    "division": "Khulna",
+    "category": [
+      "Beaches",
+      "সী বীচ"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1gXaUYachlrBtShD2GAXDeuOKOAUYm1HV"
+  },
+  {
+    "id": "ds0059",
+    "title": "Luis Village Resort And Park",
+    "onImageTitle": "Luis Village",
+    "alternativeTitles": [
+      "লুইস ভিলেজ রিসোর্ট এন্ড পার্ক",
+      "Luis Village Resort And Park"
+    ],
+    "district": "Jamalpur",
+    "districts": [
+      "Jamalpur"
+    ],
+    "alternativeDistrictsNames": [
+      "Jamalpur",
+      "জামালপুর"
+    ],
+    "division": "Mymensingh",
+    "category": [
+      "Theme Parks",
+      "থিম-পার্ক"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=12_GzfLX9eCrh1b_Jmbz9F_R9H0ezMuqH"
+  },
+  {
+    "id": "ds0060",
+    "title": "Muktagacha Jamidar Palace",
+    "onImageTitle": "Muktagacha Palace",
+    "alternativeTitles": [
+      "মুক্তাগাছা জমিদার বাড়ি",
+      "Muktagacha Jamidar Palace"
+    ],
+    "district": "Mymensingh",
+    "districts": [
+      "Mymensingh"
+    ],
+    "alternativeDistrictsNames": [
+      "Mymensingh",
+      "ময়মনসিংহ"
+    ],
+    "division": "Mymensingh",
+    "category": [
+      "Heritages",
+      "Monuments",
+      "Museums",
+      "ঐতিহ্যবাহী"
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1WTqWc8enYmX1-C6PKxdYEUYGYfGT9sMc"
   }
 ]
