@@ -1,0 +1,45 @@
+{
+    "id": "ds0058",
+    "title": "Mandarbaria Sea Beach",
+    "onImageTitle": "Mandarbaria Beach",
+    "alternativeTitles": [
+        "মন্দারবাড়িয়া সী বিচ",
+        "Mandarbaria Sea Beach"
+    ],
+    "district": "Satkhira",
+    "districts": [
+        "Satkhira"
+    ],
+    "division": "Khulna",
+    "category": [
+        "Beaches"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Mandarbaria+Sea+Beach/@21.7021096,89.0978735,12z/data=!4m10!1m2!2m1!1sMandarbaria+Sea+Beach!3m6!1s0x3a0105a662e6a04b:0xeaf7daba1225dbe4!8m2!3d21.6668169!4d89.266179!15sChVNYW5kYXJiYXJpYSBTZWEgQmVhY2iSARJ0b3VyaXN0X2F0dHJhY3Rpb26qAT4QATIfEAEiGy6kW4QiLaqg8ndCo8DXZtlII2p3ZQB04OpVnTIZEAIiFW1hbmRhcmJhcmlhIHNlYSBiZWFjaOABAA!16s%2Fg%2F11pdvxscgx?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+    "iFrameMapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118624.50676144876!2d89.09787351912398!3d21.7021096087663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0105a662e6a04b%3A0xeaf7daba1225dbe4!2sMandarbaria%20Sea%20Beach!5e0!3m2!1sen!2sbd!4v1753637403252!5m2!1sen!2sbd",
+    "details": "Mandarbaria Sea Beach in Satkhira offers a unique coastal experience where the Sundarbans meet the Bay of Bengal. This emerging ecotourism destination features a distinctive black sand coastline formed by mangrove sediments, stretching 8km along Bangladesh's southwestern frontier. The beach is renowned for its dramatic tidal variations that reveal vast mudflats teeming with horseshoe crabs and migratory shorebirds. Accessible only by traditional wooden boats through narrow mangrove channels, the beach provides opportunities for guided kayaking through mangrove tunnels, mudflat walking during low tide, and witnessing traditional crab harvesting by local communities. Conservation initiatives protect nesting sites of endangered olive ridley sea turtles, while the nearby Sundarbans buffer creates a serene, crowd-free environment ideal for nature immersion.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1gXaUYachlrBtShD2GAXDeuOKOAUYm1HV",
+            "credit": "Travelmate"
+        }
+    ],
+    "seasons": [
+        "November–February: Ideal for birdwatching and comfortable exploration.",
+        "March–May: Turtle nesting observation opportunities.",
+        "Avoid Monsoon (June–September): High tides and frequent storms make visits hazardous."
+    ],
+    "cautions": [
+        "Hire local guides for mangrove creek navigation.",
+        "Check tidal schedules before mudflat walking.",
+        "Do not disturb turtle nesting sites (marked areas).",
+        "Carry sufficient drinking water and sun protection."
+    ],
+    "specials": [
+        "Geological Uniqueness: Bangladesh's only black sand beach.",
+        "Biodiversity Hotspot: Habitat for endangered horseshoe crabs and migratory birds.",
+        "Cultural Interaction: Witness traditional crab harvesting techniques.",
+        "Conservation Site: Protected olive ridley turtle nesting grounds.",
+        "Adventure Access: Boat-only approach through narrow mangrove channels."
+    ],
+    "blogs": []
+}
