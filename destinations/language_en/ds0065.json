@@ -1,0 +1,55 @@
+{
+    "id": "ds0065",
+    "title": "Chalan Beel",
+    "onImageTitle": "Chalan Beel",
+    "alternativeTitles": [
+        "চলন বিল",
+        "Chalan Beel"
+    ],
+    "district": "Natore",
+    "districts": [
+        "Natore",
+        "Pabna",
+        "Sirajganj"
+    ],
+    "division": "Rajshahi",
+    "category": [
+        "Lakes",
+        "River Banks"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Chalan+Beel/@24.4576102,88.921904,10z/data=!3m1!4b1!4m6!3m5!1s0x39fc24ff24f08f41:0xaa93d1ca8eadedd6!8m2!3d24.3086066!4d89.2657266!16s%2Fm%2F02rw0rm?entry=ttu&g_ep=EgoyMDI2MDIwMS4wIKXMDSoASAFQAw%3D%3D",
+    "iFrameMapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d464870.8175418635!2d88.92190401499285!3d24.45761016398956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fc24ff24f08f41%3A0xaa93d1ca8eadedd6!2sChalan%20Beel!5e0!3m2!1sen!2sbd!4v1770193727310!5m2!1sen!2sbd",
+    "details": "Chalan Beel is the largest wetland in Bangladesh, spanning across three districts: Natore, Pabna, and Sirajganj in the Rajshahi division. This vast freshwater ecosystem covers an area that varies seasonally from about 26 square kilometers in the dry season to over 368 square kilometers during the monsoon. The beel (wetland) is formed by the confluence of several rivers including the Atrai, Baral, and Gur, creating a unique aquatic habitat that supports rich biodiversity and sustains thousands of fishing communities.\n\nTo reach Chalan Beel, travelers can take buses from Dhaka to Natore, Pabna, or Sirajganj, with journey times ranging from 4-6 hours depending on the destination. From these towns, local transportation can take visitors to various access points around the beel. The best way to experience Chalan Beel is by hiring a country boat to explore the waterways, observe wildlife, and visit fishing villages built on the water's edge.\n\nChalan Beel is a paradise for bird watchers and nature enthusiasts, hosting over 200 species of birds including migratory waterfowl that arrive during winter months. The wetland is also home to numerous fish species, making it one of Bangladesh's most important inland fisheries. During the monsoon season, the beel transforms into a vast inland sea dotted with fishing boats, while in the dry season, it becomes a patchwork of smaller water bodies surrounded by lush vegetation and agricultural lands.\n\nThe local communities around Chalan Beel have developed unique lifestyles adapted to the seasonal flooding cycles. Visitors can witness traditional fishing techniques, including the use of various nets, traps, and fishing methods passed down through generations. The area is also known for its production of water lilies, lotus flowers, and aquatic vegetables. Sunset boat rides across the beel offer spectacular views and opportunities to experience the tranquil beauty of this vast wetland ecosystem.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1z6gZSugDH5VVZ625W1JYxPpsy6820ckq",
+            "credit": "Visit Bangladesh"
+        }
+    ],
+    "seasons": [
+        "Winter (November to February): The best time for bird watching as migratory birds arrive in large numbers. Pleasant weather is ideal for boat trips and wildlife observation.",
+        "Monsoon (June to September): The beel is at its fullest extent, creating a spectacular inland sea. Ideal for experiencing the wetland's true grandeur, though boat travel requires caution.",
+        "Spring (March to May): Water levels recede, revealing lush vegetation and creating excellent fishing conditions. Lotus flowers bloom, adding beauty to the landscape."
+    ],
+    "cautions": [
+        "Hire experienced local boatmen who know the waterways and seasonal conditions.",
+        "Wear life jackets when traveling by boat, especially during monsoon season.",
+        "Protect yourself from sun exposure with hats, sunglasses, and sunscreen.",
+        "Bring insect repellent as mosquitoes can be prevalent near water bodies.",
+        "Respect local fishing communities and their traditional practices.",
+        "Do not disturb nesting birds or wildlife habitats.",
+        "Be cautious during monsoon season when water levels can rise rapidly.",
+        "Carry drinking water and snacks as facilities are limited in remote areas."
+    ],
+    "specials": [
+        "Largest wetland in Bangladesh with seasonal variations creating diverse ecosystems.",
+        "Over 200 bird species including rare migratory waterfowl during winter months.",
+        "Important inland fishery supporting thousands of fishing families.",
+        "Traditional fishing techniques and unique water-based communities.",
+        "Spectacular sunset views across the vast expanse of water.",
+        "Lotus and water lily blooms creating colorful natural displays.",
+        "Opportunities for boat trips through scenic waterways and channels.",
+        "Rich biodiversity including numerous fish species and aquatic plants."
+    ],
+    "blogs": []
+}

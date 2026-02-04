@@ -1,0 +1,57 @@
+{
+    "id": "ds0068",
+    "title": "Shatchari National Park",
+    "onImageTitle": "Shatchari National Park",
+    "alternativeTitles": [
+        "সাতছড়ি জাতীয় উদ্যান",
+        "Shatchari National Park",
+        "Satchari National Park"
+    ],
+    "district": "Habiganj",
+    "districts": [
+        "Habiganj"
+    ],
+    "division": "Sylhet",
+    "category": [
+        "National Parks",
+        "Forests"
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Satchari+National+Park/@24.1246503,91.4420089,17z/data=!3m1!4b1!4m6!3m5!1s0x3753e1f7f2e89c53:0x6c3640bde486e35d!8m2!3d24.1246454!4d91.4445892!16s%2Fm%2F0bmc334?entry=ttu&g_ep=EgoyMDI2MDIwMS4wIKXMDSoASAFQAw%3D%3D",
+    "iFrameMapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3641.3412738684956!2d91.442008911154!3d24.124650274215327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3753e1f7f2e89c53%3A0x6c3640bde486e35d!2sSatchari%20National%20Park!5e0!3m2!1sen!2sbd!4v1770230007038!5m2!1sen!2sbd",
+    "details": "Shatchari National Park, located in Habiganj district of Sylhet division, is one of Bangladesh's most biodiverse protected areas. Established as a national park in 2005, this 243-hectare reserve is part of the greater Lawachara-Satchari forest corridor and represents one of the last remaining patches of tropical semi-evergreen forest in the country. The park's name 'Satchari' means 'seven streams,' referring to the numerous natural streams that flow through the forest, creating a lush and vibrant ecosystem.\n\nTo reach Shatchari National Park, travelers can take a bus or train from Dhaka to Habiganj, which takes approximately 4-5 hours. From Habiganj town, the park is about 60 kilometers away and can be reached by local bus or hired vehicle to Chunarughat upazila. The journey passes through tea gardens, rubber plantations, and rural villages, offering scenic views of Sylhet's distinctive landscape.\n\nThe park is home to an incredible diversity of wildlife, including several endangered and threatened species. Visitors may encounter the Western Hoolock Gibbon, one of Bangladesh's only ape species, along with Capped Langurs, Slow Loris, and various species of macaques. The forest harbors over 200 species of birds, making it a paradise for birdwatchers, including rare species like the Oriental Pied Hornbill and various woodpeckers. The park also supports diverse reptiles, amphibians, and countless insect species.\n\nShatchari offers well-maintained nature trails that wind through the dense forest, allowing visitors to experience the rich biodiversity up close. The park features several watchtowers and observation points where wildlife enthusiasts can observe animals in their natural habitat. Local guides, many from indigenous Tripura communities, are available to lead forest walks and share their extensive knowledge of the flora, fauna, and traditional uses of forest resources. The park's conservation efforts include community-based initiatives that involve local people in protecting this precious ecosystem while providing sustainable livelihood opportunities.",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1tM0NHD1yWvVYbWBMBQvS4pIUcMgrIlry",
+            "credit": "Rj Koushik"
+        }
+    ],
+    "seasons": [
+        "Winter (November to February): The best time to visit with cool, dry weather ideal for trekking and wildlife observation. Animals are more active and visible during this season.",
+        "Spring (March to May): Pleasant weather with blooming flowers and active wildlife. Good for bird watching as many species are in breeding season.",
+        "Monsoon (June to September): The forest is at its lushest, but trails can be muddy and slippery. Wildlife viewing may be challenging, but the experience is magical for nature lovers."
+    ],
+    "cautions": [
+        "Hire an experienced local guide as the forest trails can be confusing and it's easy to get lost.",
+        "Wear sturdy hiking boots and long pants to protect against leeches, especially during monsoon season.",
+        "Carry insect repellent and be prepared for mosquitoes and other insects.",
+        "Do not feed or attempt to touch wild animals; maintain a safe distance.",
+        "Stay on designated trails to minimize environmental impact and avoid disturbing wildlife.",
+        "Bring sufficient water and snacks as facilities inside the park are limited.",
+        "Respect indigenous communities and their customs; always ask permission before photographing people.",
+        "Be aware of weather conditions and avoid visiting during heavy rainfall when trails become dangerous.",
+        "Do not litter; carry all waste out of the park to help preserve this pristine environment."
+    ],
+    "specials": [
+        "Home to the endangered Western Hoolock Gibbon, Bangladesh's only ape species.",
+        "Over 200 bird species including rare Oriental Pied Hornbills and various woodpeckers.",
+        "Seven natural streams flowing through the forest creating a unique aquatic ecosystem.",
+        "Well-maintained nature trails with watchtowers for wildlife observation.",
+        "Rich biodiversity with numerous endangered and threatened species.",
+        "Indigenous Tripura community guides offering authentic forest experiences.",
+        "Part of the important Lawachara-Satchari forest corridor for wildlife conservation.",
+        "Tropical semi-evergreen forest, one of the last remaining in Bangladesh.",
+        "Community-based conservation initiatives involving local people.",
+        "Opportunities to observe primates, birds, and diverse flora in natural habitat."
+    ],
+    "blogs": []
+}
